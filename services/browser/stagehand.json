@@ -1,0 +1,20 @@
+{
+  "name": "Stagehand",
+  "vendor": "Browserbase",
+  "category": "browser",
+  "description": "AI-native browser automation framework built on Playwright. Uses LLMs to understand and act on web pages. Agents describe what they want to do in natural language.",
+  "agent_native_score": 5,
+  "protocols": ["SDK"],
+  "capabilities": ["navigate", "act", "extract", "observe", "screenshot"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "open-source + hosted",
+  "open_source": true,
+  "url": "https://github.com/browserbase/stagehand",
+  "github": "https://github.com/browserbase/stagehand",
+  "source": "https://github.com/browserbase/stagehand",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Natural language web automation. act(), extract(), observe() primitives.",
+  "tags": ["browser", "web-automation", "llm-native", "open-source"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Arcade AI",
+  "vendor": "Arcade AI",
+  "category": "tool-gateway",
+  "description": "Tool execution platform for AI agents with managed auth, permissions, and 50+ pre-built tool integrations. Handles OAuth flows so agents don't need to manage credentials.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": ["tool-execution", "auth-management", "permission-control", "oauth-delegation"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://arcade.ai",
+  "docs": "https://docs.arcade.ai",
+  "source": "https://arcade.ai",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Focuses on the auth/permissions problem — agents acting on behalf of users across tools.",
+  "tags": ["tool-gateway", "auth", "permissions", "agent-native"]
+}

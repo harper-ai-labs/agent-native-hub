@@ -1,0 +1,17 @@
+{
+  "name": "Composio",
+  "vendor": "Composio",
+  "category": "tool-gateway",
+  "description": "Tool integration platform giving agents access to 100+ SaaS tools through a unified interface with built-in auth, permissions, and routing.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "MCP"],
+  "capabilities": ["tool-routing", "auth-management", "trigger", "action-execution"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "freemium",
+  "open_source": false,
+  "url": "https://composio.dev",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["tool-gateway", "integrations", "orchestration"]
+}

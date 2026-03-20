@@ -1,0 +1,20 @@
+{
+  "name": "AgentMail",
+  "vendor": "AgentMail",
+  "category": "email",
+  "description": "API-first email platform built specifically for AI agents. Provides inboxes, send/receive, threading, search, labeling, and reply workflows as first-class agent primitives.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhooks"],
+  "capabilities": ["send", "receive", "thread", "search", "label", "reply", "parse"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://agentmail.to",
+  "docs": "https://docs.agentmail.to",
+  "source": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Raised $6M. Primary competitor in agent-native email space.",
+  "tags": ["email", "inbox", "agent-native", "communication"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Intercom Fin AI Agent",
+  "vendor": "Intercom",
+  "category": "support",
+  "description": "AI support agent that autonomously resolves customer inquiries. Fin reads knowledge base, handles conversations, escalates when needed, and learns from resolutions.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhooks"],
+  "capabilities": ["resolve-ticket", "answer-questions", "escalate", "knowledge-lookup", "handoff"],
+  "interaction_model": "human-in-the-loop",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://www.intercom.com/fin",
+  "source": "https://www.intercom.com/fin",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Intercom's AI agent product. $0.99/resolution pricing model.",
+  "tags": ["support", "customer-service", "ai-agent", "helpdesk"]
+}

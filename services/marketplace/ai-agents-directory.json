@@ -1,0 +1,17 @@
+{
+  "name": "AI Agents Directory",
+  "vendor": "AI Agents Directory",
+  "category": "marketplace",
+  "description": "Curated directory of AI agents organized by use case for discovery.",
+  "agent_native_score": 3,
+  "protocols": ["web"],
+  "capabilities": ["discover-agents"],
+  "interaction_model": "read-only",
+  "auth": "none",
+  "pricing": "free",
+  "open_source": false,
+  "url": "https://aiagentsdirectory.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["directory", "discovery"]
+}

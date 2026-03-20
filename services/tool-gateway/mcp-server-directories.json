@@ -1,0 +1,18 @@
+{
+  "name": "MCP Server Directories",
+  "vendor": "Community",
+  "category": "tool-gateway",
+  "description": "Collection of MCP server directories where agents can discover and connect to tool endpoints: apigene.ai, aiagentslist.com, mcpmarket.com.",
+  "agent_native_score": 5,
+  "protocols": ["MCP"],
+  "capabilities": ["tool-discovery", "tool-connection"],
+  "interaction_model": "autonomous",
+  "auth": "varies",
+  "pricing": "free",
+  "open_source": true,
+  "url": "https://mcpmarket.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Multiple directories: apigene.ai/blog/mcp-server-directory, aiagentslist.com/mcp-servers, mcpmarket.com",
+  "tags": ["mcp", "tool-discovery", "protocol"]
+}

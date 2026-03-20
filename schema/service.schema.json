@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Agent-Native Service",
+  "type": "object",
+  "required": ["name", "category", "description", "agent_native_score", "url", "verified"],
+  "properties": {
+    "name": {"type": "string"},
+    "vendor": {"type": "string"},
+    "category": {
+      "type": "string",
+      "enum": ["email", "calendar", "browser", "crm", "support", "messaging", "voice", "marketplace", "orchestration", "workflow", "tool-gateway"]
+    },
+    "description": {"type": "string"},
+    "agent_native_score": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "5=built for agents, 4=agent-first with some human UI, 3=usable by agents via API, 2=agent-adjacent, 1=mostly human-first"
+    },
+    "protocols": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "e.g. REST API, MCP, A2A, webhook, SDK, browser-automation"
+    },
+    "capabilities": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "What the agent can DO with this service"
+    },
+    "interaction_model": {
+      "type": "string",
+      "enum": ["read-only", "write-capable", "autonomous", "human-in-the-loop", "mixed"]
+    },
+    "auth": {"type": "string", "description": "API key, OAuth, bearer token, etc."},
+    "pricing": {"type": "string"},
+    "open_source": {"type": "boolean"},
+    "url": {"type": "string", "format": "uri"},
+    "docs": {"type": "string", "format": "uri"},
+    "github": {"type": "string"},
+    "source": {"type": "string", "description": "Evidence URL confirming agent-native status"},
+    "verified": {"type": "boolean"},
+    "last_verified": {"type": "string", "format": "date"},
+    "notes": {"type": "string"},
+    "tags": {"type": "array", "items": {"type": "string"}}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Agent.ai",
+  "vendor": "Agent.ai",
+  "category": "marketplace",
+  "description": "Marketplace for discovering and deploying AI agents across business use cases.",
+  "agent_native_score": 4,
+  "protocols": ["REST API"],
+  "capabilities": ["discover-agents", "deploy-agent", "invoke-agent"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "freemium",
+  "open_source": false,
+  "url": "https://agent.ai",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["marketplace", "discovery", "agents"]
+}

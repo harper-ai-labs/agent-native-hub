@@ -1,0 +1,20 @@
+{
+  "name": "Model Context Protocol (MCP)",
+  "vendor": "Anthropic (open standard)",
+  "category": "orchestration",
+  "description": "Open protocol for connecting AI agents to data sources and tools via a standardized client-server interface. The emerging standard for agent-tool integration.",
+  "agent_native_score": 5,
+  "protocols": ["MCP"],
+  "capabilities": ["tool-connection", "resource-access", "prompt-sharing", "sampling"],
+  "interaction_model": "autonomous",
+  "auth": "varies",
+  "pricing": "free",
+  "open_source": true,
+  "url": "https://modelcontextprotocol.io",
+  "github": "https://github.com/modelcontextprotocol",
+  "source": "https://modelcontextprotocol.io",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Emerging industry standard. Supported by Claude, OpenAI, many agent frameworks.",
+  "tags": ["protocol", "mcp", "standard", "tool-connection"]
+}

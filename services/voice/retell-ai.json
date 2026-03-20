@@ -1,0 +1,19 @@
+{
+  "name": "Retell AI",
+  "vendor": "Retell AI",
+  "category": "voice",
+  "description": "Platform for building conversational AI voice agents. Handles real-time voice synthesis, STT, interruption handling, and call management for autonomous phone agents.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhooks", "WebSocket"],
+  "capabilities": ["outbound-call", "inbound-call", "voice-synthesis", "transcription", "interruption-handling"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://www.retellai.com",
+  "docs": "https://docs.retellai.com",
+  "source": "https://www.retellai.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["voice", "phone", "conversation", "real-time"]
+}

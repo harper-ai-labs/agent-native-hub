@@ -1,0 +1,17 @@
+{
+  "name": "Zendesk AI Agent",
+  "vendor": "Zendesk",
+  "category": "support",
+  "description": "AI-powered support agent integrated with Zendesk. Handles ticket routing, automated responses, intent detection, and resolution suggestions.",
+  "agent_native_score": 3,
+  "protocols": ["REST API", "webhooks"],
+  "capabilities": ["route-ticket", "auto-respond", "classify-intent", "suggest-resolution", "escalate"],
+  "interaction_model": "human-in-the-loop",
+  "auth": "API key / OAuth",
+  "pricing": "enterprise",
+  "open_source": false,
+  "url": "https://www.zendesk.com/ai",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["support", "helpdesk", "ticketing", "customer-service"]
+}

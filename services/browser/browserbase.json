@@ -1,0 +1,20 @@
+{
+  "name": "Browserbase",
+  "vendor": "Browserbase",
+  "category": "browser",
+  "description": "Hosted browser infrastructure for AI agents. Provides headless Chrome instances with session management, stealth mode, and proxy support for reliable agent web automation.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "Playwright", "Puppeteer"],
+  "capabilities": ["navigate", "click", "fill-form", "scrape", "screenshot", "session-management", "stealth"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://www.browserbase.com",
+  "docs": "https://docs.browserbase.com",
+  "source": "https://www.browserbase.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Popular among AI agent frameworks. Used by Stagehand and many agent builders.",
+  "tags": ["browser", "web-automation", "infrastructure", "hosted"]
+}

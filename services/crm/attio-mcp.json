@@ -1,0 +1,19 @@
+{
+  "name": "Attio MCP Server",
+  "vendor": "Attio",
+  "category": "crm",
+  "description": "MCP server for Attio CRM. Agents can create and update contacts, companies, deals, notes, and run list operations. Attio is designed with an API-first approach making it well-suited for agent use.",
+  "agent_native_score": 5,
+  "protocols": ["MCP", "REST API"],
+  "capabilities": ["create-contact", "update-contact", "create-deal", "read-records", "add-notes", "list-management"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "freemium",
+  "open_source": false,
+  "url": "https://attio.com",
+  "source": "https://attio.com/blog/attio-mcp",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "API-first CRM. Best-in-class for agent integration among CRM tools.",
+  "tags": ["crm", "contacts", "deals", "mcp", "agent-native"]
+}

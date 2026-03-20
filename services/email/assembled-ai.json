@@ -1,0 +1,19 @@
+{
+  "name": "Assembled AI Email Agent",
+  "vendor": "Assembled",
+  "category": "email",
+  "description": "AI agent for support email: classifies, drafts, and resolves customer emails autonomously.",
+  "agent_native_score": 4,
+  "protocols": ["REST API"],
+  "capabilities": ["classify", "draft", "resolve", "route", "escalate"],
+  "interaction_model": "human-in-the-loop",
+  "auth": "API key",
+  "pricing": "enterprise",
+  "open_source": false,
+  "url": "https://www.assembled.com/features/ai-email-agent",
+  "source": "https://www.assembled.com/features/ai-email-agent",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Focused on customer support use case.",
+  "tags": ["email", "support", "customer-service"]
+}

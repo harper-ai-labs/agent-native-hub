@@ -1,0 +1,20 @@
+{
+  "name": "Vapi",
+  "vendor": "Vapi",
+  "category": "voice",
+  "description": "Voice AI infrastructure for building AI phone agents. Agents can make and receive calls, handle conversations, transfer calls, and integrate with backend systems.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhooks", "SDK"],
+  "capabilities": ["outbound-call", "inbound-call", "conversation", "call-transfer", "function-calling", "transcription"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://vapi.ai",
+  "docs": "https://docs.vapi.ai",
+  "source": "https://vapi.ai",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Leading voice AI platform for AI agents. Built-in LLM, STT, TTS integration.",
+  "tags": ["voice", "phone", "conversation", "agent-native"]
+}

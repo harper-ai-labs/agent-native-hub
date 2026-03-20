@@ -1,0 +1,18 @@
+{
+  "name": "LangGraph",
+  "vendor": "LangChain",
+  "category": "orchestration",
+  "description": "Graph-based agent orchestration framework for building stateful multi-agent workflows. Supports cycles, branching, human-in-the-loop, and persistent state.",
+  "agent_native_score": 5,
+  "protocols": ["SDK", "REST API"],
+  "capabilities": ["graph-orchestration", "stateful-agents", "multi-agent", "human-in-loop", "streaming"],
+  "interaction_model": "mixed",
+  "auth": "API key",
+  "pricing": "open-source + hosted",
+  "open_source": true,
+  "url": "https://langchain-ai.github.io/langgraph/",
+  "github": "https://github.com/langchain-ai/langgraph",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["orchestration", "sdk", "multi-agent", "stateful"]
+}

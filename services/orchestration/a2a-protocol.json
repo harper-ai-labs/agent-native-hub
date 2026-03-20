@@ -1,0 +1,17 @@
+{
+  "name": "A2A (Agent2Agent) Protocol",
+  "vendor": "Google (open standard)",
+  "category": "orchestration",
+  "description": "Open protocol for agent-to-agent communication, discovery via Agent Cards, and task delegation between AI agents.",
+  "agent_native_score": 5,
+  "protocols": ["A2A"],
+  "capabilities": ["agent-discovery", "task-delegation", "capability-advertisement"],
+  "interaction_model": "autonomous",
+  "auth": "varies",
+  "pricing": "free",
+  "open_source": true,
+  "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["protocol", "a2a", "agent-to-agent", "discovery"]
+}

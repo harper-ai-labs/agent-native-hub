@@ -1,0 +1,19 @@
+{
+  "name": "n8n",
+  "vendor": "n8n",
+  "category": "workflow",
+  "description": "Open-source workflow automation platform with native AI agent nodes. Agents can orchestrate complex multi-step automations across 400+ integrations.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhooks", "SDK"],
+  "capabilities": ["workflow-execution", "trigger", "condition", "loop", "ai-node", "data-transform"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "open-source + cloud",
+  "open_source": true,
+  "url": "https://n8n.io",
+  "github": "https://github.com/n8n-io/n8n",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "AI agent nodes built-in. Self-hostable. Popular with agent builders.",
+  "tags": ["workflow", "automation", "open-source", "integration"]
+}

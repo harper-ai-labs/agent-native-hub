@@ -1,0 +1,17 @@
+{
+  "name": "Oracle AI Agent Marketplace",
+  "vendor": "Oracle",
+  "category": "marketplace",
+  "description": "Enterprise agent marketplace from Oracle for discovering and deploying AI agents in business workflows.",
+  "agent_native_score": 4,
+  "protocols": ["REST API"],
+  "capabilities": ["discover-agents", "deploy-agent"],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "enterprise",
+  "open_source": false,
+  "url": "https://www.oracle.com/applications/fusion-ai/ai-agent-marketplace/",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["marketplace", "enterprise", "oracle"]
+}

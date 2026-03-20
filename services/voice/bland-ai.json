@@ -1,0 +1,19 @@
+{
+  "name": "Bland AI",
+  "vendor": "Bland AI",
+  "category": "voice",
+  "description": "AI phone calling platform for agents. Send and receive millions of phone calls with human-like AI voices. Purpose-built for autonomous agent calling workflows.",
+  "agent_native_score": 5,
+  "protocols": ["REST API"],
+  "capabilities": ["outbound-call", "inbound-call", "scripted-conversation", "scheduling", "lead-qualification"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": false,
+  "url": "https://www.bland.ai",
+  "source": "https://www.bland.ai",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "notes": "Scale-focused. Designed for high-volume autonomous calling.",
+  "tags": ["voice", "phone", "outbound", "scale"]
+}

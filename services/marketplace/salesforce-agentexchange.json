@@ -1,0 +1,17 @@
+{
+  "name": "Salesforce AgentExchange",
+  "vendor": "Salesforce",
+  "category": "marketplace",
+  "description": "Enterprise marketplace for discovering, purchasing, and deploying AI agents within Salesforce ecosystem.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": ["discover-agents", "deploy-agent", "invoke-agent", "crm-integration"],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "enterprise",
+  "open_source": false,
+  "url": "https://agentexchange.salesforce.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["marketplace", "enterprise", "salesforce", "crm"]
+}

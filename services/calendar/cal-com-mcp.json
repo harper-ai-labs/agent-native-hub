@@ -1,0 +1,19 @@
+{
+  "name": "Cal.com MCP Server",
+  "vendor": "Cal.com",
+  "category": "calendar",
+  "description": "Open-source scheduling infrastructure with MCP server support. Agents can book, reschedule, and cancel meetings via API or MCP protocol.",
+  "agent_native_score": 4,
+  "protocols": ["MCP", "REST API", "webhooks"],
+  "capabilities": ["book-meeting", "check-availability", "reschedule", "cancel", "manage-event-types"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "freemium",
+  "open_source": true,
+  "url": "https://cal.com",
+  "github": "https://github.com/calcom/cal.com",
+  "source": "https://cal.com/enterprise",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["calendar", "scheduling", "open-source", "mcp"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "OpenAI Agents SDK",
+  "vendor": "OpenAI",
+  "category": "orchestration",
+  "description": "Python SDK for building agentic systems with agents, tools, handoffs, and guardrails as core primitives.",
+  "agent_native_score": 5,
+  "protocols": ["SDK", "REST API"],
+  "capabilities": ["agent-creation", "tool-use", "handoff", "guardrails", "multi-agent"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "usage-based",
+  "open_source": true,
+  "url": "https://openai.github.io/openai-agents-python/",
+  "github": "https://github.com/openai/openai-agents-python",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["orchestration", "sdk", "multi-agent", "openai"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Make (formerly Integromat)",
+  "vendor": "Make",
+  "category": "workflow",
+  "description": "Visual workflow automation platform with AI module support. Agents can trigger and monitor complex scenarios across 1,500+ apps.",
+  "agent_native_score": 3,
+  "protocols": ["REST API", "webhooks"],
+  "capabilities": ["trigger-scenario", "monitor-run", "data-mapping", "conditional-routing"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "freemium",
+  "open_source": false,
+  "url": "https://www.make.com",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["workflow", "automation", "integration", "no-code"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vercel Labs agent-browser",
+  "vendor": "Vercel",
+  "category": "browser",
+  "description": "Open-source browser automation layer from Vercel Labs for AI agent web interaction.",
+  "agent_native_score": 5,
+  "protocols": ["SDK"],
+  "capabilities": ["navigate", "click", "fill-form", "scrape", "screenshot"],
+  "interaction_model": "autonomous",
+  "auth": "none",
+  "pricing": "free",
+  "open_source": true,
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "github": "https://github.com/vercel-labs/agent-browser",
+  "source": "https://github.com/vercel-labs/agent-browser",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["browser", "web-automation", "open-source"]
+}

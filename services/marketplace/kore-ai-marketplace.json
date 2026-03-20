@@ -1,0 +1,17 @@
+{
+  "name": "Kore.ai AI Agent Marketplace",
+  "vendor": "Kore.ai",
+  "category": "marketplace",
+  "description": "Enterprise AI agent marketplace for deploying conversational and task agents.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": ["discover-agents", "deploy-agent", "conversation"],
+  "interaction_model": "mixed",
+  "auth": "API key",
+  "pricing": "enterprise",
+  "open_source": false,
+  "url": "https://www.kore.ai/ai-marketplace",
+  "verified": true,
+  "last_verified": "2026-03-20",
+  "tags": ["marketplace", "enterprise", "conversational"]
+}
