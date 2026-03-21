@@ -1,0 +1,21 @@
+{
+  "name": "HiDreamClaw",
+  "vendor": "HiDream.ai",
+  "category": "tool-gateway",
+  "description": "First multimodal Claw application for image and video generation, designed for agent-native workflows in creative domains.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": ["image generation", "video generation", "multimodal processing"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Custom/pay-as-you-go",
+  "open_source": false,
+  "url": "https://hidream.ai",
+  "docs": null,
+  "github": null,
+  "source": "https://www.newsfilecorp.com/release/289385/AI-Agents-Enter-the-Vertical-Scenario-Era-HiDreamClaw-Launches-as-the-First-ImageandVideo-Native-Claw",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Very new launch (March 2026). Positioned as agent-native for creative workflows. Limited public documentation available.",
+  "tags": ["image-generation", "video-generation", "multimodal", "creative", "2026-launch"]
+}

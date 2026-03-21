@@ -1,0 +1,21 @@
+{
+  "name": "Dynatrace MCP Server",
+  "vendor": "Dynatrace",
+  "category": "tool-gateway",
+  "description": "MCP server providing agents with tools for integrating contextualized observability data and Dynatrace intelligence. Enables natural language querying, DQL execution, problem analysis, and vulnerability assessment.",
+  "agent_native_score": 4,
+  "protocols": ["MCP"],
+  "capabilities": ["observe application performance", "query Dynatrace Grail", "execute DQL queries", "retrieve problem details", "analyze vulnerabilities", "get intelligent insights"],
+  "interaction_model": "read-only",
+  "auth": "Dynatrace API token",
+  "pricing": "Enterprise (varies with Dynatrace plan)",
+  "open_source": false,
+  "url": "https://dynatrace.com",
+  "docs": "https://www.dynatrace.com/hub/detail/mcp-server-tools/",
+  "github": null,
+  "source": "https://www.dynatrace.com/hub/detail/mcp-server-tools/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "MCP server for observability platform. Enables agents to autonomously query and analyze application health and security.",
+  "tags": ["MCP", "observability", "monitoring", "security", "tool-gateway"]
+}

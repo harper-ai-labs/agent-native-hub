@@ -1,0 +1,21 @@
+{
+  "name": "Perplexity Comet",
+  "vendor": "Perplexity",
+  "category": "browser",
+  "description": "AI-native browser developed by Perplexity that replaces traditional URL bar with prompt box, enabling task delegation, automated research, and efficient tab management.",
+  "agent_native_score": 5,
+  "protocols": ["browser-automation", "REST API"],
+  "capabilities": ["autonomous web browsing", "research automation", "task delegation", "tab management", "information retrieval"],
+  "interaction_model": "autonomous",
+  "auth": "None (personal tool)",
+  "pricing": "Subscription-based",
+  "open_source": false,
+  "url": "https://perplexity.ai/comet",
+  "docs": "https://perplexity.ai/help",
+  "github": null,
+  "source": "https://seraphicsecurity.com/learn/ai-browser/top-5-agentic-browsers-in-2026-capabilities-and-security-risks/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Among first AI-native browsers to launch. Polished performance. Comet Assistant is autonomous. Core use case: agent-driven research and information gathering.",
+  "tags": ["browser", "autonomous", "research", "2026", "AI-native"]
+}

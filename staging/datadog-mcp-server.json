@@ -1,0 +1,21 @@
+{
+  "name": "Datadog MCP Server",
+  "vendor": "Datadog",
+  "category": "tool-gateway",
+  "description": "MCP server acting as a bridge between Datadog's observability data and AI agents, enabling agents to query and retrieve insights directly from AI-powered monitoring.",
+  "agent_native_score": 4,
+  "protocols": ["MCP"],
+  "capabilities": ["query observability data", "retrieve metrics", "analyze logs", "get insights", "monitor infrastructure"],
+  "interaction_model": "read-only",
+  "auth": "Datadog API token",
+  "pricing": "Enterprise (varies with Datadog plan)",
+  "open_source": false,
+  "url": "https://datadog.com",
+  "docs": "https://docs.datadoghq.com/bits_ai/mcp_server/",
+  "github": null,
+  "source": "https://docs.datadoghq.com/bits_ai/mcp_server/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "MCP server for Datadog observability platform. Enables agent access to monitoring and insights data.",
+  "tags": ["MCP", "observability", "monitoring", "tool-gateway"]
+}

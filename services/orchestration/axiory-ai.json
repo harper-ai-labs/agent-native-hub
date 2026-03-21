@@ -1,0 +1,21 @@
+{
+  "name": "Axiory.ai",
+  "vendor": "Axiory",
+  "category": "orchestration",
+  "description": "Platform enabling AI agents to interact with global financial markets through a standardized environment, supporting multiple asset classes and utilizing the Model Context Protocol (MCP).",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP"],
+  "capabilities": ["access global financial markets", "trade multiple asset classes", "real-time market data", "order execution"],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Custom",
+  "open_source": false,
+  "url": "https://axiory.ai",
+  "docs": "https://axiory.ai/docs",
+  "github": null,
+  "source": "https://etfexpress.com/2026/03/18/axiory-unveils-platform-built-for-ai-agents-to-trade-global-markets/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Explicitly marketed as 'built for AI agents', launched March 2026. Uses MCP protocol for standardized agent access.",
+  "tags": ["finance", "markets", "trading", "autonomous", "MCP", "2026-launch"]
+}

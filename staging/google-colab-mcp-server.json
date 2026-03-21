@@ -1,0 +1,21 @@
+{
+  "name": "Google Colab MCP Server",
+  "vendor": "Google",
+  "category": "tool-gateway",
+  "description": "Open-source MCP server that enables any MCP-compatible AI agent to programmatically interact with and control Google Colab notebooks. Agents can automate tasks like adding cells, writing and executing code, and managing dependencies.",
+  "agent_native_score": 5,
+  "protocols": ["MCP"],
+  "capabilities": ["notebook control", "cell management", "code execution", "dependency management", "environment setup"],
+  "interaction_model": "autonomous",
+  "auth": "Google authentication",
+  "pricing": "Free (Colab free tier)",
+  "open_source": true,
+  "url": "https://github.com/google/colab-mcp-server",
+  "docs": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+  "github": "https://github.com/google/colab-mcp-server",
+  "source": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Recent Google release enabling agent automation of computational notebooks. Well-documented. Integrates with MCP ecosystem.",
+  "tags": ["MCP", "tool-gateway", "notebook", "code-execution", "automation", "open-source", "Google"]
+}

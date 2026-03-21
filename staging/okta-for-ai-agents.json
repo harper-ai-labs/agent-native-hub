@@ -1,0 +1,21 @@
+{
+  "name": "Okta for AI Agents",
+  "vendor": "Okta",
+  "category": "orchestration",
+  "description": "Identity and access control platform specifically designed for agentic AI systems, providing identity as a control layer for AI agents. Generally available April 30, 2026.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "OAuth"],
+  "capabilities": ["identity management for agents", "access control", "governance", "security enforcement"],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "Enterprise custom",
+  "open_source": false,
+  "url": "https://okta.com",
+  "docs": "https://okta.com/products/ai-agents",
+  "github": null,
+  "source": "https://www.marketbeat.com/instant-alerts/okta-unveils-okta-for-ai-agents-sets-april-30-launch-and-blueprint-for-secure-agentic-ai-2026-03-21/",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Not yet GA (launches April 30, 2026). Marked as staging for review - identity governance for agents is strategic but platform maturity unknown.",
+  "tags": ["identity", "governance", "security", "orchestration", "2026-launch", "forthcoming"]
+}
