@@ -1,0 +1,44 @@
+{
+  "name": "Tray.ai",
+  "vendor": "Tray",
+  "category": "orchestration",
+  "description": "AI-ready iPaaS platform with Merlin Agent Builder for building and deploying autonomous agents. Includes pre-built agent accelerators (ITSM, HR, Knowledge, Support) and integrations with 1M+ applications.",
+  "agent_native_score": 5,
+  "protocols": [
+    "REST API",
+    "Webhooks",
+    "MCP",
+    "Agent Gateway"
+  ],
+  "capabilities": [
+    "No-code agent builder (Merlin)",
+    "ITSM agent for IT support automation",
+    "HR agent for policy automation, PTO, profile updates",
+    "Knowledge agent for documentation routing",
+    "Support agent for customer issue resolution",
+    "Action-oriented automation (not just triage)",
+    "Integration with 1M+ apps",
+    "Deployment to Slack, web, APIs",
+    "Enterprise governance and compliance"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Enterprise (custom)",
+  "open_source": false,
+  "url": "https://tray.io",
+  "docs": "https://docs.tray.io/",
+  "github": null,
+  "source": "https://tray.io",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Gartner Magic Quadrant Visionary (2026). Built on AI-ready integration platform. Agent Accelerators pre-built for common enterprise workflows. Emphasis on taking direct action, not just triaging.",
+  "tags": [
+    "agentic",
+    "orchestration",
+    "iPaaS",
+    "no-code",
+    "enterprise",
+    "agent-accelerators",
+    "2026-leader"
+  ]
+}

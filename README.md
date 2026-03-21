@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**39 services** across 11 categories | Last updated: 2026-03-20
+**41 services** across 11 categories | Last updated: 2026-03-20
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -98,7 +98,9 @@ update CRM records, or take other real-world actions through it.
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
+| [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
+| [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 
 ## 🔄 Workflow Automation
 

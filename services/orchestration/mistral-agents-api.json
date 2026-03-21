@@ -1,0 +1,41 @@
+{
+  "name": "Mistral Agents API",
+  "vendor": "Mistral AI",
+  "category": "orchestration",
+  "description": "Enterprise-grade agentic framework combining Mistral language models with orchestration capabilities, built-in connectors (code execution, web search, image generation, document library), persistent memory, and MCP tool integration.",
+  "agent_native_score": 5,
+  "protocols": [
+    "REST API",
+    "Python SDK",
+    "MCP",
+    "Streaming"
+  ],
+  "capabilities": [
+    "Multi-agent orchestration and handoffs",
+    "Code execution in sandboxed environment",
+    "Web search and information retrieval",
+    "Image generation",
+    "Document library and RAG",
+    "Persistent conversation memory",
+    "Workflow coordination"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Pay-per-use (API consumption)",
+  "open_source": false,
+  "url": "https://mistral.ai/news/agents-api",
+  "docs": "https://docs.mistral.ai/agents/introduction",
+  "github": "https://github.com/mistralai/cookbook/tree/main/mistral/agents",
+  "source": "https://mistral.ai/news/agents-api",
+  "verified": true,
+  "last_verified": "2026-03-21",
+  "notes": "Supports agent handoffs for seamless task delegation. Built-in connectors reduce need for external integrations. Multi-agent workflows enable complex problem-solving with specialized agents.",
+  "tags": [
+    "agentic",
+    "orchestration",
+    "multi-agent",
+    "2026-launch",
+    "enterprise",
+    "mcp-native"
+  ]
+}
