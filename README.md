@@ -4,7 +4,7 @@
 
 **48 services** across 11 categories | Last updated: 2026-03-21
 
-Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
+Maintained by [Harper Labs](https://github.com/harper-ai-labs) | Contributions welcome
 
 ## What belongs here
 
