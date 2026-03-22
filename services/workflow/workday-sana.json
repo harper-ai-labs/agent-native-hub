@@ -1,0 +1,29 @@
+{
+  "name": "Workday Sana Self-Service Agent",
+  "vendor": "Workday",
+  "category": "workflow",
+  "description": "Enterprise AI platform with self-service agent for HR and finance operations. Includes 300+ pre-built skills for automating HR workflows, payroll, expense management, and finance processes. Sana is Workday's superintelligence for managing people, money, and agents.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Custom Workday API"],
+  "capabilities": [
+    "HR workflow automation (300+ skills)",
+    "Finance operations automation",
+    "Payroll management",
+    "Expense management and approval",
+    "Employee self-service via agent",
+    "Finance data analysis",
+    "Cross-system process automation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Workday OAuth",
+  "pricing": "Enterprise licensing (part of Workday Cloud suite)",
+  "open_source": false,
+  "url": "https://www.workday.com/en-us/products/sana.html",
+  "docs": "https://www.workday.com/en-us/products/sana.html",
+  "github": null,
+  "source": "https://newsroom.workday.com/2026-03-17-Introducing-Sana-from-Workday-Superintelligence-for-Work-That-Finds-Answers,-Takes-Action,-and-Automates-Workflows",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Launched March 17, 2026. Enterprise AI platform positioning Workday as agent-native ERP vendor. Sana interface available alongside traditional Workday UI. Over 300 pre-built agent skills for HR and finance.",
+  "tags": ["erp", "hr-automation", "finance", "enterprise", "2026-launch", "self-service-agent"]
+}

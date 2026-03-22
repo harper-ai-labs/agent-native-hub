@@ -1,0 +1,29 @@
+{
+  "name": "Nutanix Agentic AI",
+  "vendor": "Nutanix",
+  "category": "orchestration",
+  "description": "Full-stack software solution for enterprise AI factories. Provides Agentic AI Services, Kubernetes Platform, MCP server support, Advanced AI Gateway, and Models-as-a-Service for building and managing thousands of agents at scale.",
+  "agent_native_score": 5,
+  "protocols": ["Kubernetes", "MCP", "REST API", "NVIDIA AI Enterprise"],
+  "capabilities": [
+    "Agent infrastructure orchestration",
+    "MCP server integration for tool connectivity",
+    "Model-as-a-Service (MaaS)",
+    "Advanced AI Gateway for policy control",
+    "Multi-user agent environment management",
+    "Cost optimization through token efficiency",
+    "GPU resource optimization via topology-aware scheduling"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Enterprise authentication",
+  "pricing": "Enterprise licensing",
+  "open_source": false,
+  "url": "https://www.nutanix.com/products/agentic-ai",
+  "docs": "https://www.nutanix.com/products/agentic-ai",
+  "github": null,
+  "source": "https://www.nutanix.com/press-releases/2026/nutanix-unveils-nutanix-agentic-ai",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Launched March 17, 2026. Integrates with NVIDIA AI Enterprise and Agent Toolkit. Supports fine-tuning and NVIDIA Nemotron models. Focus on infrastructure for managing thousands of concurrent agents at enterprise scale.",
+  "tags": ["infrastructure", "kubernetes", "mcp-support", "enterprise", "gpu-optimization", "model-service", "2026-launch"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "You.com AI Search API",
+  "vendor": "You.com",
+  "category": "tool-gateway",
+  "description": "Real-time web search and news API optimized for AI agent consumption. Provides structured, up-to-date information with agent-friendly response formatting for deep research and current event queries.",
+  "agent_native_score": 4,
+  "protocols": ["REST API"],
+  "capabilities": [
+    "Real-time web search",
+    "News search and filtering",
+    "Structured JSON responses",
+    "Agent-optimized result formatting",
+    "Citation tracking",
+    "Time-filtered results",
+    "Advanced query operators"
+  ],
+  "interaction_model": "read-only",
+  "auth": "API key",
+  "pricing": "Pay-as-you-go API pricing",
+  "open_source": false,
+  "url": "https://you.com",
+  "docs": "https://api.you.com",
+  "github": null,
+  "source": "https://aws.amazon.com/marketplace/pp/prodview-etpj5irft5cj6",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Available on AWS Marketplace. Specifically designed for AI agent consumption with structured outputs. Real-time data makes it valuable for research agents and current event awareness.",
+  "tags": ["search", "news", "api", "real-time-data", "agent-optimized"]
+}

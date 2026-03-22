@@ -2,9 +2,9 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**48 services** across 11 categories | Last updated: 2026-03-21
+**52 services** across 11 categories | Last updated: 2026-03-22
 
-Maintained by [Harper Labs](https://github.com/harper-ai-labs) | Contributions welcome
+Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
 ## What belongs here
 
@@ -104,6 +104,7 @@ update CRM records, or take other real-world actions through it.
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
+| [Nutanix Agentic AI](https://www.nutanix.com/products/agentic-ai) | ★★★★★ | Kubernetes, MCP, REST API | Agent infrastructure orchestration, MCP server integration for tool connectivity, Model-as-a-Service (MaaS) | Enterprise authentication | Enterprise licensing |
 | [Nvidia Agent Toolkit](https://www.nvidia.com) | ★★★★★ | Python SDK, REST API | agent creation and deployment, autonomous agent orchestration, multi-agent coordination | API key | Open source (free) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
@@ -113,6 +114,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Workday Sana Self-Service Agent](https://www.workday.com/en-us/products/sana.html) | ★★★★★ | REST API, Custom Workday API | HR workflow automation (300+ skills), Finance operations automation, Payroll management | Workday OAuth | Enterprise licensing (part of Workday Cloud suite) |
 | [n8n](https://n8n.io) | ★★★★☆ | REST API, webhooks, SDK | workflow-execution, trigger, condition | API key | open-source + cloud |
 | [Make (formerly Integromat)](https://www.make.com) | ★★★☆☆ | REST API, webhooks | trigger-scenario, monitor-run, data-mapping | API key | freemium |
 
@@ -122,6 +124,8 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [Arcade AI](https://arcade.ai) | ★★★★★ | REST API, SDK | tool-execution, auth-management, permission-control | API key | usage-based |
 | [Composio](https://composio.dev) | ★★★★★ | REST API, SDK, MCP | tool-routing, auth-management, trigger | API key | freemium |
+| [E2B Code Interpreter Sandbox](https://e2b.dev) | ★★★★★ | SDK (Python/TypeScript/Node.js), REST API, Firecracker microVMs | Secure code execution (Python, JavaScript, Ruby, C++), File system access and manipulation, Terminal command execution | API key | Pay-as-you-go + enterprise plans |
+| [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
 | [Zapier MCP Server](https://zapier.com/mcp) | ★★★★☆ | MCP, REST API | trigger-automation, create-record, update-record | API key | freemium |
 

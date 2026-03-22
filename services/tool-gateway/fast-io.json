@@ -1,0 +1,33 @@
+{
+  "name": "Fast.io Agentic Workspace",
+  "vendor": "Fast.io (MediaFire)",
+  "category": "tool-gateway",
+  "description": "Cloud storage platform built for agentic teams. Provides shared workspaces where AI agents and humans collaborate, with semantic search, RAG, MCP support, and agent-to-human handoff capabilities. Modern alternative to Box and Google Drive.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP (14 native tools)", "CLI", "Desktop/Web"],
+  "capabilities": [
+    "Shared project workspaces for agents and humans",
+    "Semantic search across files (AI-indexed)",
+    "Retrieval-augmented generation (RAG)",
+    "Real-time activity tracking",
+    "Agent-to-human file handoff",
+    "Scoped file/folder-level access control",
+    "Markdown note auto-indexing for agents",
+    "Video streaming with waveform visualization",
+    "Instant data room creation (branded)",
+    "Two-way cloud sync",
+    "Custom metadata templates"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "API key, OAuth",
+  "pricing": "50GB free tier with credits; $10-40/mo plans; enterprise licensing",
+  "open_source": false,
+  "url": "https://fast.io",
+  "docs": "https://docs.fast.io",
+  "github": null,
+  "source": "https://fast.io",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Built by MediaFire. Explicitly designed for agent-human collaboration. 14 built-in MCP tools. Features 10,000 AI credits/month on free tier. Activity logged in plain English for agent auditing. Comparable to Dropbox but agent-optimized.",
+  "tags": ["storage", "collaboration", "mcp-native", "agent-first", "rag-support", "human-handoff"]
+}

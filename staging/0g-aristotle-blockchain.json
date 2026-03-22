@@ -1,0 +1,27 @@
+{
+  "name": "0G (Zero Gravity) Aristotle Mainnet",
+  "vendor": "0G Labs",
+  "category": "orchestration",
+  "description": "Blockchain platform positioning itself as 'the blockchain for AI agents.' Offers verified compute, persistent memory, and onchain settlement for autonomous AI agents. Mainnet launched September 2025.",
+  "agent_native_score": 3,
+  "protocols": ["Blockchain (EVM-compatible)", "REST API"],
+  "capabilities": [
+    "Verified on-chain compute",
+    "Persistent agent memory on-chain",
+    "Settlement and payment for agent-to-agent transactions",
+    "Autonomous agent coordination",
+    "Decentralized agent marketplace"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Blockchain wallet",
+  "pricing": "Blockchain-based (token economics)",
+  "open_source": false,
+  "url": "https://0g.ai",
+  "docs": null,
+  "github": null,
+  "source": "https://markets.businessinsider.com/news/stocks/0g-positions-as-the-blockchain-for-ai-agents-as-industry-moves-toward-1-trillion-agentic-ai-economy-1035952145",
+  "verified": false,
+  "last_verified": "2026-03-22",
+  "notes": "Positioning for 'trillion-dollar agentic AI economy.' Mainnet live since September 2025. Targeting autonomous agent transactions, memory, and settlement. Early-stage for direct agent integration.",
+  "tags": ["blockchain", "agent-payments", "decentralized", "early-stage", "orchestration"]
+}

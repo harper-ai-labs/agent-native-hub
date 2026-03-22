@@ -1,0 +1,29 @@
+{
+  "name": "Merge Agent Handler",
+  "vendor": "Merge",
+  "category": "tool-gateway",
+  "description": "Enterprise platform for securely adding thousands of tools and integrations to agents. Complement to Merge Unified (hundreds of integration connectors). Focuses on governed, secure tool access for agentic workflows.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "OAuth", "Custom integrations"],
+  "capabilities": [
+    "Connect 1000+ SaaS tools to agents",
+    "Secure tool discovery",
+    "Centralized authentication management",
+    "Tool versioning and governance",
+    "Enterprise audit logging",
+    "Rate limiting and usage controls",
+    "Tool scoping and permissions"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Enterprise licensing",
+  "open_source": false,
+  "url": "https://merge.dev",
+  "docs": "https://docs.merge.dev",
+  "github": null,
+  "source": "https://www.merge.dev/blog/api-for-ai-agents",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Part of Merge's broader integration platform. Agent Handler focuses specifically on governed, secure agent tool access at enterprise scale. Complements Merge Unified API.",
+  "tags": ["integration-gateway", "tool-discovery", "enterprise", "governance", "orchestration"]
+}

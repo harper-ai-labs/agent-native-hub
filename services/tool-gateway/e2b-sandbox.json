@@ -1,0 +1,31 @@
+{
+  "name": "E2B Code Interpreter Sandbox",
+  "vendor": "E2B",
+  "category": "tool-gateway",
+  "description": "Enterprise AI agent cloud providing secure, sandboxed cloud environments for code execution. Enables agents to write and execute code in isolated microVMs. Supports Python, JavaScript, Ruby, C++ and any Linux-compatible language/framework. Used by 88% of Fortune 100 companies.",
+  "agent_native_score": 5,
+  "protocols": ["SDK (Python/TypeScript/Node.js)", "REST API", "Firecracker microVMs"],
+  "capabilities": [
+    "Secure code execution (Python, JavaScript, Ruby, C++)",
+    "File system access and manipulation",
+    "Terminal command execution",
+    "Internet access",
+    "Package installation",
+    "Long-running sessions (up to 24 hours)",
+    "Concurrent sandbox deployment",
+    "Custom sandbox templates",
+    "Computer use agents with virtual desktops"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Pay-as-you-go + enterprise plans",
+  "open_source": false,
+  "url": "https://e2b.dev",
+  "docs": "https://docs.e2b.dev",
+  "github": null,
+  "source": "https://e2b.dev",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Used by major AI companies and Fortune 100 enterprises. Firecracker-based microVMs for untrusted code execution. Sub-200ms startup times. Integrates with LangChain, LlamaIndex, Anthropic SDK, OpenAI SDK, Mistral, and Ollama.",
+  "tags": ["code-execution", "sandbox", "security", "infrastructure", "agent-native", "enterprise"]
+}
