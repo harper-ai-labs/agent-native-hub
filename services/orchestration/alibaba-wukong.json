@@ -1,0 +1,26 @@
+{
+  "name": "Alibaba Wukong",
+  "vendor": "Alibaba",
+  "category": "orchestration",
+  "description": "Agentic AI platform for businesses designed to coordinate multiple AI agents to automate and complete complex tasks such as document editing, interview transcription, and research. Launched March 2026.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": [
+    "coordinate multiple agents",
+    "document automation",
+    "transcription processing",
+    "research task orchestration",
+    "complex multi-step task execution"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Invitation-only beta (pricing TBD)",
+  "open_source": false,
+  "url": "https://www.alibaba.com",
+  "docs": "https://www.alibaba.com/en",
+  "source": "https://aibusiness.com/agentic-ai/alibaba-launches-enterprise-ai-agent-platform",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Currently in invitation-only beta as of March 2026. Enterprise-focused platform for business automation.",
+  "tags": ["multi-agent", "orchestration", "enterprise", "2026-launch"]
+}

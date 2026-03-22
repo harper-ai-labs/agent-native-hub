@@ -1,0 +1,24 @@
+{
+  "name": "Dia Browser",
+  "vendor": "The Browser Company (Atlassian)",
+  "category": "browser",
+  "description": "AI-first browser developed by The Browser Company (acquired by Atlassian September 2025). Designed with AI assistance at its core for knowledge workers.",
+  "agent_native_score": 4,
+  "protocols": ["Browser API"],
+  "capabilities": [
+    "AI-assisted browsing",
+    "knowledge work optimization",
+    "task automation",
+    "context preservation"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "Browser account",
+  "pricing": "TBD",
+  "open_source": false,
+  "url": "https://dia.ai",
+  "source": "https://seraphicsecurity.com/learn/ai-browser/top-5-agentic-browsers-in-2026-capabilities-and-security-risks/",
+  "verified": false,
+  "last_verified": "2026-03-22",
+  "notes": "Backed by Atlassian acquisition. AI-first design but appears more human-in-the-loop than fully autonomous. Needs further verification.",
+  "tags": ["browser", "ai-first", "staging"]
+}

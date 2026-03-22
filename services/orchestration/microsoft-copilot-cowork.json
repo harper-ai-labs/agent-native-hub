@@ -1,0 +1,26 @@
+{
+  "name": "Microsoft Copilot Cowork",
+  "vendor": "Microsoft",
+  "category": "orchestration",
+  "description": "Strategic initiative for autonomous AI agents from Microsoft. Part of Microsoft's push toward autonomous AI systems with multi-agent orchestration capabilities.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Azure SDK"],
+  "capabilities": [
+    "multi-agent orchestration",
+    "autonomous task execution",
+    "enterprise system integration",
+    "workflow automation",
+    "cross-application coordination"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Azure AD / OAuth",
+  "pricing": "Enterprise (part of Microsoft 365/Azure)",
+  "open_source": false,
+  "url": "https://www.microsoft.com",
+  "docs": "https://learn.microsoft.com",
+  "source": "https://medium.com/data-science-collective/the-agent-landscape-in-2026-a-compass-through-the-noise-7c638e4aebe1",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Announced March 2026. Enterprise-focused multi-agent orchestration. Integration with Microsoft 365 and Azure ecosystem.",
+  "tags": ["orchestration", "multi-agent", "enterprise", "microsoft", "2026-launch"]
+}

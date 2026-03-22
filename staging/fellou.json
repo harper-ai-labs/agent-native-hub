@@ -1,0 +1,26 @@
+{
+  "name": "Fellou",
+  "vendor": "Fellou",
+  "category": "browser",
+  "description": "AI-native agentic browser focused on end-to-end web automation. Specializes in deep research, form filling, booking travel, and report generation.",
+  "agent_native_score": 4,
+  "protocols": ["Browser API"],
+  "capabilities": [
+    "web automation",
+    "deep research",
+    "form filling",
+    "travel booking",
+    "report generation",
+    "data extraction"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "TBD",
+  "open_source": false,
+  "url": "https://fellou.ai",
+  "source": "https://seraphicsecurity.com/learn/ai-browser/top-5-agentic-browsers-in-2026-capabilities-and-security-risks/",
+  "verified": false,
+  "last_verified": "2026-03-22",
+  "notes": "Emerging agentic browser with strong specialization in web automation tasks. Needs further verification on agent-native capabilities.",
+  "tags": ["browser", "automation", "staging"]
+}

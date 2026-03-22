@@ -1,0 +1,27 @@
+{
+  "name": "ChatGPT Atlas",
+  "vendor": "OpenAI",
+  "category": "browser",
+  "description": "Dedicated browser product from OpenAI featuring Agent Mode for autonomous multi-step task execution. Builds on OpenAI's Computer-Using Agent technology.",
+  "agent_native_score": 5,
+  "protocols": ["Browser API", "OpenAI API integration"],
+  "capabilities": [
+    "autonomous multi-step task execution",
+    "computer vision for web understanding",
+    "form navigation and filling",
+    "data extraction",
+    "web research",
+    "task planning and execution"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OpenAI account + API key",
+  "pricing": "Premium tier (pricing TBD)",
+  "open_source": false,
+  "url": "https://openai.com",
+  "docs": "https://platform.openai.com",
+  "source": "https://seraphicsecurity.com/learn/ai-browser/top-5-agentic-browsers-in-2026-capabilities-and-security-risks/",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Based on OpenAI's Computer-Using Agent research. Dedicated Agent Mode for autonomous execution. Integration with ChatGPT ecosystem.",
+  "tags": ["browser", "agentic", "openai", "agent-mode"]
+}

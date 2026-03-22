@@ -1,0 +1,27 @@
+{
+  "name": "Nvidia Agent Toolkit",
+  "vendor": "Nvidia",
+  "category": "orchestration",
+  "description": "Open-source platform for creating and deploying autonomous AI agents. Unveiled at GTC 2026 in March with adoption from Adobe, Salesforce, and SAP.",
+  "agent_native_score": 5,
+  "protocols": ["Python SDK", "REST API"],
+  "capabilities": [
+    "agent creation and deployment",
+    "autonomous agent orchestration",
+    "multi-agent coordination",
+    "reasoning and planning",
+    "tool integration"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Open source (free)",
+  "open_source": true,
+  "url": "https://www.nvidia.com",
+  "docs": "https://www.nvidia.com/en-us",
+  "github": "https://github.com/nvidia",
+  "source": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Launched at GTC 2026 (March). Already adopted by 17 companies including major enterprises. Strong adoption signal.",
+  "tags": ["agent-toolkit", "open-source", "enterprise", "2026-launch", "orchestration"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Salesforce Agentforce Sales",
+  "vendor": "Salesforce",
+  "category": "crm",
+  "description": "AI-powered platform integrating autonomous, context-aware sales agents directly into sales workflows. Launched March 2026. Automates lead qualification, pipeline management, and proposal generation with 24/7 operation.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Salesforce SDK", "MCP"],
+  "capabilities": [
+    "lead qualification",
+    "pipeline management",
+    "proposal generation",
+    "sales workflow automation",
+    "context-aware decision making",
+    "CRM data access and updates"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth 2.0",
+  "pricing": "Enterprise pricing (part of Salesforce suite)",
+  "open_source": false,
+  "url": "https://www.salesforce.com",
+  "docs": "https://developer.salesforce.com",
+  "source": "https://futurumgroup.com/insights/can-agentforce-sales-redefine-ai-sales-or-will-platform-fatigue-slow-adoption/",
+  "verified": true,
+  "last_verified": "2026-03-22",
+  "notes": "Launched March 2026. Part of Salesforce Agentforce suite. 24/7 autonomous operation. Direct integration with Salesforce ecosystem.",
+  "tags": ["sales", "crm", "autonomous", "2026-launch"]
+}

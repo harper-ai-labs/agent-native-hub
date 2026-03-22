@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**43 services** across 11 categories | Last updated: 2026-03-21
+**48 services** across 11 categories | Last updated: 2026-03-21
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -45,8 +45,9 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [agent-browser](https://agent-browser.dev) | ★★★★★ | REST API, SDK | navigate, click, fill-form | API key | usage-based |
 | [Browserbase](https://www.browserbase.com) | ★★★★★ | REST API, SDK, Playwright | navigate, click, fill-form | API key | usage-based |
+| [ChatGPT Atlas](https://openai.com) | ★★★★★ | Browser API, OpenAI API integration | autonomous multi-step task execution, computer vision for web understanding, form navigation and filling | OpenAI account + API key | Premium tier (pricing TBD) |
 | [EverWorker Agentic Browser](https://everworker.ai) | ★★★★★ | REST API | navigate, click, fill-form | API key | usage-based |
-| [Perplexity Comet](https://perplexity.ai/comet) | ★★★★★ | browser-automation, REST API | autonomous web browsing, research automation, task delegation | None (personal tool) | Subscription-based |
+| [Perplexity Comet](https://www.perplexity.ai) | ★★★★★ | Browser API, Native integration | autonomous web navigation, form filling and data extraction, product comparison | Perplexity account | Freemium with premium tier |
 | [Stagehand](https://github.com/browserbase/stagehand) | ★★★★★ | SDK | navigate, act, extract | API key | open-source + hosted |
 | [Vercel Labs agent-browser](https://github.com/vercel-labs/agent-browser) | ★★★★★ | SDK | navigate, click, fill-form | none | free |
 
@@ -55,6 +56,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Attio MCP Server](https://attio.com) | ★★★★★ | MCP, REST API | create-contact, update-contact, create-deal | API key | freemium |
+| [Salesforce Agentforce Sales](https://www.salesforce.com) | ★★★★★ | REST API, Salesforce SDK, MCP | lead qualification, pipeline management, proposal generation | OAuth 2.0 | Enterprise pricing (part of Salesforce suite) |
 | [HubSpot MCP Server](https://www.hubspot.com) | ★★★★☆ | MCP, REST API | manage-contacts, manage-deals, create-tickets | API key / OAuth | freemium |
 
 ## 🎧 Support & Ticketing
@@ -96,13 +98,16 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [A2A (Agent2Agent) Protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) | ★★★★★ | A2A | agent-discovery, task-delegation, capability-advertisement | varies | free |
+| [Alibaba Wukong](https://www.alibaba.com) | ★★★★★ | REST API, SDK | coordinate multiple agents, document automation, transcription processing | API key | Invitation-only beta (pricing TBD) |
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
+| [Nvidia Agent Toolkit](https://www.nvidia.com) | ★★★★★ | Python SDK, REST API | agent creation and deployment, autonomous agent orchestration, multi-agent coordination | API key | Open source (free) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
+| [Microsoft Copilot Cowork](https://www.microsoft.com) | ★★★★☆ | REST API, Azure SDK | multi-agent orchestration, autonomous task execution, enterprise system integration | Azure AD / OAuth | Enterprise (part of Microsoft 365/Azure) |
 
 ## 🔄 Workflow Automation
 
