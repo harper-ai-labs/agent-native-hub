@@ -1,0 +1,29 @@
+{
+  "name": "Beam AI Platform (Agent OS)",
+  "vendor": "Beam AI",
+  "category": "orchestration",
+  "description": "Modular Agent Operating System for enterprises. Self-learning AI agents designed for production scale. No-code platform to upload business processes (SOPs) and deploy autonomous agents. Processes 10M+ AI agent tasks for Fortune 500 companies.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "web interface"],
+  "capabilities": [
+    "No-code agent creation from SOPs",
+    "Multi-language customer support",
+    "24/7 availability automation",
+    "Self-learning from interactions",
+    "Process automation with 95%+ success rates",
+    "Role-based agent suites for finance, HR, customer service",
+    "Enterprise-grade security and compliance"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth, API key",
+  "pricing": "Enterprise (contact sales)",
+  "open_source": false,
+  "url": "https://beam.ai",
+  "docs": "https://beam.ai/platform",
+  "github": null,
+  "source": "https://beam.ai/agentic-insights/the-best-5-ai-agent-platforms-in-2026-and-how-to-pick-the-right-one",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "Processing 10M+ AI agent tasks. White-glove setup with agents live in 4 weeks. SOPs uploaded directly become agents. Self-learning agents continuously improve from production interactions. Role-based suites for finance, HR, and customer service.",
+  "tags": ["agent-os", "orchestration", "automation", "enterprise", "no-code", "self-learning"]
+}

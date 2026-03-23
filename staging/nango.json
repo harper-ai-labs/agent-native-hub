@@ -1,0 +1,29 @@
+{
+  "name": "Nango",
+  "vendor": "Nango",
+  "category": "tool-gateway",
+  "description": "Open-source, developer-first platform for AI agent integrations. Unified API and infrastructure enabling AI agents to interact with 700+ external APIs. Handles authentication, data sync, webhooks, and observability for agentic workflows.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "TypeScript SDK", "tool-calling"],
+  "capabilities": [
+    "AI tool calling and action execution on APIs",
+    "One-way and two-way data syncing",
+    "Webhook processing and event handling",
+    "Unified API normalization across providers",
+    "Rate limiting and retry management",
+    "Per-tenant isolation and elastic scaling",
+    "Natural language to TypeScript code generation"
+  ],
+  "interaction_model": "write-capable",
+  "auth": "API key, OAuth",
+  "pricing": "Free open-source + paid cloud hosting",
+  "open_source": true,
+  "url": "https://nango.dev",
+  "docs": "https://nango.dev/docs/getting-started/intro-to-nango",
+  "github": "https://github.com/nangohq/nango",
+  "source": "https://nango.dev/blog/best-ai-agent-integration-platforms",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "Developer-first integration platform for AI agents. Supports 700+ APIs. Production-grade infrastructure for agent-driven integrations. Code-first TypeScript approach with AI assistance for code generation.",
+  "tags": ["integration", "tool-gateway", "api-platform", "open-source", "unified-api"]
+}

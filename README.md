@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**52 services** across 11 categories | Last updated: 2026-03-22
+**54 services** across 11 categories | Last updated: 2026-03-22
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -101,7 +101,9 @@ update CRM records, or take other real-world actions through it.
 | [Alibaba Wukong](https://www.alibaba.com) | ★★★★★ | REST API, SDK | coordinate multiple agents, document automation, transcription processing | API key | Invitation-only beta (pricing TBD) |
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
+| [Beam AI Platform (Agent OS)](https://beam.ai) | ★★★★★ | REST API, web interface | No-code agent creation from SOPs, Multi-language customer support, 24/7 availability automation | OAuth, API key | Enterprise (contact sales) |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
+| [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
 | [Nutanix Agentic AI](https://www.nutanix.com/products/agentic-ai) | ★★★★★ | Kubernetes, MCP, REST API | Agent infrastructure orchestration, MCP server integration for tool connectivity, Model-as-a-Service (MaaS) | Enterprise authentication | Enterprise licensing |

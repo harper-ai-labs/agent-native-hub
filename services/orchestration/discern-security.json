@@ -1,0 +1,29 @@
+{
+  "name": "Discern Security",
+  "vendor": "Discern Security",
+  "category": "orchestration",
+  "description": "AI-native agentic proactive security platform with 6 specialized autonomous agents (Scout, Atlas, Oracle, Pathfinder, Resolve, Mesh) for security workflows. Agents assess security posture, analyze data, prioritize remediation, and operationalize findings across fragmented security tools.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "integration hub"],
+  "capabilities": [
+    "Automated security controls assessment",
+    "Real-time security posture visibility",
+    "Vulnerability prioritization and remediation planning",
+    "Ticket coordination across tools",
+    "Security mesh alignment across tools",
+    "Threat analysis and risk scoring",
+    "Compliance tracking and dashboards"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise (contact sales)",
+  "open_source": false,
+  "url": "https://www.discernsecurity.com",
+  "docs": "https://www.discernsecurity.com/all-integrations",
+  "github": null,
+  "source": "https://www.prnewswire.com/news-releases/discern-security-launches-ai-native-agentic-platform-for-faster-security-outcomes-302718355.html",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "Launched March 19, 2026. Founded 2023, raised $3M funding. Showcasing at RSA Conference 2026. Six specialized agents: Scout (intelligence foundation), Atlas (query/dashboards), Oracle (analysis/insights), Pathfinder (prioritization), Resolve (remediation operations), Mesh (security mesh coordination).",
+  "tags": ["security", "agentic-ai", "orchestration", "compliance", "remediation", "2026-launch"]
+}

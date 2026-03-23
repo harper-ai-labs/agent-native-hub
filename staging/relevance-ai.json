@@ -1,0 +1,29 @@
+{
+  "name": "Relevance AI",
+  "vendor": "Relevance AI",
+  "category": "orchestration",
+  "description": "No-code platform for building and deploying AI agents. Focus on internal assistants and team automation. Enterprise-grade infrastructure with SOC 2 Type II compliance, GDPR, SSO, RBAC, version control, and monitoring dashboards.",
+  "agent_native_score": 4,
+  "protocols": ["Web UI", "REST API"],
+  "capabilities": [
+    "No-code agent builder",
+    "Agent monitoring and observability",
+    "Version control and rollback",
+    "Cost tracking and evals",
+    "Multi-region deployment",
+    "Data residency control",
+    "Enterprise SSO and RBAC"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "SSO (Enterprise)",
+  "pricing": "Contact sales",
+  "open_source": false,
+  "url": "https://relevanceai.com",
+  "docs": "https://relevanceai.com/docs",
+  "github": null,
+  "source": "https://www.gappsgroup.com/blog/ai-agent-trends-2026-from-chatbots-to-autonomous-business-ecosystems",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "No-code agent platform with enterprise infrastructure. SOC 2 Type II & GDPR certified. Full version history, monitoring dashboards, cost tracking, and evaluation tools.",
+  "tags": ["no-code", "orchestration", "internal-agents", "team-automation", "enterprise"]
+}
