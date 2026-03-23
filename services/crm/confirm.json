@@ -1,0 +1,30 @@
+{
+  "name": "Confirm",
+  "vendor": "Confirm",
+  "category": "crm",
+  "description": "AI-first performance management platform with AI coaching agents. Deploys manager coaching agents directly in Slack and Microsoft Teams. Uses Organizational Network Analysis (ONA) to reduce bias in performance reviews and calibration decisions. Agents handle performance reviews, 360 feedback, compensation analysis, and retention flagging.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Slack integration", "Microsoft Teams integration", "OAuth"],
+  "capabilities": [
+    "Autonomous performance review facilitation",
+    "Manager coaching and capability building",
+    "Real-time bias detection in calibration sessions",
+    "ONA-based evidence profile generation",
+    "Compensation and promotion decision support",
+    "Retention risk flagging",
+    "360-degree feedback collection",
+    "Integration with 80+ business tools (Jira, Salesforce, GitHub, HubSpot, Asana, etc.)"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "OAuth",
+  "pricing": "$8-14 per person per month (base + optional add-ons)",
+  "open_source": false,
+  "url": "https://www.confirm.com",
+  "docs": "https://www.confirm.com/platform",
+  "github": null,
+  "source": "https://www.morningstar.com/news/business-wire/20260323825671/confirm-launches-ai-agents-platform-for-performance-management-at-transform-2026",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "Launched March 2026. AI agents deployed in Slack/Teams require no engineering setup. Connects to existing HR tools without custom integration. 98% of performance reviews completed in 6 days at customer deployments. Agents are first-class actors in performance management, not just supporting tools.",
+  "tags": ["performance-management", "hr", "agents", "bias-detection", "slack", "teams", "talent-development", "coaching"]
+}

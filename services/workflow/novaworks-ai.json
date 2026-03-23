@@ -1,0 +1,31 @@
+{
+  "name": "Novaworks.ai",
+  "vendor": "Novaworks",
+  "category": "workflow",
+  "description": "AI-native Human Capital Management (HCM) operating system built on ServiceNow. Designed for Total Workforce Management (TWM). Agents unify people, AI agents, and processes across enterprise HR operations. Agent-first architecture for employee lifecycle, payroll, benefits, and workforce planning.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "ServiceNow integration", "OAuth", "webhooks"],
+  "capabilities": [
+    "AI agents for employee lifecycle management",
+    "Autonomous payroll and benefits processing",
+    "Workforce planning agents",
+    "Recruitment and onboarding automation",
+    "Employee engagement agents",
+    "Benefits administration",
+    "Performance management integration",
+    "Multi-enterprise workforce orchestration",
+    "ServiceNow ecosystem integration"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth, ServiceNow authentication",
+  "pricing": "Enterprise (contact sales)",
+  "open_source": false,
+  "url": "https://novaworks.ai",
+  "docs": "https://novaworks.ai/platform",
+  "github": null,
+  "source": "https://www.morningstar.com/news/pr-newswire/20260323la15838/novaworksai-launches-agentic-operating-system-for-total-workforce-management-raises-8m-seed-round",
+  "verified": true,
+  "last_verified": "2026-03-23",
+  "notes": "Launched March 2026. AI-native HCM OS built on ServiceNow. $8M seed funding. Agent-first design means HR workflows run autonomously by default with human oversight available. Designed for enterprise scale. Target market: 1000+ employee organizations modernizing HR infrastructure.",
+  "tags": ["hcm", "workforce-management", "hr", "agents", "servicenow", "total-workforce-management", "enterprise", "payroll", "benefits"]
+}
