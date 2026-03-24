@@ -1,0 +1,30 @@
+{
+  "name": "Reclaim.ai",
+  "vendor": "Reclaim",
+  "category": "workflow",
+  "description": "AI-powered calendar optimization agent that intelligently schedules time for habits, tasks, and focused work. Agents automatically find optimal time slots, protect focus time, and adapt schedules based on priorities and constraints.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "calendar integration", "automation workflows"],
+  "capabilities": [
+    "Intelligent time blocking",
+    "Focus time protection",
+    "Habit and task scheduling",
+    "Calendar conflict resolution",
+    "Priority-based scheduling",
+    "Recurring task automation",
+    "Meeting consolidation",
+    "Calendar analytics"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "Freemium + premium",
+  "open_source": false,
+  "url": "https://reclaim.ai",
+  "docs": "https://reclaim.ai",
+  "github": null,
+  "source": "https://reclaim.ai",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Agent-native calendar optimization. Intelligently books time for tasks and habits without user intervention. Works across calendar platforms.",
+  "tags": ["calendar optimization", "scheduling", "focus time", "task automation"]
+}

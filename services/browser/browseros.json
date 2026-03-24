@@ -1,0 +1,31 @@
+{
+  "name": "BrowserOS",
+  "vendor": "BrowserOS Contributors",
+  "category": "browser",
+  "description": "Open-source Chromium-based agentic browser designed to run AI agents natively. Privacy-first architecture allowing local model execution via Ollama or connection to Claude, OpenAI, and Gemini APIs. Supports Chrome extensions and visual workflow builders.",
+  "agent_native_score": 5,
+  "protocols": ["AI API (Claude, OpenAI, Gemini)", "Ollama (local)", "Chrome extensions"],
+  "capabilities": [
+    "Native AI agent execution",
+    "Browser automation",
+    "Content summarization",
+    "Screenshot analysis",
+    "Visual workflow builder",
+    "Local model support (Ollama)",
+    "Chrome extension compatibility",
+    "Privacy-first architecture",
+    "Multi-AI provider support"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key (optional for local execution)",
+  "pricing": "Free and open-source",
+  "open_source": true,
+  "url": "https://github.com/browseros-ai/BrowserOS",
+  "docs": "https://github.com/browseros-ai/BrowserOS",
+  "github": "https://github.com/browseros-ai/BrowserOS",
+  "source": "https://github.com/browseros-ai/BrowserOS",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Open-source Chromium fork. Emphasizes local execution and data privacy. Supports visual workflow builders and maintains familiar Chrome interface.",
+  "tags": ["open-source", "agentic browser", "local models", "privacy-first", "Chromium", "AI agents"]
+}

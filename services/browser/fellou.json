@@ -1,0 +1,31 @@
+{
+  "name": "Fellou",
+  "vendor": "Fellou",
+  "category": "browser",
+  "description": "Agentic AI browser for deep research and end-to-end web automation. Agents plan multi-step tasks, access logged-in accounts, perform research across the internet, and handle desktop file operations with full step-by-step transparency and intervention capabilities.",
+  "agent_native_score": 5,
+  "protocols": ["browser automation", "computer use", "agentic memory API"],
+  "capabilities": [
+    "Multi-source web research automation",
+    "Logged-in account access (Reddit, etc.)",
+    "Complex data scraping",
+    "Form filling and submission",
+    "Desktop application control",
+    "Local file system operations",
+    "Real-time task intervention",
+    "Agentic memory and learning",
+    "Traceable report generation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Free tier + paid plans",
+  "open_source": false,
+  "url": "https://fellou.ai",
+  "docs": "https://fellou.ai/docs",
+  "github": null,
+  "source": "https://fellou.ai",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Launched 2025, prominent in 2026. Uses Browser Use for web automation and Computer Use for desktop tasks. Full transparency with step-by-step planning before execution. Agentic memory enables learning from interactions.",
+  "tags": ["agentic browser", "web automation", "research", "desktop automation", "2026 featured"]
+}

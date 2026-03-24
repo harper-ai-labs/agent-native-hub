@@ -1,0 +1,30 @@
+{
+  "name": "Carly",
+  "vendor": "Carly",
+  "category": "email",
+  "description": "AI email-to-calendar agent that automatically converts scheduling emails, meeting requests, appointment confirmations, and travel itineraries into calendar events. Eliminates manual calendar data entry.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "email integration", "calendar sync"],
+  "capabilities": [
+    "Email parsing for scheduling content",
+    "Automatic calendar event creation",
+    "Meeting request processing",
+    "Travel itinerary extraction",
+    "Appointment confirmation handling",
+    "Multi-calendar sync",
+    "Conflict detection",
+    "Reminder management"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "Freemium + premium",
+  "open_source": false,
+  "url": "https://www.usecarly.com",
+  "docs": "https://www.usecarly.com",
+  "github": null,
+  "source": "https://www.usecarly.com",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Specialized agent that monitors email for scheduling content and autonomously creates calendar entries. Reduces manual admin work.",
+  "tags": ["email automation", "calendar sync", "scheduling", "email parsing"]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Console",
+  "vendor": "Console",
+  "category": "support",
+  "description": "AI agent platform that resolves IT service requests autonomously by understanding company-specific processes and policies. Agents handle password resets, access requests, and repetitive IT tasks without human intervention.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook", "natural language playbooks"],
+  "capabilities": [
+    "Auto-resolve IT service requests",
+    "Password reset automation",
+    "Access provisioning",
+    "Service desk ticket handling",
+    "Multi-tenant IT process understanding",
+    "Playbook-based automation without code"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "Enterprise (custom)",
+  "open_source": false,
+  "url": "https://www.console.com",
+  "docs": "https://www.console.com",
+  "github": null,
+  "source": "https://www.console.com",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Launched prominently in 2026. 4x improvement in auto-resolution rates reported by customers. Agent handles IT workflows end-to-end with natural language configuration.",
+  "tags": ["IT automation", "service desk", "autonomous agent", "enterprise", "2026 launch"]
+}

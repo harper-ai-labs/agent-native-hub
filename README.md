@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**59 services** across 11 categories | Last updated: 2026-03-23
+**65 services** across 11 categories | Last updated: 2026-03-24
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -29,6 +29,7 @@ update CRM records, or take other real-world actions through it.
 | [AgentMail](https://agentmail.to) | ★★★★★ | REST API, webhooks | send, receive, thread | API key | usage-based |
 | [IRONSCALES AI Email Agents](https://ironscales.com/platform/agents) | ★★★★★ | REST API, Microsoft 365 API, Google Workspace API | Continuous reconnaissance and attack simulation (Red Teaming Agent), Rapid forensic investigation of suspicious emails (Phishing SOC Agent), Hyper-personalized phishing simulations based on OSINT (Phishing Simulation Agent) | API key, OAuth 2.0 (Microsoft 365, Google Workspace) | Enterprise (contact for details) |
 | [Assembled AI Email Agent](https://www.assembled.com/features/ai-email-agent) | ★★★★☆ | REST API | classify, draft, resolve | API key | enterprise |
+| [Carly](https://www.usecarly.com) | ★★★★☆ | REST API, email integration, calendar sync | Email parsing for scheduling content, Automatic calendar event creation, Meeting request processing | OAuth | Freemium + premium |
 | [Postmark MCP Server](https://postmarkapp.com) | ★★★★☆ | MCP, REST API | send, template-management, delivery-tracking | API key | usage-based |
 
 ## 📅 Calendar & Scheduling
@@ -37,6 +38,7 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [MintMCP Google Calendar Server](https://www.mintmcp.com/google-calendar) | ★★★★★ | MCP | create-event, read-events, check-availability | OAuth | free |
 | [Beam AI Google Calendar Integration](https://beam.ai/integrations/google-calendar) | ★★★★☆ | REST API | create-event, read-events, update-event | OAuth | usage-based |
+| [Cal.ai](https://cal.ai) | ★★★★☆ | REST API, Cal.com Workflows integration, phone API | AI phone calls for reminders, Booking confirmations, No-show follow-ups | API key | Included with Cal.com premium |
 | [Cal.com MCP Server](https://cal.com) | ★★★★☆ | MCP, REST API, webhooks | book-meeting, check-availability, reschedule | API key | freemium |
 | [SignalWire Aical](https://signalwire.com/blogs/developers/aical) | ★★★★☆ | REST API, voice | schedule, reschedule, cancel | API key | usage-based |
 
@@ -46,8 +48,10 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [agent-browser](https://agent-browser.dev) | ★★★★★ | REST API, SDK | navigate, click, fill-form | API key | usage-based |
 | [Browserbase](https://www.browserbase.com) | ★★★★★ | REST API, SDK, Playwright | navigate, click, fill-form | API key | usage-based |
+| [BrowserOS](https://github.com/browseros-ai/BrowserOS) | ★★★★★ | AI API (Claude, OpenAI, Gemini), Ollama (local), Chrome extensions | Native AI agent execution, Browser automation, Content summarization | API key (optional for local execution) | Free and open-source |
 | [ChatGPT Atlas](https://openai.com) | ★★★★★ | Browser API, OpenAI API integration | autonomous multi-step task execution, computer vision for web understanding, form navigation and filling | OpenAI account + API key | Premium tier (pricing TBD) |
 | [EverWorker Agentic Browser](https://everworker.ai) | ★★★★★ | REST API | navigate, click, fill-form | API key | usage-based |
+| [Fellou](https://fellou.ai) | ★★★★★ | browser automation, computer use, agentic memory API | Multi-source web research automation, Logged-in account access (Reddit, etc.), Complex data scraping | API key | Free tier + paid plans |
 | [Perplexity Comet](https://www.perplexity.ai) | ★★★★★ | Browser API, Native integration | autonomous web navigation, form filling and data extraction, product comparison | Perplexity account | Freemium with premium tier |
 | [Stagehand](https://github.com/browserbase/stagehand) | ★★★★★ | SDK | navigate, act, extract | API key | open-source + hosted |
 | [Vercel Labs agent-browser](https://github.com/vercel-labs/agent-browser) | ★★★★★ | SDK | navigate, click, fill-form | none | free |
@@ -66,6 +70,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Console](https://www.console.com) | ★★★★★ | REST API, webhook, natural language playbooks | Auto-resolve IT service requests, Password reset automation, Access provisioning | OAuth | Enterprise (custom) |
 | [Intercom Fin AI Agent](https://www.intercom.com/fin) | ★★★★☆ | REST API, webhooks | resolve-ticket, answer-questions, escalate | API key | usage-based |
 | [Zendesk AI Agent](https://www.zendesk.com/ai) | ★★★☆☆ | REST API, webhooks | route-ticket, auto-respond, classify-intent | API key / OAuth | enterprise |
 
@@ -123,6 +128,7 @@ update CRM records, or take other real-world actions through it.
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |
 | [Workday Sana Self-Service Agent](https://www.workday.com/en-us/products/sana.html) | ★★★★★ | REST API, Custom Workday API | HR workflow automation (300+ skills), Finance operations automation, Payroll management | Workday OAuth | Enterprise licensing (part of Workday Cloud suite) |
 | [n8n](https://n8n.io) | ★★★★☆ | REST API, webhooks, SDK | workflow-execution, trigger, condition | API key | open-source + cloud |
+| [Reclaim.ai](https://reclaim.ai) | ★★★★☆ | REST API, calendar integration, automation workflows | Intelligent time blocking, Focus time protection, Habit and task scheduling | OAuth | Freemium + premium |
 | [Make (formerly Integromat)](https://www.make.com) | ★★★☆☆ | REST API, webhooks | trigger-scenario, monitor-run, data-mapping | API key | freemium |
 
 ## 🔌 Tool Gateways & MCP

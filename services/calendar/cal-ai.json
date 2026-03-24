@@ -1,0 +1,30 @@
+{
+  "name": "Cal.ai",
+  "vendor": "Cal.com",
+  "category": "calendar",
+  "description": "AI-powered phone calling agent for automated scheduling, reminders, and confirmations. Integrated with Cal.com, agents make human-like phone calls to confirm bookings, remind attendees, or handle rescheduling.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Cal.com Workflows integration", "phone API"],
+  "capabilities": [
+    "AI phone calls for reminders",
+    "Booking confirmations",
+    "No-show follow-ups",
+    "Rescheduling conversations",
+    "Custom prompt scripting",
+    "Voice tone customization",
+    "Fully integrated with Cal.com",
+    "Trigger-based automation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Included with Cal.com premium",
+  "open_source": false,
+  "url": "https://cal.ai",
+  "docs": "https://cal.com/ai",
+  "github": null,
+  "source": "https://cal.com/ai",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Cal.com's agent-native phone calling feature. Makes human-like scheduling calls with customizable prompts and personality. Fully integrated into Cal.com workflows.",
+  "tags": ["phone agent", "scheduling", "meeting confirmation", "cal.com", "voice interaction"]
+}
