@@ -1,0 +1,31 @@
+{
+  "name": "Calljmp",
+  "vendor": "Calljmp",
+  "category": "orchestration",
+  "description": "Code-native agentic backend for building, deploying, and managing AI agents as TypeScript code. Provides agent execution, state management, persistent memory, knowledge retrieval, and evaluation infrastructure. Designed as a dedicated agentic backend alongside app infrastructure.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "TypeScript"],
+  "capabilities": [
+    "Execute agents as code in TypeScript",
+    "Manage agent state and retries",
+    "Persistent memory across agents",
+    "Vector and hybrid search knowledge retrieval",
+    "Tool integration with vetted APIs and databases",
+    "Built-in evaluation and testing framework",
+    "Human-in-the-loop workflows",
+    "Multi-agent orchestration on shared backend",
+    "Traces, logs, and observability"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Usage-based (contact for details)",
+  "open_source": false,
+  "url": "https://calljmp.com",
+  "docs": "https://calljmp.com/docs",
+  "github": null,
+  "source": "https://calljmp.com",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Launched as a production agentic infrastructure platform in early 2026. Combines agent execution, state management, and observability on a managed backend. Designed to keep app backends clean while offloading agent complexity.",
+  "tags": ["orchestration", "agents-as-code", "typescript", "managed-backend", "multi-agent"]
+}

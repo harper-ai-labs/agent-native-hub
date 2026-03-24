@@ -1,0 +1,30 @@
+{
+  "name": "Bright Data Agent Browser",
+  "vendor": "Bright Data",
+  "category": "browser",
+  "description": "Enterprise-grade browser automation API for AI agents. Provides hosted, scalable browser infrastructure with built-in stealth, CAPTCHA solving, proxy rotation, and JavaScript rendering. Supports Puppeteer, Playwright, and Selenium for programmatic control.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Puppeteer", "Playwright", "Selenium"],
+  "capabilities": [
+    "Scalable browser automation",
+    "Built-in CAPTCHA solving",
+    "Automatic proxy rotation",
+    "Stealth browser fingerprinting",
+    "JavaScript rendering",
+    "Website unlocking",
+    "High-performance parallel execution",
+    "Memory management"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API credentials",
+  "pricing": "Pay-as-you-go at $8/GB or included GB plans ($5-7/GB, 71-399GB/month)",
+  "open_source": false,
+  "url": "https://brightdata.com/products/scraping-browser",
+  "docs": "https://brightdata.com/ai/agent-browser",
+  "github": null,
+  "source": "https://brightdata.com/ai/agent-browser",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Enterprise solution for large-scale browser automation. Handles infrastructure, fingerprinting, and CAPTCHA challenges automatically. Recommended for production agent deployment at scale. First deposit matched dollar-for-dollar up to $500.",
+  "tags": ["browser-automation", "enterprise", "captcha-solving", "proxy-rotation", "stealth"]
+}

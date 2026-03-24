@@ -1,0 +1,28 @@
+{
+  "name": "IRONSCALES AI Email Agents",
+  "vendor": "IRONSCALES",
+  "category": "email",
+  "description": "Purpose-built AI agents for email security including Red Teaming Agent, Phishing SOC Agent, and Phishing Simulation Agent. Native API integration with Microsoft 365 and Google Workspace for in-inbox deployment without infrastructure changes.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Microsoft 365 API", "Google Workspace API"],
+  "capabilities": [
+    "Continuous reconnaissance and attack simulation (Red Teaming Agent)",
+    "Rapid forensic investigation of suspicious emails (Phishing SOC Agent)",
+    "Hyper-personalized phishing simulations based on OSINT (Phishing Simulation Agent)",
+    "Native integration with email platforms",
+    "Domain-specific agent expertise",
+    "Automated security assessments"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth 2.0 (Microsoft 365, Google Workspace)",
+  "pricing": "Enterprise (contact for details)",
+  "open_source": false,
+  "url": "https://ironscales.com/platform/agents",
+  "docs": "https://ironscales.com/platform/api",
+  "github": null,
+  "source": "https://ironscales.com/news/ironscales-launches-three-ai-agents-to-help-security-teams-outsmart-bad-actors-and-agentic-cybercrime-in-the-era-of-phishing-3.0",
+  "verified": true,
+  "last_verified": "2026-03-24",
+  "notes": "Winter 2026 release announced in March 2026. Three purpose-built agents for email security. Deployment requires only admin-level API access, no MX record changes. Shift from reactive to preemptive email security.",
+  "tags": ["email-security", "phishing-prevention", "agent-native", "microsoft-365", "google-workspace"]
+}
