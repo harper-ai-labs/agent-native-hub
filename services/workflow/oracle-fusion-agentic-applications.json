@@ -1,0 +1,33 @@
+{
+  "name": "Oracle Fusion Agentic Applications",
+  "vendor": "Oracle",
+  "category": "workflow",
+  "description": "A new class of enterprise applications powered by coordinated teams of specialized AI agents that are outcome-driven, proactive, and reasoning-based. Built natively into Oracle Fusion Cloud Applications, these agents make and execute decisions within business processes with full enterprise governance. 22 pre-built agentic applications available for finance, HR, supply chain, and customer experience domains.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "native Oracle APIs", "webhook"],
+  "capabilities": [
+    "execute business decisions autonomously within guardrails",
+    "coordinate multi-agent teams with specific roles and expertise",
+    "maintain shared context across workflow steps and time",
+    "continuously reason and adjust based on changing conditions",
+    "surface only exceptions and high-impact decisions to humans",
+    "operate with full enterprise-grade governance and auditability",
+    "integrate with unified enterprise data and policies",
+    "manage workforce operations and scheduling",
+    "identify supplier sourcing opportunities",
+    "drive cross-sell opportunities",
+    "accelerate cash collection workflows"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth 2.0, Oracle Cloud Identity",
+  "pricing": "Included with Oracle Fusion Cloud Applications subscriptions (ERP, HCM, SCM, CX)",
+  "open_source": false,
+  "url": "https://www.oracle.com/applications/",
+  "docs": "https://www.oracle.com/artificial-intelligence/ai-agents/",
+  "github": null,
+  "source": "https://www.oracle.com/news/announcement/oracle-introduces-fusion-agentic-applications-2026-03-24/",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Announced March 24, 2026 at Oracle AI World. 22 pre-built agentic applications available: Workforce Operations, Design-to-Source Workspace, Cross-Sell Program Workspace, Collectors Workspace, and others. Agents operate inside Fusion applications with native access to data, policies, approval hierarchies, and governance framework. Supported by Oracle AI Agent Studio and Agentic Applications Builder.",
+  "tags": ["enterprise-workflow", "erp", "finance", "hr", "supply-chain", "customer-experience", "outcome-driven", "governance"]
+}

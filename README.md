@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**69 services** across 11 categories | Last updated: 2026-03-24
+**71 services** across 11 categories | Last updated: 2026-03-25
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -71,6 +71,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Console](https://www.console.com) | ★★★★★ | REST API, webhook, natural language playbooks | Auto-resolve IT service requests, Password reset automation, Access provisioning | OAuth | Enterprise (custom) |
+| [Lucidya](https://lucidya.com) | ★★★★★ | REST API, webhook, SDK | handle customer conversations autonomously, detect and respond to customer intents, understand 15+ Arabic dialects with 92%+ accuracy | API key | Enterprise tier (ROI-based: 60-70% cost reduction, 90%+ FCR) |
 | [Intercom Fin AI Agent](https://www.intercom.com/fin) | ★★★★☆ | REST API, webhooks | resolve-ticket, answer-questions, escalate | API key | usage-based |
 | [Zendesk AI Agent](https://www.zendesk.com/ai) | ★★★☆☆ | REST API, webhooks | route-ticket, auto-respond, classify-intent | API key / OAuth | enterprise |
 
@@ -128,6 +129,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |
+| [Oracle Fusion Agentic Applications](https://www.oracle.com/applications/) | ★★★★★ | REST API, native Oracle APIs, webhook | execute business decisions autonomously within guardrails, coordinate multi-agent teams with specific roles and expertise, maintain shared context across workflow steps and time | OAuth 2.0, Oracle Cloud Identity | Included with Oracle Fusion Cloud Applications subscriptions (ERP, HCM, SCM, CX) |
 | [Workday Sana Self-Service Agent](https://www.workday.com/en-us/products/sana.html) | ★★★★★ | REST API, Custom Workday API | HR workflow automation (300+ skills), Finance operations automation, Payroll management | Workday OAuth | Enterprise licensing (part of Workday Cloud suite) |
 | [n8n](https://n8n.io) | ★★★★☆ | REST API, webhooks, SDK | workflow-execution, trigger, condition | API key | open-source + cloud |
 | [Reclaim.ai](https://reclaim.ai) | ★★★★☆ | REST API, calendar integration, automation workflows | Intelligent time blocking, Focus time protection, Habit and task scheduling | OAuth | Freemium + premium |

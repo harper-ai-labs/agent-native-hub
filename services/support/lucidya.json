@@ -1,0 +1,29 @@
+{
+  "name": "Lucidya",
+  "vendor": "Lucidya",
+  "category": "support",
+  "description": "AI-native Customer Experience Management (CXM) platform with autonomous AI agents capable of handling customer service across 15+ Arabic dialects. Agents directly manage conversations, detect customer intent, and resolve issues autonomously with enterprise-grade governance and compliance.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook", "SDK"],
+  "capabilities": [
+    "handle customer conversations autonomously",
+    "detect and respond to customer intents",
+    "understand 15+ Arabic dialects with 92%+ accuracy",
+    "manage case escalations",
+    "provide 24/7 autonomous support",
+    "achieve 90%+ first-contact resolution",
+    "scale customer service without proportional headcount growth"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise tier (ROI-based: 60-70% cost reduction, 90%+ FCR)",
+  "open_source": false,
+  "url": "https://lucidya.com",
+  "docs": "https://lucidya.com/docs",
+  "github": null,
+  "source": "https://www.newsfilecorp.com/release/289313/Lucidya-Launches-Enterprise-AI-Agent-Platform-Accelerates-Regional-Expansion",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Launched Enterprise AI Agent platform Q1 2026 following $30M Series B. Purpose-built for MENA markets with 3x YoY sales growth in Q4 2025. Agents operate independently handling thousands of simultaneous conversations.",
+  "tags": ["customer-service", "arabic", "autonomous-agents", "cxm", "multilingual", "mena-focus"]
+}
