@@ -1,0 +1,29 @@
+{
+  "name": "Sierra",
+  "vendor": "Sierra AI",
+  "category": "messaging",
+  "description": "Enterprise AI agent platform for conversational concierge experiences. Autonomous agents handle complex multi-turn conversations across digital, messaging, and voice channels with outcome-based pricing.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Webhook", "Native integrations", "Multi-channel"],
+  "capabilities": [
+    "Multi-turn conversational reasoning",
+    "Autonomous issue resolution",
+    "Cross-channel messaging (digital, SMS, voice)",
+    "Backend system navigation and transactions",
+    "Multiple LLM constellation architecture",
+    "Real customer relationship learning",
+    "Issue resolution and cancellation prevention",
+    "Upsell opportunity identification"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Outcome-based pricing model; contracts typically start $150K-$1.5M+ annually",
+  "open_source": false,
+  "url": "https://sierra.ai",
+  "docs": "https://sierra.ai/docs",
+  "source": "https://www.fastcompany.com/91495408/applied-ai-most-innovative-companies-2026",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Co-founded by Bret Taylor (former Salesforce co-CEO) and Clay Bavor (former Google). Raised $350M in Sept 2025 at $10B valuation. Targets Fortune 100 companies across financial services, healthcare, retail. Sierra Agent OS 2.0 released emphasizing unified agent across channels.",
+  "tags": ["conversational-ai", "customer-service", "enterprise", "multi-channel", "voice-agent", "autonomous-resolution"]
+}

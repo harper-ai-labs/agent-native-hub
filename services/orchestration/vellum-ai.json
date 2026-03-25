@@ -1,0 +1,29 @@
+{
+  "name": "Vellum AI",
+  "vendor": "Vellum",
+  "category": "orchestration",
+  "description": "Enterprise platform for building, evaluating, and governing AI agents at scale. Combines no-code visual builder with Python/TypeScript SDKs for flexible agent development, deployment, and monitoring.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Python SDK", "TypeScript SDK", "WebUI"],
+  "capabilities": [
+    "Agent building from natural language prompts",
+    "Multi-step workflow orchestration",
+    "Autonomous agent execution",
+    "Evaluations and quality assurance",
+    "Versioning and rollback management",
+    "Full observability and tracing",
+    "Cost tracking per-run and per-agent",
+    "Multi-cloud deployment"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, SSO/SAML",
+  "pricing": "Custom enterprise pricing",
+  "open_source": false,
+  "url": "https://vellum.ai",
+  "docs": "https://docs.vellum.ai",
+  "source": "https://vellum.ai/blog/guide-to-enterprise-ai-automation-platforms",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Enterprise-grade platform with SOC 2, GDPR, HIPAA compliance. Strong focus on evaluations, tracing, and observability for production agents. Recent updates (Jan-Feb 2026) include Microsoft Teams integration and mock data generation for testing.",
+  "tags": ["agent-builder", "orchestration", "enterprise", "evaluations", "observability", "workflow-automation"]
+}

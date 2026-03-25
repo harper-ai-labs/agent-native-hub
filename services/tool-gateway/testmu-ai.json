@@ -1,0 +1,30 @@
+{
+  "name": "TestMu AI",
+  "vendor": "LambdaTest Inc. (now TestMu AI)",
+  "category": "tool-gateway",
+  "description": "Full-stack agentic AI quality engineering platform providing agent-to-agent testing. Uses autonomous evaluators to validate and secure AI-driven systems with multi-modal testing support.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "CI/CD integration", "Cloud infrastructure", "Enterprise tools integration"],
+  "capabilities": [
+    "Agent-to-agent testing validation",
+    "Autonomous multi-agent scenario generation",
+    "Multi-modal testing (text, voice, hybrid)",
+    "Quality metrics assessment (accuracy, bias, hallucination detection)",
+    "Scalable cloud test infrastructure",
+    "AI-native test case generation from multiple formats",
+    "HyperExecute smart test orchestration",
+    "Real-time testing across devices and browsers"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Custom enterprise pricing with usage-based tiers",
+  "open_source": false,
+  "url": "https://testmuai.com",
+  "docs": "https://docs.testmuai.com",
+  "github": "https://github.com/testmu-ai",
+  "source": "https://www.globenewswire.com/news-release/2026/03/24/3261494/0/en/TestMu-AI-Unveils-Major-Enhancements-to-AI-Agent-to-Agent-Testing-Platform-Empowering-Organizations-to-Validate-AI-Agents-Across-Real-World-Scenarios.html",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Major enhancements released March 2026. Focuses on autonomous evaluation of AI agents across real-world scenarios. Available on AWS Marketplace and Microsoft Marketplace. Particularly strong for validating conversational and voice-based agents.",
+  "tags": ["testing", "agent-validation", "quality-assurance", "ai-testing", "autonomous-evaluation", "multi-modal"]
+}

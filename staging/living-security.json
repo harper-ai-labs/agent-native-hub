@@ -1,0 +1,29 @@
+{
+  "name": "Living Security Platform",
+  "vendor": "Living Security",
+  "category": "support",
+  "description": "AI-native human risk management platform designed to secure hybrid workforce of humans and AI agents. Uses Livvy AI engine for behavioral risk intelligence, remediation automation, and AI agent monitoring.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Integration APIs", "Webhook"],
+  "capabilities": [
+    "AI agent discovery and monitoring",
+    "Behavioral risk analysis (300+ signals)",
+    "Agentic remediation automation",
+    "AI agent relationship mapping",
+    "Blast radius measurement per agent",
+    "Context-aware decisioning",
+    "Security content generation",
+    "Real-time risk intelligence"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "OAuth, API key",
+  "pricing": "Custom enterprise pricing",
+  "open_source": false,
+  "url": "https://www.livingsecurity.com",
+  "docs": "https://docs.livingsecurity.com",
+  "source": "https://www.morningstar.com/news/accesswire/1151061msn/living-security-launches-ai-native-human-risk-management-platform-to-secure-the-hybrid-workforce-of-humans-and-ai-agents",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "GA launch March 24, 2026. Purpose-built for managing both human and AI agent risk. Livvy AI engine powers behavioral analysis. Early adopters report 90%+ satisfaction and significant reduction in high-risk users. Strong compliance posture (Forrester Leader Q3 2024).",
+  "tags": ["security", "risk-management", "ai-agent-monitoring", "behavioral-analytics", "compliance", "remediation"]
+}

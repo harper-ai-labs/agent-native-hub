@@ -1,0 +1,29 @@
+{
+  "name": "Agentic Fabriq",
+  "vendor": "Agentic Fabriq",
+  "category": "tool-gateway",
+  "description": "Agent-native identity and access management solution. Provides identity control plane for AI agents with SSO, MFA, permissions management, and audit trails for enterprise agent deployments.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "OAuth 2.0", "SAML", "API integrations"],
+  "capabilities": [
+    "Agent registration and lifecycle management",
+    "Agent-specific SSO/MFA",
+    "Identity provider (IDP) linking",
+    "Permission and access control management",
+    "Dynamic agent discovery and organization",
+    "Real-time analytics and reporting",
+    "Comprehensive audit trails",
+    "Agent-to-agent interaction governance"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth 2.0, SAML, API key",
+  "pricing": "Custom enterprise pricing",
+  "open_source": false,
+  "url": "https://www.agenticfabriq.com",
+  "docs": "https://docs.agenticfabriq.com",
+  "source": "https://venturebeat.com/business/how-agent-native-identity-is-becoming-the-missing-layer-in-enterprise-ai",
+  "verified": true,
+  "last_verified": "2026-03-25",
+  "notes": "Founded by Paulina Xu and Matthew Xu. Addresses 'agent sprawl' by treating AI agents as first-class identities. Launched February 2026. Critical for enterprises managing multiple autonomous agents across systems.",
+  "tags": ["identity-management", "security", "agent-governance", "access-control", "compliance", "audit"]
+}

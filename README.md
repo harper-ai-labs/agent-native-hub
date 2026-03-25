@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**65 services** across 11 categories | Last updated: 2026-03-24
+**69 services** across 11 categories | Last updated: 2026-03-24
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -78,6 +78,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Sierra](https://sierra.ai) | ★★★★★ | REST API, Webhook, Native integrations | Multi-turn conversational reasoning, Autonomous issue resolution, Cross-channel messaging (digital, SMS, voice) | API key, OAuth | Outcome-based pricing model; contracts typically start $150K-$1.5M+ annually |
 | [Slack MCP Server](https://slack.com/intl/en-us/help/articles/api) | ★★★★☆ | MCP, REST API, webhooks | send-message, read-messages, search | OAuth | free (via Slack API) |
 | [Twilio MCP Server](https://www.twilio.com) | ★★★★☆ | MCP, REST API | send-sms, send-whatsapp, receive-message | API key | usage-based |
 
@@ -119,6 +120,7 @@ update CRM records, or take other real-world actions through it.
 | [Nvidia Agent Toolkit](https://www.nvidia.com) | ★★★★★ | Python SDK, REST API | agent creation and deployment, autonomous agent orchestration, multi-agent coordination | API key | Open source (free) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
+| [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
 | [Microsoft Copilot Cowork](https://www.microsoft.com) | ★★★★☆ | REST API, Azure SDK | multi-agent orchestration, autonomous task execution, enterprise system integration | Azure AD / OAuth | Enterprise (part of Microsoft 365/Azure) |
 
 ## 🔄 Workflow Automation
@@ -135,11 +137,13 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Agentic Fabriq](https://www.agenticfabriq.com) | ★★★★★ | REST API, OAuth 2.0, SAML | Agent registration and lifecycle management, Agent-specific SSO/MFA, Identity provider (IDP) linking | OAuth 2.0, SAML, API key | Custom enterprise pricing |
 | [Arcade AI](https://arcade.ai) | ★★★★★ | REST API, SDK | tool-execution, auth-management, permission-control | API key | usage-based |
 | [Composio](https://composio.dev) | ★★★★★ | REST API, SDK, MCP | tool-routing, auth-management, trigger | API key | freemium |
 | [E2B Code Interpreter Sandbox](https://e2b.dev) | ★★★★★ | SDK (Python/TypeScript/Node.js), REST API, Firecracker microVMs | Secure code execution (Python, JavaScript, Ruby, C++), File system access and manipulation, Terminal command execution | API key | Pay-as-you-go + enterprise plans |
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
+| [TestMu AI](https://testmuai.com) | ★★★★★ | REST API, CI/CD integration, Cloud infrastructure | Agent-to-agent testing validation, Autonomous multi-agent scenario generation, Multi-modal testing (text, voice, hybrid) | API key, OAuth | Custom enterprise pricing with usage-based tiers |
 | [Zapier MCP Server](https://zapier.com/mcp) | ★★★★☆ | MCP, REST API | trigger-automation, create-record, update-record | API key | freemium |
 
 ---
