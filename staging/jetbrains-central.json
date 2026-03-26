@@ -2,29 +2,42 @@
   "name": "JetBrains Central",
   "vendor": "JetBrains",
   "category": "orchestration",
-  "description": "An open system for agentic software development. Control and execution plane for agent-driven software production that connects tools, agents, and infrastructure. Enables coordinated agent workflows across IDEs, CLIs, and pipelines with governance, observability, cost attribution, and semantic context across repositories.",
+  "description": "Open-system for agentic software development. Provides governance, agent execution infrastructure, and shared semantic context for coordinating work between humans and AI agents across the full software development lifecycle (IDEs, CLIs, pipelines, collaboration tools).",
   "agent_native_score": 4,
-  "protocols": ["REST API", "IDE integration", "CLI", "webhooks"],
-  "capabilities": [
-    "orchestrate agent-driven workflows across development environments",
-    "support external agents (Claude Agent, Codex, Gemini CLI, custom)",
-    "route tasks to appropriate models or tools",
-    "provide shared semantic context across repositories and projects",
-    "enforce policy and access control",
-    "track costs and audit agent work",
-    "execute code generation, testing, and review workflows",
-    "integrate with JetBrains IDEs, third-party IDEs, CLI, web interfaces"
+  "protocols": [
+    "REST API",
+    "IDE integration",
+    "CLI integration",
+    "MCP"
   ],
-  "interaction_model": "human-in-the-loop",
-  "auth": "OAuth via JetBrains Account",
-  "pricing": "TBD - expected Q2 2026 (Early Access Program starting)",
+  "capabilities": [
+    "Initiate and manage agent workflows",
+    "Policy enforcement and governance",
+    "Identity and access management",
+    "Cost attribution and observability",
+    "Task routing to appropriate models/tools",
+    "Agent execution infrastructure (cloud runtimes)",
+    "Semantic context across repositories and projects",
+    "Multi-agent coordination"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth / JetBrains account",
+  "pricing": "TBD (pricing update planned with GA)",
   "open_source": false,
-  "url": "https://www.jetbrains.com/central/",
+  "url": "https://www.jetbrains.com/",
   "docs": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
   "github": null,
   "source": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
   "verified": true,
-  "last_verified": "2026-03-25",
-  "notes": "Announced March 24, 2026. Early Access Program launching Q2 2026. Designed for coordinating work between humans and AI agents. Includes JetBrains Air (workspace for organizing tasks) and upcoming Air Team (team coordination). Non-monolithic, layered architecture with semantic layer aggregating info from code, architecture, runtime behavior, and organizational knowledge.",
-  "tags": ["software-development", "orchestration", "governance", "multi-agent", "semantic-context", "dev-tools"]
+  "last_verified": "2026-03-26",
+  "notes": "Announced March 24, 2026. Early Access Program launching Q2 2026. Works with Claude Agent, Codex, Gemini CLI, and custom agents. Integrates with Slack, Atlassian, Linear. No lock-in design; works with tools teams already use. Air Team for coordinating human-agent workflows coming soon.",
+  "tags": [
+    "orchestration",
+    "software-development",
+    "multi-agent",
+    "governance",
+    "cost-management",
+    "2026-launch",
+    "early-access"
+  ]
 }

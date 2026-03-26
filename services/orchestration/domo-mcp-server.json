@@ -1,0 +1,37 @@
+{
+  "name": "Domo MCP Server",
+  "vendor": "Domo",
+  "category": "orchestration",
+  "description": "Enterprise AI orchestration platform with MCP Server that connects business data and workflows to external AI agents (Claude, Gemini, ChatGPT). Agents can query datasets, trigger workflows, create dashboards, and configure alerts with governed enterprise data access.",
+  "agent_native_score": 5,
+  "protocols": [
+    "MCP",
+    "REST API"
+  ],
+  "capabilities": [
+    "Query datasets and analytics",
+    "Trigger workflows and automation",
+    "Create dashboards and applications",
+    "Configure alerts and operational processes",
+    "Render interactive dashboards in chat interfaces"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "Enterprise (contact sales)",
+  "open_source": false,
+  "url": "https://www.domo.com/",
+  "docs": "https://www.domo.com/ai",
+  "github": null,
+  "source": "https://lasvegassun.com/news/2026/mar/25/domo-launches-ai-agent-builder-and-mcp-server-to-c/",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "Announced March 25, 2026 at Domopalooza. Includes AI Agent Builder, AI Toolkits, and centralized AI Library. Agents can securely interact with governed enterprise data without duplicating logic. First-class AI integration via MCP.",
+  "tags": [
+    "mcp",
+    "enterprise",
+    "orchestration",
+    "data-governance",
+    "workflow-automation",
+    "2026-launch"
+  ]
+}

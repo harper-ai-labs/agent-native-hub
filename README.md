@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**71 services** across 11 categories | Last updated: 2026-03-25
+**73 services** across 11 categories | Last updated: 2026-03-25
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -52,6 +52,7 @@ update CRM records, or take other real-world actions through it.
 | [ChatGPT Atlas](https://openai.com) | ★★★★★ | Browser API, OpenAI API integration | autonomous multi-step task execution, computer vision for web understanding, form navigation and filling | OpenAI account + API key | Premium tier (pricing TBD) |
 | [EverWorker Agentic Browser](https://everworker.ai) | ★★★★★ | REST API | navigate, click, fill-form | API key | usage-based |
 | [Fellou](https://fellou.ai) | ★★★★★ | browser automation, computer use, agentic memory API | Multi-source web research automation, Logged-in account access (Reddit, etc.), Complex data scraping | API key | Free tier + paid plans |
+| [Google Colab MCP Server](https://colab.google/) | ★★★★★ | MCP, Model Context Protocol | Add and structure notebook cells, Write and execute Python code in real-time, Move and organize cells | Google account / OAuth | Free (Google Colab standard) |
 | [Perplexity Comet](https://www.perplexity.ai) | ★★★★★ | Browser API, Native integration | autonomous web navigation, form filling and data extraction, product comparison | Perplexity account | Freemium with premium tier |
 | [Stagehand](https://github.com/browserbase/stagehand) | ★★★★★ | SDK | navigate, act, extract | API key | open-source + hosted |
 | [Vercel Labs agent-browser](https://github.com/vercel-labs/agent-browser) | ★★★★★ | SDK | navigate, click, fill-form | none | free |
@@ -115,6 +116,7 @@ update CRM records, or take other real-world actions through it.
 | [Calljmp](https://calljmp.com) | ★★★★★ | REST API, SDK, TypeScript | Execute agents as code in TypeScript, Manage agent state and retries, Persistent memory across agents | API key | Usage-based (contact for details) |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
+| [Domo MCP Server](https://www.domo.com/) | ★★★★★ | MCP, REST API | Query datasets and analytics, Trigger workflows and automation, Create dashboards and applications | OAuth | Enterprise (contact sales) |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
 | [Nutanix Agentic AI](https://www.nutanix.com/products/agentic-ai) | ★★★★★ | Kubernetes, MCP, REST API | Agent infrastructure orchestration, MCP server integration for tool connectivity, Model-as-a-Service (MaaS) | Enterprise authentication | Enterprise licensing |

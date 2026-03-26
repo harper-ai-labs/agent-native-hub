@@ -1,0 +1,40 @@
+{
+  "name": "Google Colab MCP Server",
+  "vendor": "Google",
+  "category": "browser",
+  "description": "Open-source MCP Server enabling any AI agent to directly control Google Colab notebooks. Agents can create cells, write and execute Python code, manage dependencies, generate visualizations, and organize notebook content programmatically. Treats Colab as an automated cloud compute workspace.",
+  "agent_native_score": 5,
+  "protocols": [
+    "MCP",
+    "Model Context Protocol"
+  ],
+  "capabilities": [
+    "Add and structure notebook cells",
+    "Write and execute Python code in real-time",
+    "Move and organize cells",
+    "Manage dependencies (pip install)",
+    "Create markdown explanations",
+    "Build reproducible executable artifacts",
+    "Generate data visualizations"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Google account / OAuth",
+  "pricing": "Free (Google Colab standard)",
+  "open_source": true,
+  "url": "https://colab.google/",
+  "docs": "https://github.com/googlecolab/colab-mcp",
+  "github": "https://github.com/googlecolab/colab-mcp",
+  "source": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "Released March 17, 2026. Open-source MCP server. Agents can programmatically control entire notebook lifecycle. Works with Gemini CLI, Claude Code, custom agents. Removes context switching between local development and cloud compute. GitHub contributions welcome.",
+  "tags": [
+    "mcp",
+    "open-source",
+    "cloud-compute",
+    "code-execution",
+    "notebook",
+    "sandbox",
+    "2026-launch"
+  ]
+}
