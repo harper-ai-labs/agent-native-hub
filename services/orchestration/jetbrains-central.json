@@ -1,0 +1,39 @@
+{
+  "name": "JetBrains Central",
+  "vendor": "JetBrains",
+  "category": "orchestration",
+  "description": "An open system for agentic software development that serves as the control and execution plane for agent-driven software production. Connects tools, agents, and infrastructure with governance, agent execution infrastructure, and semantic context sharing across repositories.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "cloud-execution", "IDE-integration"],
+  "capabilities": [
+    "Multi-agent orchestration and coordination",
+    "Cloud agent runtimes and computation provisioning",
+    "Policy enforcement and identity/access management",
+    "Task routing to appropriate models or tools",
+    "Cost attribution and observability",
+    "Semantic context aggregation across code/architecture/runtime behavior",
+    "Agent workflow management across IDEs, CLIs, and web interfaces",
+    "Integration with Slack, Atlassian, Linear for agent collaboration"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth / API key (details pending EAP)",
+  "pricing": "Per-organization pricing model (details pending Q2 2026 launch)",
+  "open_source": false,
+  "url": "https://console.jetbrains.cloud/",
+  "docs": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
+  "github": null,
+  "source": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "Announced March 24, 2026 at announcement event. Early Access Program launching Q2 2026 with limited design partners. Supports agents from JetBrains, Anthropic (Claude Agent), Google (Gemini CLI), and custom-built solutions. Distinct from Air App (workspace coordination tool) which complements Central.",
+  "tags": [
+    "agentic-workflows",
+    "multi-agent-orchestration",
+    "software-development",
+    "governance",
+    "cost-management",
+    "2026-launch",
+    "design-partners",
+    "distributed-agents"
+  ]
+}

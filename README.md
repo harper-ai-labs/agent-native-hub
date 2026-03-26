@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**73 services** across 11 categories | Last updated: 2026-03-25
+**74 services** across 11 categories | Last updated: 2026-03-25
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -117,6 +117,7 @@ update CRM records, or take other real-world actions through it.
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
 | [Domo MCP Server](https://www.domo.com/) | ★★★★★ | MCP, REST API | Query datasets and analytics, Trigger workflows and automation, Create dashboards and applications | OAuth | Enterprise (contact sales) |
+| [JetBrains Central](https://console.jetbrains.cloud/) | ★★★★★ | REST API, cloud-execution, IDE-integration | Multi-agent orchestration and coordination, Cloud agent runtimes and computation provisioning, Policy enforcement and identity/access management | OAuth / API key (details pending EAP) | Per-organization pricing model (details pending Q2 2026 launch) |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
 | [Nutanix Agentic AI](https://www.nutanix.com/products/agentic-ai) | ★★★★★ | Kubernetes, MCP, REST API | Agent infrastructure orchestration, MCP server integration for tool connectivity, Model-as-a-Service (MaaS) | Enterprise authentication | Enterprise licensing |
