@@ -1,0 +1,30 @@
+{
+  "name": "Base44",
+  "vendor": "Base44 Inc.",
+  "category": "tool-gateway",
+  "description": "AI-first Backend as a Service (BaaS) platform with AI agents as the core interface. Generates backend logic, APIs, data models, and handles authentication, storage, and integrations autonomously based on natural language specifications.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "CLI"],
+  "capabilities": [
+    "Autonomous backend generation from descriptions",
+    "Database management with MongoDB-compatible queries",
+    "User authentication (OAuth, Email/Password)",
+    "Serverless TypeScript function execution",
+    "AI integrations and file storage",
+    "Workflow automation and task execution",
+    "Global hosting with automatic HTTPS",
+    "Customizable AI agent behavior via config"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key / OAuth",
+  "pricing": "Usage-based (storage, compute, functions)",
+  "open_source": false,
+  "url": "https://base44.com",
+  "docs": "https://docs.base44.com",
+  "github": "https://github.com/base44",
+  "source": "https://base44.com/backend",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "AI-driven backend infrastructure designed for autonomous agents to build full-stack applications. Base44 Skills provide structured instruction sets for AI coding agents. Supports custom AI assistants with local JSONC configuration. Optimized for real-time, mobile, headless, and automation use cases.",
+  "tags": ["backend-as-service", "ai-first", "serverless", "automation", "no-code"]
+}

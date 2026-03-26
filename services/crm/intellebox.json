@@ -1,0 +1,30 @@
+{
+  "name": "Intellebox.ai",
+  "vendor": "Intellebox Inc.",
+  "category": "crm",
+  "description": "Agentic AI platform for wealth management and financial advisory. Provides autonomous AI agents (AI Virtual Advisors) trained on firm expertise for client engagement, workflow automation, compliance, and personalized investment intelligence.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": [
+    "AI Virtual Advisors (avatars trained on firm expertise)",
+    "Autonomous client engagement and inquiry handling",
+    "Personalized wealth management recommendations",
+    "Workflow automation for advisory processes",
+    "Automated compliance and regulatory management",
+    "Predictive analytics for investment intelligence",
+    "Real-time personalized insights and alerts",
+    "Continuous learning from firm data"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key / OAuth",
+  "pricing": "Contact for pricing",
+  "open_source": false,
+  "url": "https://intellebox.ai",
+  "docs": "https://intellebox.ai/docs",
+  "github": null,
+  "source": "https://www.morningstar.com/news/business-wire/20260223960978/intelleboxai-marks-first-major-governance-move-following-2025-spinout-from-intellectus",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "Spun out from Intellectus Partners in late 2025. Platform includes INTLX Agentic AI Ecosystem, Predictive AI Analytics Lab, and Intelligent Compliance Center. Partnered with Bear Traps Report in March 2026. Already live with multiple firms; rapidly expanding to RIAs, hedge funds, and broker-dealers.",
+  "tags": ["wealth-management", "financial-advisory", "autonomous-agents", "compliance", "crm"]
+}

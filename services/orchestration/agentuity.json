@@ -1,0 +1,30 @@
+{
+  "name": "Agentuity",
+  "vendor": "Agentuity Inc.",
+  "category": "orchestration",
+  "description": "Full-stack cloud platform purpose-built for AI agents. Provides infrastructure for building, deploying, and scaling autonomous agentic software with long-running execution, stateful persistence, advanced observability, and deployment flexibility across clouds and on-premises environments.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "gRPC"],
+  "capabilities": [
+    "Build and deploy agentic applications",
+    "Long-running agent execution with pausing/resuming",
+    "Stateful persistence and session management",
+    "Secure sandboxed code execution",
+    "Multi-channel output (email, SMS, chat)",
+    "Advanced observability and tracing",
+    "Production evaluation and safety assessment",
+    "Type-safe APIs with React frontends"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key / SDK auth",
+  "pricing": "Usage-based (compute, storage, execution time)",
+  "open_source": false,
+  "url": "https://agentuity.com",
+  "docs": "https://docs.agentuity.com",
+  "github": "https://github.com/agentuity",
+  "source": "https://agentuity.com/blog/agentuity-v1-is-here",
+  "verified": true,
+  "last_verified": "2026-03-26",
+  "notes": "V1 launched February 2026. Purpose-built infrastructure addressing gaps in traditional cloud platforms for autonomous agents. Supports hybrid deployment (public/private cloud, on-premises, edge). Features custom orchestration layer, built-in storage services, and advanced evaluation capabilities.",
+  "tags": ["agent-infrastructure", "serverless", "orchestration", "full-stack", "v1-launch-2026"]
+}

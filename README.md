@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**74 services** across 11 categories | Last updated: 2026-03-25
+**77 services** across 11 categories | Last updated: 2026-03-26
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -63,6 +63,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Attio MCP Server](https://attio.com) | ★★★★★ | MCP, REST API | create-contact, update-contact, create-deal | API key | freemium |
+| [Intellebox.ai](https://intellebox.ai) | ★★★★★ | REST API, SDK | AI Virtual Advisors (avatars trained on firm expertise), Autonomous client engagement and inquiry handling, Personalized wealth management recommendations | API key / OAuth | Contact for pricing |
 | [Salesforce Agentforce Sales](https://www.salesforce.com) | ★★★★★ | REST API, Salesforce SDK, MCP | lead qualification, pipeline management, proposal generation | OAuth 2.0 | Enterprise pricing (part of Salesforce suite) |
 | [Confirm](https://www.confirm.com) | ★★★★☆ | REST API, Slack integration, Microsoft Teams integration | Autonomous performance review facilitation, Manager coaching and capability building, Real-time bias detection in calibration sessions | OAuth | $8-14 per person per month (base + optional add-ons) |
 | [HubSpot MCP Server](https://www.hubspot.com) | ★★★★☆ | MCP, REST API | manage-contacts, manage-deals, create-tickets | API key / OAuth | freemium |
@@ -109,6 +110,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [A2A (Agent2Agent) Protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) | ★★★★★ | A2A | agent-discovery, task-delegation, capability-advertisement | varies | free |
+| [Agentuity](https://agentuity.com) | ★★★★★ | REST API, SDK, gRPC | Build and deploy agentic applications, Long-running agent execution with pausing/resuming, Stateful persistence and session management | API key / SDK auth | Usage-based (compute, storage, execution time) |
 | [Alibaba Wukong](https://www.alibaba.com) | ★★★★★ | REST API, SDK | coordinate multiple agents, document automation, transcription processing | API key | Invitation-only beta (pricing TBD) |
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
@@ -144,6 +146,7 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [Agentic Fabriq](https://www.agenticfabriq.com) | ★★★★★ | REST API, OAuth 2.0, SAML | Agent registration and lifecycle management, Agent-specific SSO/MFA, Identity provider (IDP) linking | OAuth 2.0, SAML, API key | Custom enterprise pricing |
 | [Arcade AI](https://arcade.ai) | ★★★★★ | REST API, SDK | tool-execution, auth-management, permission-control | API key | usage-based |
+| [Base44](https://base44.com) | ★★★★★ | REST API, SDK, CLI | Autonomous backend generation from descriptions, Database management with MongoDB-compatible queries, User authentication (OAuth, Email/Password) | API key / OAuth | Usage-based (storage, compute, functions) |
 | [Composio](https://composio.dev) | ★★★★★ | REST API, SDK, MCP | tool-routing, auth-management, trigger | API key | freemium |
 | [E2B Code Interpreter Sandbox](https://e2b.dev) | ★★★★★ | SDK (Python/TypeScript/Node.js), REST API, Firecracker microVMs | Secure code execution (Python, JavaScript, Ruby, C++), File system access and manipulation, Terminal command execution | API key | Pay-as-you-go + enterprise plans |
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
