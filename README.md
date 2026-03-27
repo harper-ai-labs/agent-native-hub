@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**77 services** across 11 categories | Last updated: 2026-03-26
+**81 services** across 11 categories | Last updated: 2026-03-26
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -116,6 +116,7 @@ update CRM records, or take other real-world actions through it.
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
 | [Beam AI Platform (Agent OS)](https://beam.ai) | ★★★★★ | REST API, web interface | No-code agent creation from SOPs, Multi-language customer support, 24/7 availability automation | OAuth, API key | Enterprise (contact sales) |
 | [Calljmp](https://calljmp.com) | ★★★★★ | REST API, SDK, TypeScript | Execute agents as code in TypeScript, Manage agent state and retries, Persistent memory across agents | API key | Usage-based (contact for details) |
+| [Charlotte AI AgentWorks](https://www.crowdstrike.com/en-us/products/cloud-workload-protection/falcon-platform/) | ★★★★★ | REST API, Falcon Platform API | Build custom security agents without code, Orchestrate multi-agent security workflows, Scale agent deployments | Falcon platform credentials | Included with Falcon platform subscription |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
 | [Domo MCP Server](https://www.domo.com/) | ★★★★★ | MCP, REST API | Query datasets and analytics, Trigger workflows and automation, Create dashboards and applications | OAuth | Enterprise (contact sales) |
@@ -133,6 +134,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Every.ai](https://every.ai) | ★★★★★ | MCP, REST API, Email | Book services and schedule meetings programmatically, Send and receive emails as agent@every.ai, Access and update CRM data | API key | Custom pricing available |
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |
 | [Oracle Fusion Agentic Applications](https://www.oracle.com/applications/) | ★★★★★ | REST API, native Oracle APIs, webhook | execute business decisions autonomously within guardrails, coordinate multi-agent teams with specific roles and expertise, maintain shared context across workflow steps and time | OAuth 2.0, Oracle Cloud Identity | Included with Oracle Fusion Cloud Applications subscriptions (ERP, HCM, SCM, CX) |
 | [Workday Sana Self-Service Agent](https://www.workday.com/en-us/products/sana.html) | ★★★★★ | REST API, Custom Workday API | HR workflow automation (300+ skills), Finance operations automation, Payroll management | Workday OAuth | Enterprise licensing (part of Workday Cloud suite) |
@@ -152,6 +154,8 @@ update CRM records, or take other real-world actions through it.
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
 | [TestMu AI](https://testmuai.com) | ★★★★★ | REST API, CI/CD integration, Cloud infrastructure | Agent-to-agent testing validation, Autonomous multi-agent scenario generation, Multi-modal testing (text, voice, hybrid) | API key, OAuth | Custom enterprise pricing with usage-based tiers |
+| [Dynatrace MCP Server](https://www.dynatrace.com/hub/detail/mcp-server-tools/) | ★★★★☆ | MCP, REST API, DQL | Query Dynatrace Grail in natural language, Execute DQL (Dynatrace Query Language) queries, Retrieve problem and incident details | Dynatrace API token | Free trial available; pricing depends on Dynatrace subscription |
+| [New Relic MCP Server](https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch) | ★★★★☆ | MCP, REST API | Query observability data in natural language, Retrieve alert and incident information, Analyze application performance metrics | New Relic API key | Free with New Relic account |
 | [Zapier MCP Server](https://zapier.com/mcp) | ★★★★☆ | MCP, REST API | trigger-automation, create-record, update-record | API key | freemium |
 
 ---

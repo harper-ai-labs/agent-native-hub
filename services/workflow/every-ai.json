@@ -1,0 +1,30 @@
+{
+  "name": "Every.ai",
+  "vendor": "Every",
+  "category": "workflow",
+  "description": "Agent-native platform that provides agents with programmatic access to booking, scheduling, CRM, billing, and client management. Includes email agent (agent@every.ai), MCP server for agent integration, and AI business profile for agent discovery. Purpose-built for agent-to-business interactions.",
+  "agent_native_score": 5,
+  "protocols": ["MCP", "REST API", "Email"],
+  "capabilities": [
+    "Book services and schedule meetings programmatically",
+    "Send and receive emails as agent@every.ai",
+    "Access and update CRM data",
+    "Create and manage invoices",
+    "Process payments programmatically",
+    "Query client information",
+    "Agent-to-agent chat",
+    "Business profile discovery for agents"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Custom pricing available",
+  "open_source": false,
+  "url": "https://every.ai",
+  "docs": "https://every.ai/docs",
+  "github": null,
+  "source": "https://every.ai",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "Positioned as a replacement for multiple business tools (CRM, invoicing, scheduling). Email agent is a unique capability for autonomous agent operation. MCP server enables integration with any MCP-compatible AI system.",
+  "tags": ["business-automation", "crm", "scheduling", "billing", "email-agent", "mcp-server"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Charlotte AI AgentWorks",
+  "vendor": "CrowdStrike",
+  "category": "orchestration",
+  "description": "No-code platform for building, orchestrating, and scaling custom security agents. Part of the CrowdStrike Falcon platform. Designed to enable security teams to create agentic security workforces. Built-in support for major AI models (OpenAI, Anthropic, Anthropic Claude) and partnerships with cloud providers (AWS, Google Cloud).",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Falcon Platform API"],
+  "capabilities": [
+    "Build custom security agents without code",
+    "Orchestrate multi-agent security workflows",
+    "Scale agent deployments",
+    "Integrate with Falcon platform security data",
+    "Define agent-to-human escalation rules",
+    "Monitor agent decision-making and actions",
+    "Template library for pre-built security agents"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Falcon platform credentials",
+  "pricing": "Included with Falcon platform subscription",
+  "open_source": false,
+  "url": "https://www.crowdstrike.com/en-us/products/cloud-workload-protection/falcon-platform/",
+  "docs": "https://falcon.eu-1.crowdstrike.com/documentation",
+  "github": null,
+  "source": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-charlotte-ai-agentworks-ecosystem-for-building-secure-agents/",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "Launched March 25, 2026 at RSA 2026. Key launch partners include Accenture, AWS, Anthropic, Deloitte, OpenAI, Salesforce. Explicitly designed for autonomous agent operation in security context with human-in-the-loop oversight.",
+  "tags": ["security", "agent-orchestration", "no-code", "enterprise", "cloud-native"]
+}

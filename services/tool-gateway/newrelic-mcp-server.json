@@ -1,0 +1,29 @@
+{
+  "name": "New Relic MCP Server",
+  "vendor": "New Relic",
+  "category": "tool-gateway",
+  "description": "MCP server enabling AI agents to query observability data, access alerting info, analyze performance metrics, and retrieve incident details from New Relic. Provides standardized protocol for agents to integrate New Relic insights into autonomous workflows.",
+  "agent_native_score": 4,
+  "protocols": ["MCP", "REST API"],
+  "capabilities": [
+    "Query observability data in natural language",
+    "Retrieve alert and incident information",
+    "Analyze application performance metrics",
+    "Access service level indicators (SLIs)",
+    "Query event and log data",
+    "Get topology and dependency information",
+    "Retrieve deployment and change tracking data"
+  ],
+  "interaction_model": "read-only",
+  "auth": "New Relic API key",
+  "pricing": "Free with New Relic account",
+  "open_source": true,
+  "url": "https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch",
+  "docs": "https://docs.newrelic.com/docs/agents/mcp-server/",
+  "github": "https://github.com/newrelic/mcp-server-new-relic",
+  "source": "https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "Open-source MCP server released to enable seamless agentic integrations for observability. Allows agents to autonomously gather and analyze operational data for incident response, alerting, and performance optimization.",
+  "tags": ["observability", "mcp-server", "monitoring", "incident-response", "open-source"]
+}

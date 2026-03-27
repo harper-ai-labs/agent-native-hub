@@ -1,0 +1,29 @@
+{
+  "name": "Dynatrace MCP Server",
+  "vendor": "Dynatrace",
+  "category": "tool-gateway",
+  "description": "MCP server providing agents with tools to query Dynatrace Grail, execute DQL queries, retrieve problem details, monitor Kubernetes events, and analyze vulnerabilities. Designed for agents to access contextualized observability intelligence within agentic workflows.",
+  "agent_native_score": 4,
+  "protocols": ["MCP", "REST API", "DQL"],
+  "capabilities": [
+    "Query Dynatrace Grail in natural language",
+    "Execute DQL (Dynatrace Query Language) queries",
+    "Retrieve problem and incident details",
+    "Monitor Kubernetes cluster events",
+    "Analyze security vulnerabilities",
+    "Access application performance insights",
+    "Query trace and log data"
+  ],
+  "interaction_model": "read-only",
+  "auth": "Dynatrace API token",
+  "pricing": "Free trial available; pricing depends on Dynatrace subscription",
+  "open_source": false,
+  "url": "https://www.dynatrace.com/hub/detail/mcp-server-tools/",
+  "docs": "https://docs.dynatrace.com/docs/shortlink/dynatrace-mcp-server",
+  "github": null,
+  "source": "https://www.dynatrace.com/hub/detail/mcp-server-tools/",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "Designed to enable secure and governed interactions between AI agents and Dynatrace. Supports both observability and security use cases. Natural language query capability reduces agent engineering overhead.",
+  "tags": ["observability", "mcp-server", "security", "monitoring", "kubernetes"]
+}
