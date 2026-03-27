@@ -1,0 +1,29 @@
+{
+  "name": "Oracle Private Agent Factory",
+  "vendor": "Oracle",
+  "category": "orchestration",
+  "description": "No-code agentic platform for building and deploying AI agents with Oracle AI Database 26ai. Enables agents to autonomously analyze data, make decisions with human-in-the-loop, and execute automated business workflows at scale using private enterprise data.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Oracle AI Database integration"],
+  "capabilities": [
+    "Build agents with no-code interface",
+    "Knowledge Agent for RAG from unstructured data",
+    "Data Analysis Agent for structured datasets",
+    "Autonomous decision-making",
+    "Human-in-the-loop approval workflows",
+    "Multi-agent orchestration",
+    "Private data security and isolation"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "OAuth / Oracle Cloud credentials",
+  "pricing": "Part of Oracle AI Database 26ai subscription (varies by workload)",
+  "open_source": false,
+  "url": "https://www.oracle.com/database/ai/",
+  "docs": "https://docs.oracle.com/en/database/oracle-database/26/aidug/index.html",
+  "github": null,
+  "source": "https://blogs.oracle.com/database/introducing-private-agent-factory-unlocking-the-agentic-ai-potential-in-enterprises-with-oracle-ai-database-26ai",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "Launched March 2026 at Oracle Database Day. Pre-built enterprise-ready agents included. Designed specifically for production workloads with emphasis on data privacy and security. Integrates with Oracle Cloud ecosystem.",
+  "tags": ["orchestration", "rag", "data-analysis", "enterprise", "no-code", "database-native", "2026-launch"]
+}

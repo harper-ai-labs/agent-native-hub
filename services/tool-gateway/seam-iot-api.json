@@ -1,0 +1,28 @@
+{
+  "name": "Seam",
+  "vendor": "Seam",
+  "category": "tool-gateway",
+  "description": "Unified API for controlling IoT devices (smart locks, thermostats, cameras, sensors) across 1000+ device models. Agents can unlock doors, adjust temperatures, read sensor data, and manage devices through a single, hardware-agnostic interface.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "MCP", "SDK (JavaScript, Python)"],
+  "capabilities": [
+    "Control smart locks (lock/unlock)",
+    "Manage thermostats (temperature, schedules)",
+    "Read sensor data (noise, motion, temperature)",
+    "Access camera feeds",
+    "Batch device operations",
+    "Event webhooks for automation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API Key",
+  "pricing": "Usage-based (per API call)",
+  "open_source": false,
+  "url": "https://www.seam.co/",
+  "docs": "https://docs.seam.co/",
+  "github": "https://github.com/seamapi",
+  "source": "https://docs.seam.co/latest/developer-tools/seam-mcp",
+  "verified": true,
+  "last_verified": "2026-03-27",
+  "notes": "1000+ companies use Seam, 25M+ operations monthly. MCP Server available for direct AI assistant integration. Hardware-agnostic abstraction layer simplifies IoT device orchestration for agents.",
+  "tags": ["iot", "smart-devices", "mcp", "hardware-control", "proptech", "facilities-management"]
+}
