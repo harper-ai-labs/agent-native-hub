@@ -1,0 +1,28 @@
+{
+  "name": "Blackbaud Development Agent",
+  "vendor": "Blackbaud",
+  "category": "crm",
+  "description": "Autonomous AI agent embedded in Raiser's Edge NXT for proactive donor relationship management and fundraising cultivation. Identifies, cultivates, and engages donors with personalized, brand-aligned outreach at scale.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "embedded SDK"],
+  "capabilities": [
+    "Identify donor prospects",
+    "Generate personalized outreach",
+    "Send donor engagement communications (email, SMS)",
+    "Track and log donor interactions",
+    "Recommend cultivation strategies",
+    "Manage mid-tier donor relationships at scale"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth, API key",
+  "pricing": "Included in Raiser's Edge NXT subscription",
+  "open_source": false,
+  "url": "https://www.blackbaud.com/products/blackbaud-development-agent",
+  "docs": "https://www.blackbaud.com/products/blackbaud-development-agent",
+  "github": null,
+  "source": "https://www.blackbaud.com/newsroom/article/development-agent-paul-goldstein",
+  "verified": true,
+  "last_verified": "2026-03-28",
+  "notes": "General availability launched March 17, 2026 for Raiser's Edge NXT US customers. International expansion and integration with other Blackbaud products planned for later 2026. Designed for human oversight with configurable brand voice and engagement types.",
+  "tags": ["fundraising", "donor-engagement", "nonprofit-crm", "autonomous", "newly-launched"]
+}

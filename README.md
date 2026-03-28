@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**85 services** across 11 categories | Last updated: 2026-03-27
+**88 services** across 11 categories | Last updated: 2026-03-28
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -63,6 +63,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Attio MCP Server](https://attio.com) | ★★★★★ | MCP, REST API | create-contact, update-contact, create-deal | API key | freemium |
+| [Blackbaud Development Agent](https://www.blackbaud.com/products/blackbaud-development-agent) | ★★★★★ | REST API, embedded SDK | Identify donor prospects, Generate personalized outreach, Send donor engagement communications (email, SMS) | OAuth, API key | Included in Raiser's Edge NXT subscription |
 | [Intellebox.ai](https://intellebox.ai) | ★★★★★ | REST API, SDK | AI Virtual Advisors (avatars trained on firm expertise), Autonomous client engagement and inquiry handling, Personalized wealth management recommendations | API key / OAuth | Contact for pricing |
 | [Salesforce Agentforce Sales](https://www.salesforce.com) | ★★★★★ | REST API, Salesforce SDK, MCP | lead qualification, pipeline management, proposal generation | OAuth 2.0 | Enterprise pricing (part of Salesforce suite) |
 | [Confirm](https://www.confirm.com) | ★★★★☆ | REST API, Slack integration, Microsoft Teams integration | Autonomous performance review facilitation, Manager coaching and capability building, Real-time bias detection in calibration sessions | OAuth | $8-14 per person per month (base + optional add-ons) |
@@ -128,6 +129,7 @@ update CRM records, or take other real-world actions through it.
 | [Nvidia Agent Toolkit](https://www.nvidia.com) | ★★★★★ | Python SDK, REST API | agent creation and deployment, autonomous agent orchestration, multi-agent coordination | API key | Open source (free) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Oracle Private Agent Factory](https://www.oracle.com/database/ai/) | ★★★★★ | REST API, Oracle AI Database integration | Build agents with no-code interface, Knowledge Agent for RAG from unstructured data, Data Analysis Agent for structured datasets | OAuth / Oracle Cloud credentials | Part of Oracle AI Database 26ai subscription (varies by workload) |
+| [Siemens Fuse EDA AI Agent](https://www.siemens.com/en-us/products/fuse-eda-ai-system/) | ★★★★★ | REST API, embedded toolkit, tool integration layer | Plan complex EDA workflows, Orchestrate multi-tool design automation, Generate RTL code (via Catapult) | Enterprise authentication, OAuth | Enterprise licensing model |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 | [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
 | [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) | ★★★★★ | REST API, A2A (Agent2Agent Protocol), Python SDK | build-agents, deploy-agents, scale-agents | Google Cloud IAM, OAuth | usage-based (tokens, execution time) |
@@ -137,6 +139,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Domo AI Agent Builder](https://www.domo.com) | ★★★★★ | REST API, MCP server, GraphQL | Query enterprise datasets, Trigger workflows and automation, Create dashboards and applications | API key, OAuth | Enterprise subscription model |
 | [Every.ai](https://every.ai) | ★★★★★ | MCP, REST API, Email | Book services and schedule meetings programmatically, Send and receive emails as agent@every.ai, Access and update CRM data | API key | Custom pricing available |
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |
 | [Oracle Fusion Agentic Applications](https://www.oracle.com/applications/) | ★★★★★ | REST API, native Oracle APIs, webhook | execute business decisions autonomously within guardrails, coordinate multi-agent teams with specific roles and expertise, maintain shared context across workflow steps and time | OAuth 2.0, Oracle Cloud Identity | Included with Oracle Fusion Cloud Applications subscriptions (ERP, HCM, SCM, CX) |

@@ -1,0 +1,30 @@
+{
+  "name": "Domo AI Agent Builder",
+  "vendor": "Domo",
+  "category": "workflow",
+  "description": "Platform for building custom AI agents with integrated data connectors and enterprise data access. Agents can query datasets, trigger workflows, create dashboards, and configure alerts with governed, trusted business data.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP server", "GraphQL"],
+  "capabilities": [
+    "Query enterprise datasets",
+    "Trigger workflows and automation",
+    "Create dashboards and applications",
+    "Configure alerts and operational processes",
+    "Connect to structured data warehouses",
+    "Process unstructured data (PDFs, images)",
+    "Access external APIs via JSON connector",
+    "Interact with external AI platforms (OpenAI, Google, Anthropic)"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Enterprise subscription model",
+  "open_source": false,
+  "url": "https://www.domo.com",
+  "docs": "https://www.domo.com/news/press/domo-launches-ai-agent-builder-and-mcp-serve",
+  "github": null,
+  "source": "https://www.domo.com/news/press/domo-launches-ai-agent-builder-and-mcp-serve",
+  "verified": true,
+  "last_verified": "2026-03-28",
+  "notes": "Launched March 25, 2026. Includes Domo MCP Server for external AI platform integration (ChatGPT, Gemini, Claude). Connects to Snowflake, Databricks, BigQuery, AWS. Domo Documents for unstructured data. JSON No Code connector with AI Assistant expected later in 2026.",
+  "tags": ["data-workflow", "agent-builder", "enterprise-data", "mcp", "newly-launched"]
+}

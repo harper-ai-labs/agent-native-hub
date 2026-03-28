@@ -1,0 +1,30 @@
+{
+  "name": "Siemens Fuse EDA AI Agent",
+  "vendor": "Siemens",
+  "category": "orchestration",
+  "description": "Domain-scoped autonomous AI agent for planning and orchestrating complex semiconductor, 3D IC, and PCB design workflows. Automates end-to-end design, verification, and manufacturing sign-off with built-in validation and guardrails.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "embedded toolkit", "tool integration layer"],
+  "capabilities": [
+    "Plan complex EDA workflows",
+    "Orchestrate multi-tool design automation",
+    "Generate RTL code (via Catapult)",
+    "Execute verification workflows",
+    "Optimize power, performance, area (PPA)",
+    "Generate testbenches and debugging assistance",
+    "Execute physical verification and sign-off",
+    "Provide natural language interface for EDA operations"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "Enterprise authentication, OAuth",
+  "pricing": "Enterprise licensing model",
+  "open_source": false,
+  "url": "https://www.siemens.com/en-us/products/fuse-eda-ai-system/",
+  "docs": "https://news.siemens.com/en-us/siemens-fuse-eda-ai-agent/",
+  "github": null,
+  "source": "https://news.siemens.com/en-us/siemens-fuse-eda-ai-agent/",
+  "verified": true,
+  "last_verified": "2026-03-28",
+  "notes": "Announced March 16, 2026. Built on Siemens Fuse EDA AI foundation with multimodal data lake and RAG pipeline. Leverages NVIDIA Agent Toolkit and Nemotron models. Integrates with Siemens tools (Catapult, Questa One, Tessent, Calibre) and third-party tools. Supports on-premises and air-gapped deployment for IP protection.",
+  "tags": ["semiconductor-design", "eda", "design-automation", "chip-design", "verification", "orchestration", "newly-launched"]
+}
