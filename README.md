@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**83 services** across 11 categories | Last updated: 2026-03-27
+**85 services** across 11 categories | Last updated: 2026-03-27
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -97,6 +97,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Agentalent.ai](https://agentalent.ai) | ★★★★★ | REST API, webhook | discover-agents, evaluate-agents, hire-agents | OAuth | usage-based, enterprise contracts |
 | [Agent.ai](https://agent.ai) | ★★★★☆ | REST API | discover-agents, deploy-agent, invoke-agent | API key | freemium |
 | [Google Cloud AI Agent Marketplace](https://cloud.google.com/blog/topics/partners/google-cloud-ai-agent-marketplace) | ★★★★☆ | REST API, A2A | discover-agents, deploy-agent, invoke-agent | OAuth | usage-based |
 | [Kore.ai AI Agent Marketplace](https://www.kore.ai/ai-marketplace) | ★★★★☆ | REST API, SDK | discover-agents, deploy-agent, conversation | API key | enterprise |
@@ -129,6 +130,7 @@ update CRM records, or take other real-world actions through it.
 | [Oracle Private Agent Factory](https://www.oracle.com/database/ai/) | ★★★★★ | REST API, Oracle AI Database integration | Build agents with no-code interface, Knowledge Agent for RAG from unstructured data, Data Analysis Agent for structured datasets | OAuth / Oracle Cloud credentials | Part of Oracle AI Database 26ai subscription (varies by workload) |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 | [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
+| [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) | ★★★★★ | REST API, A2A (Agent2Agent Protocol), Python SDK | build-agents, deploy-agents, scale-agents | Google Cloud IAM, OAuth | usage-based (tokens, execution time) |
 | [Microsoft Copilot Cowork](https://www.microsoft.com) | ★★★★☆ | REST API, Azure SDK | multi-agent orchestration, autonomous task execution, enterprise system integration | Azure AD / OAuth | Enterprise (part of Microsoft 365/Azure) |
 
 ## 🔄 Workflow Automation

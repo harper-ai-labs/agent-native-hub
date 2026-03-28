@@ -1,0 +1,33 @@
+{
+  "name": "Vertex AI Agent Builder",
+  "vendor": "Google Cloud",
+  "category": "orchestration",
+  "description": "Comprehensive platform for enterprises to build, deploy, scale, and govern AI agents. Includes Agent Development Kit (ADK), Agent Engine runtime, visual Agent Designer, and multi-agent coordination via Agent2Agent protocol.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "A2A (Agent2Agent Protocol)", "Python SDK", "Java SDK", "Go SDK"],
+  "capabilities": [
+    "build-agents",
+    "deploy-agents",
+    "scale-agents",
+    "observe-agents",
+    "govern-agents",
+    "multi-agent-coordination",
+    "rag-grounding",
+    "tool-integration",
+    "sandbox-execution",
+    "session-management",
+    "memory-management"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Google Cloud IAM, OAuth",
+  "pricing": "usage-based (tokens, execution time)",
+  "open_source": false,
+  "url": "https://cloud.google.com/products/agent-builder",
+  "docs": "https://cloud.google.com/docs/agent-builder",
+  "github": null,
+  "source": "https://cloud.google.com/blog/products/ai-machine-learning/more-ways-to-build-and-scale-ai-agents-with-vertex-ai-agent-builder",
+  "verified": true,
+  "last_verified": "2026-03-28",
+  "notes": "Includes Agent Development Kit (open-source framework), managed Agent Engine runtime, low-code Agent Designer (preview Dec 2025), and Agent2Agent protocol for multi-agent communication. Supports Gemini models and third-party models. Enterprise governance with Cloud IAM, observability dashboards, and security features (Model Armor, CMEK support).",
+  "tags": ["orchestration", "agent-platform", "google-cloud", "vertex-ai", "enterprise", "multi-agent", "adk"]
+}

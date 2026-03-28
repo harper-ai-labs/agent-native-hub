@@ -1,0 +1,28 @@
+{
+  "name": "Agentalent.ai",
+  "vendor": "Monday.com",
+  "category": "marketplace",
+  "description": "Managed marketplace for enterprises to discover, evaluate, hire, and deploy AI agents for defined business roles. Launched March 2026, provides agent authentication, qualification, and integration with enterprise teams.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "discover-agents",
+    "evaluate-agents",
+    "hire-agents",
+    "deploy-agents",
+    "manage-agent-lifecycle",
+    "integrate-with-enterprise-systems"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth",
+  "pricing": "usage-based, enterprise contracts",
+  "open_source": false,
+  "url": "https://agentalent.ai",
+  "docs": "https://ir.monday.com/news-and-events/news-releases/news-details/2026/monday-com-Launches-Agentalent-ai-a-Hiring-Platform-for-Enterprise-AI-Agents/default.aspx",
+  "github": null,
+  "source": "https://ir.monday.com/news-and-events/news-releases/news-details/2026/monday-com-Launches-Agentalent-ai-a-Hiring-Platform-for-Enterprise-AI-Agents/default.aspx",
+  "verified": true,
+  "last_verified": "2026-03-28",
+  "notes": "Built in collaboration with AWS and Anthropic. Enables enterprises to post AI agent roles, review qualified agents, and manage portfolios of AI workers alongside human teams. First-of-kind marketplace specifically designed for AI agent hiring and deployment.",
+  "tags": ["marketplace", "hiring", "enterprise", "agent-native", "2026-launch", "monday"]
+}
