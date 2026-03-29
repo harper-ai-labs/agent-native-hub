@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**88 services** across 11 categories | Last updated: 2026-03-28
+**91 services** across 11 categories | Last updated: 2026-03-28
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -28,6 +28,7 @@ update CRM records, or take other real-world actions through it.
 |---------|-------|-----------|--------------|------|---------|
 | [AgentMail](https://agentmail.to) | ★★★★★ | REST API, webhooks | send, receive, thread | API key | usage-based |
 | [IRONSCALES AI Email Agents](https://ironscales.com/platform/agents) | ★★★★★ | REST API, Microsoft 365 API, Google Workspace API | Continuous reconnaissance and attack simulation (Red Teaming Agent), Rapid forensic investigation of suspicious emails (Phishing SOC Agent), Hyper-personalized phishing simulations based on OSINT (Phishing Simulation Agent) | API key, OAuth 2.0 (Microsoft 365, Google Workspace) | Enterprise (contact for details) |
+| [Sequenzy](https://sequenzy.com) | ★★★★★ | MCP, REST API | create_campaigns, manage_subscribers, generate_ai_content | API key | Free up to 2,500 emails/mo, $29/mo for 50,000 emails |
 | [Assembled AI Email Agent](https://www.assembled.com/features/ai-email-agent) | ★★★★☆ | REST API | classify, draft, resolve | API key | enterprise |
 | [Carly](https://www.usecarly.com) | ★★★★☆ | REST API, email integration, calendar sync | Email parsing for scheduling content, Automatic calendar event creation, Meeting request processing | OAuth | Freemium + premium |
 | [Postmark MCP Server](https://postmarkapp.com) | ★★★★☆ | MCP, REST API | send, template-management, delivery-tracking | API key | usage-based |
@@ -67,6 +68,7 @@ update CRM records, or take other real-world actions through it.
 | [Intellebox.ai](https://intellebox.ai) | ★★★★★ | REST API, SDK | AI Virtual Advisors (avatars trained on firm expertise), Autonomous client engagement and inquiry handling, Personalized wealth management recommendations | API key / OAuth | Contact for pricing |
 | [Salesforce Agentforce Sales](https://www.salesforce.com) | ★★★★★ | REST API, Salesforce SDK, MCP | lead qualification, pipeline management, proposal generation | OAuth 2.0 | Enterprise pricing (part of Salesforce suite) |
 | [Confirm](https://www.confirm.com) | ★★★★☆ | REST API, Slack integration, Microsoft Teams integration | Autonomous performance review facilitation, Manager coaching and capability building, Real-time bias detection in calibration sessions | OAuth | $8-14 per person per month (base + optional add-ons) |
+| [GetReplies](https://getreplies.ai) | ★★★★☆ | REST API, Webhook | qualify_leads, personalize_outreach, multi_channel_outreach | API key | Platform pricing available on request |
 | [HubSpot MCP Server](https://www.hubspot.com) | ★★★★☆ | MCP, REST API | manage-contacts, manage-deals, create-tickets | API key / OAuth | freemium |
 
 ## 🎧 Support & Ticketing
@@ -103,6 +105,7 @@ update CRM records, or take other real-world actions through it.
 | [Google Cloud AI Agent Marketplace](https://cloud.google.com/blog/topics/partners/google-cloud-ai-agent-marketplace) | ★★★★☆ | REST API, A2A | discover-agents, deploy-agent, invoke-agent | OAuth | usage-based |
 | [Kore.ai AI Agent Marketplace](https://www.kore.ai/ai-marketplace) | ★★★★☆ | REST API, SDK | discover-agents, deploy-agent, conversation | API key | enterprise |
 | [Oracle AI Agent Marketplace](https://www.oracle.com/applications/fusion-ai/ai-agent-marketplace/) | ★★★★☆ | REST API | discover-agents, deploy-agent | OAuth | enterprise |
+| [Picsart AI Agent Marketplace](https://picsart.com) | ★★★★☆ | REST API, SDK | generate_images, edit_photos, design_templates | API key | Pro subscription model |
 | [Salesforce AgentExchange](https://agentexchange.salesforce.com) | ★★★★☆ | REST API, SDK | discover-agents, deploy-agent, invoke-agent | OAuth | enterprise |
 | [ServiceNow AI Agent Marketplace](https://store.servicenow.com/store/ai-marketplace) | ★★★★☆ | REST API | discover-agents, deploy-agent, workflow-automation | OAuth | enterprise |
 | [AI Agents Directory](https://aiagentsdirectory.com) | ★★★☆☆ | web | discover-agents | none | free |

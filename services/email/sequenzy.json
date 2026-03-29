@@ -1,0 +1,39 @@
+{
+  "name": "Sequenzy",
+  "vendor": "Sequenzy",
+  "category": "email",
+  "description": "Email marketing platform with native MCP server enabling complete agentic email workflows. Agents can create campaigns, manage subscribers, generate AI-powered content with account context, schedule sends, and analyze engagement—all programmatically.",
+  "agent_native_score": 5,
+  "protocols": [
+    "MCP",
+    "REST API"
+  ],
+  "capabilities": [
+    "create_campaigns",
+    "manage_subscribers",
+    "generate_ai_content",
+    "schedule_sends",
+    "analyze_engagement",
+    "segment_audience",
+    "optimize_send_times",
+    "a_b_test_variants"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Free up to 2,500 emails/mo, $29/mo for 50,000 emails",
+  "open_source": false,
+  "url": "https://sequenzy.com",
+  "docs": "https://docs.sequenzy.com",
+  "github": "https://github.com/Sequenzy",
+  "source": "https://www.sequenzy.com/email-marketing-for/agentic-email-workflows",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "Only email platform with native MCP server designed for agentic workflows. Purpose-built for autonomous agent operation with complete lifecycle control. AI content generation uses account context for personalization.",
+  "tags": [
+    "mcp-native",
+    "agentic",
+    "email-marketing",
+    "content-generation",
+    "agent-first"
+  ]
+}

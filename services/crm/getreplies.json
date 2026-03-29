@@ -1,0 +1,37 @@
+{
+  "name": "GetReplies",
+  "vendor": "GetReplies",
+  "category": "crm",
+  "description": "Agentic AI platform for B2B sales and marketing teams. Pre-built AI agents handle prospect qualification, personalized outreach, campaign optimization, and lifecycle engagement across email, LinkedIn, and phone. Focuses on outcomes rather than tasks.",
+  "agent_native_score": 4,
+  "protocols": [
+    "REST API",
+    "Webhook"
+  ],
+  "capabilities": [
+    "qualify_leads",
+    "personalize_outreach",
+    "multi_channel_outreach",
+    "campaign_optimization",
+    "lifecycle_engagement",
+    "reply_handling",
+    "prospects_list_generation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Platform pricing available on request",
+  "open_source": false,
+  "url": "https://getreplies.ai",
+  "docs": "https://platform.getreplies.ai",
+  "source": "https://getreplies.ai/blog/top-10-email-outreach-tools-for-2026/",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "Purpose-built for agentic sales workflows. Library of pre-built agents removes guesswork. Outcome-focused rather than task-focused—agents manage full lifecycle engagement.",
+  "tags": [
+    "sales-automation",
+    "multi-channel",
+    "agents-included",
+    "b2b",
+    "outreach-optimization"
+  ]
+}

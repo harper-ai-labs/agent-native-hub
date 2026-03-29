@@ -1,0 +1,36 @@
+{
+  "name": "Picsart AI Agent Marketplace",
+  "vendor": "Picsart",
+  "category": "marketplace",
+  "description": "Launched March 2026. AI agent marketplace allowing creators and businesses to automate content creation, social media workflows, and e-commerce tasks. Agents can design, edit, generate, and batch-export content across multiple platforms.",
+  "agent_native_score": 4,
+  "protocols": [
+    "REST API",
+    "SDK"
+  ],
+  "capabilities": [
+    "generate_images",
+    "edit_photos",
+    "design_templates",
+    "batch_export",
+    "multi_platform_posting",
+    "automate_workflows"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Pro subscription model",
+  "open_source": false,
+  "url": "https://picsart.com",
+  "docs": "https://picsart.com/api",
+  "source": "https://inspirepreneurmagazine.com/business/picsart-ai-agent-marketplace-creators/",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "New launch Q1 2026. Focused on creator and e-commerce automation. Agents can autonomously handle content generation and distribution pipelines.",
+  "tags": [
+    "content-creation",
+    "marketplace",
+    "automation",
+    "creative-tools",
+    "q1-2026-launch"
+  ]
+}
