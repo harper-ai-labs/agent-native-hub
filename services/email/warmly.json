@@ -1,0 +1,31 @@
+{
+  "name": "Warmly",
+  "vendor": "Warmly Inc.",
+  "category": "email",
+  "description": "Full-stack AI sales agent that identifies high-intent buying signals and autonomously executes personalized outreach campaigns. Agents detect prospect intent, personalize emails, manage follow-up sequences, and book qualified meetings without human intervention.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Webhook", "OAuth"],
+  "capabilities": [
+    "Real-time buying signal detection (website visits, CRM activity, LinkedIn engagement)",
+    "Autonomous email personalization by role/pain point/funnel stage",
+    "Automatic follow-up sequencing with dynamic optimization",
+    "Qualified meeting booking",
+    "Website visitor identification and intent tracking",
+    "Email + LinkedIn multichannel sequencing",
+    "AI Chatbot with lead qualification and meeting booking",
+    "Live video handoff to human reps",
+    "Campaign A/B testing and optimization",
+    "CRM integration (HubSpot, Salesforce)"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth for CRM/email integration",
+  "pricing": "Free tier (500 website visitors/month); Paid plans start at $10,000/year (AI Data Agent) to $25,000+/year (Marketing Ops Agent)",
+  "open_source": false,
+  "url": "https://warmly.ai",
+  "docs": "https://docs.warmly.ai",
+  "source": "https://www.warmly.ai/p/blog/ai-email-agents",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "Operates as digital SDR for B2B sales. 250M+ contact database. Component-based pricing model (pay per output). Covers entire workflow: intent detection → personalization → follow-up → booking. Integrates with CRM and sales stack.",
+  "tags": ["B2B", "sales", "SDR", "outbound", "autonomous", "intent-driven", "multichannel", "meeting-booking", "2026-featured"]
+}

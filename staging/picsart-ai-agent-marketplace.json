@@ -1,0 +1,27 @@
+{
+  "name": "Picsart AI Agent Marketplace",
+  "vendor": "Picsart",
+  "category": "marketplace",
+  "description": "Marketplace enabling creators to deploy and manage specialized AI assistants for visual content tasks including resizing, remixing, editing product images, and optimizing online stores.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": [
+    "Deploy specialized AI assistants for creators",
+    "Content resizing automation",
+    "Visual remixing and editing",
+    "Product image optimization",
+    "Online store content optimization",
+    "Batch processing for visual assets"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Marketplace model; agent pricing TBD",
+  "open_source": false,
+  "url": "https://picsart.com",
+  "docs": "https://developers.picsart.com",
+  "source": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+  "verified": false,
+  "last_verified": "2026-03-29",
+  "notes": "Launched March 2026. First-generation marketplace for visual content agents. Agent-native but marketplace is in early stage with limited integration examples. Staging for further review before full indexing.",
+  "tags": ["marketplace", "creative", "visual-content", "autonomous", "2026-new"]
+}

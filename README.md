@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**91 services** across 11 categories | Last updated: 2026-03-28
+**94 services** across 11 categories | Last updated: 2026-03-29
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -29,6 +29,7 @@ update CRM records, or take other real-world actions through it.
 | [AgentMail](https://agentmail.to) | ★★★★★ | REST API, webhooks | send, receive, thread | API key | usage-based |
 | [IRONSCALES AI Email Agents](https://ironscales.com/platform/agents) | ★★★★★ | REST API, Microsoft 365 API, Google Workspace API | Continuous reconnaissance and attack simulation (Red Teaming Agent), Rapid forensic investigation of suspicious emails (Phishing SOC Agent), Hyper-personalized phishing simulations based on OSINT (Phishing Simulation Agent) | API key, OAuth 2.0 (Microsoft 365, Google Workspace) | Enterprise (contact for details) |
 | [Sequenzy](https://sequenzy.com) | ★★★★★ | MCP, REST API | create_campaigns, manage_subscribers, generate_ai_content | API key | Free up to 2,500 emails/mo, $29/mo for 50,000 emails |
+| [Warmly](https://warmly.ai) | ★★★★★ | REST API, Webhook, OAuth | Real-time buying signal detection (website visits, CRM activity, LinkedIn engagement), Autonomous email personalization by role/pain point/funnel stage, Automatic follow-up sequencing with dynamic optimization | OAuth for CRM/email integration | Free tier (500 website visitors/month); Paid plans start at $10,000/year (AI Data Agent) to $25,000+/year (Marketing Ops Agent) |
 | [Assembled AI Email Agent](https://www.assembled.com/features/ai-email-agent) | ★★★★☆ | REST API | classify, draft, resolve | API key | enterprise |
 | [Carly](https://www.usecarly.com) | ★★★★☆ | REST API, email integration, calendar sync | Email parsing for scheduling content, Automatic calendar event creation, Meeting request processing | OAuth | Freemium + premium |
 | [Postmark MCP Server](https://postmarkapp.com) | ★★★★☆ | MCP, REST API | send, template-management, delivery-tracking | API key | usage-based |
@@ -142,6 +143,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
+| [Accio Work](https://www.alibaba.com) | ★★★★★ | REST API, no-code interface | Market analysis and competitive intelligence, Product design assistance, Supplier sourcing and RFQ management | User account authentication | Free with setup; premium tiers for advanced features |
 | [Domo AI Agent Builder](https://www.domo.com) | ★★★★★ | REST API, MCP server, GraphQL | Query enterprise datasets, Trigger workflows and automation, Create dashboards and applications | API key, OAuth | Enterprise subscription model |
 | [Every.ai](https://every.ai) | ★★★★★ | MCP, REST API, Email | Book services and schedule meetings programmatically, Send and receive emails as agent@every.ai, Access and update CRM data | API key | Custom pricing available |
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |
@@ -163,6 +165,7 @@ update CRM records, or take other real-world actions through it.
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
 | [TestMu AI](https://testmuai.com) | ★★★★★ | REST API, CI/CD integration, Cloud infrastructure | Agent-to-agent testing validation, Autonomous multi-agent scenario generation, Multi-modal testing (text, voice, hybrid) | API key, OAuth | Custom enterprise pricing with usage-based tiers |
+| [Trust Wallet Agent Kit](https://trustwallet.com) | ★★★★★ | MCP, CLI, WalletConnect | Execute crypto transactions across 25+ blockchains, Read-only access to crypto positions and data, Dollar-cost averaging automation | WalletConnect for existing wallets; dedicated agent wallet with user-configured permissions | Free SDK; premium marketplace expected |
 | [Dynatrace MCP Server](https://www.dynatrace.com/hub/detail/mcp-server-tools/) | ★★★★☆ | MCP, REST API, DQL | Query Dynatrace Grail in natural language, Execute DQL (Dynatrace Query Language) queries, Retrieve problem and incident details | Dynatrace API token | Free trial available; pricing depends on Dynatrace subscription |
 | [New Relic MCP Server](https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch) | ★★★★☆ | MCP, REST API | Query observability data in natural language, Retrieve alert and incident information, Analyze application performance metrics | New Relic API key | Free with New Relic account |
 | [Seam](https://www.seam.co/) | ★★★★☆ | REST API, MCP, SDK (JavaScript, Python) | Control smart locks (lock/unlock), Manage thermostats (temperature, schedules), Read sensor data (noise, motion, temperature) | API Key | Usage-based (per API call) |

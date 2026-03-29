@@ -1,0 +1,30 @@
+{
+  "name": "Trust Wallet Agent Kit",
+  "vendor": "Trust Wallet",
+  "category": "tool-gateway",
+  "description": "Infrastructure enabling AI agents to execute real crypto transactions across 25+ blockchains while maintaining user control. Agents can propose and execute transactions within user-defined permissions. Integrates with Model Context Protocol (MCP) and available via CLI.",
+  "agent_native_score": 5,
+  "protocols": ["MCP", "CLI", "WalletConnect", "REST API"],
+  "capabilities": [
+    "Execute crypto transactions across 25+ blockchains",
+    "Read-only access to crypto positions and data",
+    "Dollar-cost averaging automation",
+    "Limit-based trading strategies",
+    "Transaction alerts and monitoring",
+    "Permission-based autonomous execution",
+    "WalletConnect integration for user's existing wallets",
+    "Dedicated AI agent wallet with pre-configured permissions"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "WalletConnect for existing wallets; dedicated agent wallet with user-configured permissions",
+  "pricing": "Free SDK; premium marketplace expected",
+  "open_source": false,
+  "url": "https://trustwallet.com",
+  "docs": "https://developer.trustwallet.com/agent-kit",
+  "github": "https://github.com/trustwallet/agent-kit",
+  "source": "https://bitcoinmagazine.com/news/trust-wallet-launches-agent-kit",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "Launched 2026. Supports two modes: dedicated agent wallet (preconfigured permissions, no per-transaction approval) and direct user wallet connection (agents propose actions). Trust Wallet has 220M+ downloads. Expected Agent Marketplace launch later 2026.",
+  "tags": ["crypto", "blockchain", "DeFi", "autonomous", "MCP-native", "walletconnect", "bitcoin", "trading", "2026-new"]
+}

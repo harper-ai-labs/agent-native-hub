@@ -1,0 +1,30 @@
+{
+  "name": "Accio Work",
+  "vendor": "Alibaba International",
+  "category": "workflow",
+  "description": "Plug-and-play AI agent platform designed as a no-code taskforce for SMEs. Deploys specialized agents to execute complex, long-horizon operations including market analysis, design, sourcing, store optimization, inventory monitoring, compliance automation, and autonomous supplier negotiations.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "no-code interface"],
+  "capabilities": [
+    "Market analysis and competitive intelligence",
+    "Product design assistance",
+    "Supplier sourcing and RFQ management",
+    "Multi-round supplier negotiations",
+    "Store optimization and marketing automation",
+    "Inventory monitoring",
+    "Automated compliance (VAT, tax, customs) across 100+ markets",
+    "Real-time logistics integration via Telegram/WhatsApp",
+    "Dynamic agent orchestration for parallel execution"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "User account authentication",
+  "pricing": "Free with setup; premium tiers for advanced features",
+  "open_source": false,
+  "url": "https://www.alibaba.com",
+  "docs": "https://accio.alibaba.com/work",
+  "source": "https://www.digitalcommerce360.com/2026/03/24/alibaba-international-announces-ai-agent-fleets-via-accio-work/",
+  "verified": true,
+  "last_verified": "2026-03-29",
+  "notes": "Built on Accio platform (10M+ monthly active users). Uses real-time consumer trends and transaction records from Alibaba ecosystems. Security-first approach with sandboxed environments and granular permission management. Emphasizes data sovereignty.",
+  "tags": ["B2B", "commerce", "ecommerce", "SME", "orchestration", "autonomous", "multi-agent", "compliance", "sourcing", "2026-new"]
+}
