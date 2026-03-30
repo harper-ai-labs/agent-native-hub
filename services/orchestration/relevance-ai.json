@@ -1,0 +1,33 @@
+{
+  "name": "Relevance AI",
+  "vendor": "Relevance AI",
+  "category": "orchestration",
+  "description": "No-code platform for creating and deploying customer-facing AI agents and multi-agent teams. Features drag-and-drop workflow builder with Invent feature, pre-built templates, RAG integration, and seamless deployment via live chat or embedded widgets.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "Live chat API", "Webhook"],
+  "capabilities": [
+    "No-code agent builder with natural language description",
+    "Multi-agent workforce orchestration",
+    "Pre-built templates and tools",
+    "RAG (Retrieval-Augmented Generation) knowledge integration",
+    "Email sending and API calling",
+    "CRM integration",
+    "Web scraping and search",
+    "CSV analysis",
+    "Customer-facing deployment (live chat, embedded widgets)",
+    "Gemini 3 Flash integration",
+    "Spend controls for cost management"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API Key",
+  "pricing": "Tiered based on agent volume and runtime hours",
+  "open_source": false,
+  "url": "https://relevanceai.com",
+  "docs": "https://relevanceai.com/docs",
+  "github": "https://github.com/relevanceai",
+  "source": "https://relevanceai.com/blog",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Australian startup. Secured significant funding to build 'definitive home of the AI workforce.' Focuses on customer engagement and internal workflow automation. Recent 2026 enhancements include live chat commands, slide builder, saved prompts.",
+  "tags": ["no-code", "multi-agent", "customer-facing", "workflow-automation", "rag"]
+}

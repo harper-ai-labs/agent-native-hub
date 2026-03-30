@@ -1,0 +1,32 @@
+{
+  "name": "Botpress",
+  "vendor": "Botpress",
+  "category": "orchestration",
+  "description": "Agentic AI platform for building and deploying autonomous agents with reasoning loops that can pause when blocked and resume when data becomes available. Supports multi-channel deployment, tool/API calling, persistent memory, and flexible LLM selection.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "Agent Development Kit (ADK)", "Webhook"],
+  "capabilities": [
+    "Autonomous reasoning loops",
+    "Contextual memory retention",
+    "Tool and API calling",
+    "Multi-channel deployment (chat, voice, email)",
+    "CRM and email integration",
+    "Database connectivity",
+    "Custom tool creation",
+    "Visual flow building",
+    "LLM switching (GPT-4o, Claude, Gemini, open-source)",
+    "Sandboxed code execution"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API Key",
+  "pricing": "Usage-based with starter and enterprise tiers",
+  "open_source": false,
+  "url": "https://botpress.com",
+  "docs": "https://botpress.com/docs",
+  "github": "https://github.com/botpress",
+  "source": "https://botpress.com/blog/agentic-ai",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Secured $25M Series B funding for platform acceleration. Focuses on infrastructure for running agents safely at scale. Supports use cases: customer support, task automation, sales enablement, IT support.",
+  "tags": ["agentic-ai", "multi-channel", "orchestration", "autonomous-reasoning", "infrastructure"]
+}

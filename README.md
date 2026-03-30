@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**94 services** across 11 categories | Last updated: 2026-03-29
+**97 services** across 11 categories | Last updated: 2026-03-29
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -121,6 +121,7 @@ update CRM records, or take other real-world actions through it.
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
 | [Beam AI Platform (Agent OS)](https://beam.ai) | ★★★★★ | REST API, web interface | No-code agent creation from SOPs, Multi-language customer support, 24/7 availability automation | OAuth, API key | Enterprise (contact sales) |
+| [Botpress](https://botpress.com) | ★★★★★ | REST API, SDK, Agent Development Kit (ADK) | Autonomous reasoning loops, Contextual memory retention, Tool and API calling | API Key | Usage-based with starter and enterprise tiers |
 | [Calljmp](https://calljmp.com) | ★★★★★ | REST API, SDK, TypeScript | Execute agents as code in TypeScript, Manage agent state and retries, Persistent memory across agents | API key | Usage-based (contact for details) |
 | [Charlotte AI AgentWorks](https://www.crowdstrike.com/en-us/products/cloud-workload-protection/falcon-platform/) | ★★★★★ | REST API, Falcon Platform API | Build custom security agents without code, Orchestrate multi-agent security workflows, Scale agent deployments | Falcon platform credentials | Included with Falcon platform subscription |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
@@ -133,6 +134,7 @@ update CRM records, or take other real-world actions through it.
 | [Nvidia Agent Toolkit](https://www.nvidia.com) | ★★★★★ | Python SDK, REST API | agent creation and deployment, autonomous agent orchestration, multi-agent coordination | API key | Open source (free) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Oracle Private Agent Factory](https://www.oracle.com/database/ai/) | ★★★★★ | REST API, Oracle AI Database integration | Build agents with no-code interface, Knowledge Agent for RAG from unstructured data, Data Analysis Agent for structured datasets | OAuth / Oracle Cloud credentials | Part of Oracle AI Database 26ai subscription (varies by workload) |
+| [Relevance AI](https://relevanceai.com) | ★★★★★ | REST API, SDK, Live chat API | No-code agent builder with natural language description, Multi-agent workforce orchestration, Pre-built templates and tools | API Key | Tiered based on agent volume and runtime hours |
 | [Siemens Fuse EDA AI Agent](https://www.siemens.com/en-us/products/fuse-eda-ai-system/) | ★★★★★ | REST API, embedded toolkit, tool integration layer | Plan complex EDA workflows, Orchestrate multi-tool design automation, Generate RTL code (via Catapult) | Enterprise authentication, OAuth | Enterprise licensing model |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 | [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
@@ -144,6 +146,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Accio Work](https://www.alibaba.com) | ★★★★★ | REST API, no-code interface | Market analysis and competitive intelligence, Product design assistance, Supplier sourcing and RFQ management | User account authentication | Free with setup; premium tiers for advanced features |
+| [Cognition Devin](https://cognition.ai) | ★★★★★ | Cloud IDE API, Browser automation, CLI | Write complete code from scratch, Debug existing code, Plan and execute complex projects | OAuth / API token | $20/month (as of April 2025 Devin 2.0 release) |
 | [Domo AI Agent Builder](https://www.domo.com) | ★★★★★ | REST API, MCP server, GraphQL | Query enterprise datasets, Trigger workflows and automation, Create dashboards and applications | API key, OAuth | Enterprise subscription model |
 | [Every.ai](https://every.ai) | ★★★★★ | MCP, REST API, Email | Book services and schedule meetings programmatically, Send and receive emails as agent@every.ai, Access and update CRM data | API key | Custom pricing available |
 | [Novaworks.ai](https://novaworks.ai) | ★★★★★ | REST API, ServiceNow integration, OAuth | AI agents for employee lifecycle management, Autonomous payroll and benefits processing, Workforce planning agents | OAuth, ServiceNow authentication | Enterprise (contact sales) |

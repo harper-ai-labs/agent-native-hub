@@ -1,0 +1,32 @@
+{
+  "name": "Cognition Devin",
+  "vendor": "Cognition Labs",
+  "category": "workflow",
+  "description": "Autonomous AI software engineer agent capable of end-to-end software development tasks including coding, debugging, planning, and deployment. Operates in a sandboxed environment with shell, code editor, and browser. Can schedule and manage multiple Devin instances in parallel.",
+  "agent_native_score": 5,
+  "protocols": ["Cloud IDE API", "Browser automation", "CLI"],
+  "capabilities": [
+    "Write complete code from scratch",
+    "Debug existing code",
+    "Plan and execute complex projects",
+    "Build and deploy applications",
+    "Review pull requests",
+    "Learn unfamiliar technologies",
+    "Fine-tune and train models",
+    "Contribute to codebases",
+    "Manage multiple parallel instances",
+    "Interactive collaboration with engineers"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth / API token",
+  "pricing": "$20/month (as of April 2025 Devin 2.0 release)",
+  "open_source": false,
+  "url": "https://cognition.ai",
+  "docs": "https://cognition.ai/docs",
+  "github": "https://github.com/cognition-ai",
+  "source": "https://cognition.ai/blog/devin-annual-performance-review-2025",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Enterprise adoption by Goldman Sachs, Santander, Nubank. Merged hundreds of thousands of pull requests in production codebases. Devin 2.0 introduced cloud-based IDE with parallel instance support.",
+  "tags": ["software-engineering", "autonomous", "coding", "debugging", "deployment", "multi-agent-orchestration"]
+}
