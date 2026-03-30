@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**97 services** across 11 categories | Last updated: 2026-03-29
+**101 services** across 11 categories | Last updated: 2026-03-30
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -127,6 +127,7 @@ update CRM records, or take other real-world actions through it.
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
 | [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
 | [Domo MCP Server](https://www.domo.com/) | ★★★★★ | MCP, REST API | Query datasets and analytics, Trigger workflows and automation, Create dashboards and applications | OAuth | Enterprise (contact sales) |
+| [Gumloop](https://www.gumloop.com/) | ★★★★★ | REST API, Webhook, Slack API | Agent deployment and orchestration, Multi-agent coordination, Slack integration for agent interaction | API key, OAuth | Custom pricing (enterprise) |
 | [JetBrains Central](https://console.jetbrains.cloud/) | ★★★★★ | REST API, cloud-execution, IDE-integration | Multi-agent orchestration and coordination, Cloud agent runtimes and computation provisioning, Policy enforcement and identity/access management | OAuth / API key (details pending EAP) | Per-organization pricing model (details pending Q2 2026 launch) |
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | ★★★★★ | SDK, REST API | graph-orchestration, stateful-agents, multi-agent | API key | open-source + hosted |
 | [Mistral Agents API](https://mistral.ai/news/agents-api) | ★★★★★ | REST API, Python SDK, MCP | Multi-agent orchestration and handoffs, Code execution in sandboxed environment, Web search and information retrieval | API key | Pay-per-use (API consumption) |
@@ -139,7 +140,9 @@ update CRM records, or take other real-world actions through it.
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 | [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
 | [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) | ★★★★★ | REST API, A2A (Agent2Agent Protocol), Python SDK | build-agents, deploy-agents, scale-agents | Google Cloud IAM, OAuth | usage-based (tokens, execution time) |
+| [Zep](https://www.getzep.com/) | ★★★★★ | REST API, SDK | Context assembly from multiple sources, Unified context graph management, Graph RAG for retrieval | API key | Free tier + usage-based pricing |
 | [Microsoft Copilot Cowork](https://www.microsoft.com) | ★★★★☆ | REST API, Azure SDK | multi-agent orchestration, autonomous task execution, enterprise system integration | Azure AD / OAuth | Enterprise (part of Microsoft 365/Azure) |
+| [StackAI](https://www.stackai.com/) | ★★★★☆ | REST API, Webhook, Enterprise integrations | Agentic workflow orchestration, Enterprise process automation, No-code agent creation | OAuth, API key | Custom pricing (enterprise) |
 
 ## 🔄 Workflow Automation
 
@@ -166,6 +169,7 @@ update CRM records, or take other real-world actions through it.
 | [Composio](https://composio.dev) | ★★★★★ | REST API, SDK, MCP | tool-routing, auth-management, trigger | API key | freemium |
 | [E2B Code Interpreter Sandbox](https://e2b.dev) | ★★★★★ | SDK (Python/TypeScript/Node.js), REST API, Firecracker microVMs | Secure code execution (Python, JavaScript, Ruby, C++), File system access and manipulation, Terminal command execution | API key | Pay-as-you-go + enterprise plans |
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
+| [Google Managed MCP Servers](https://cloud.google.com/docs/mcp/overview) | ★★★★★ | MCP, REST API | Google Maps integration, BigQuery access, Google Kubernetes Engine access | Google Cloud IAM | Part of Google Cloud pricing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
 | [TestMu AI](https://testmuai.com) | ★★★★★ | REST API, CI/CD integration, Cloud infrastructure | Agent-to-agent testing validation, Autonomous multi-agent scenario generation, Multi-modal testing (text, voice, hybrid) | API key, OAuth | Custom enterprise pricing with usage-based tiers |
 | [Trust Wallet Agent Kit](https://trustwallet.com) | ★★★★★ | MCP, CLI, WalletConnect | Execute crypto transactions across 25+ blockchains, Read-only access to crypto positions and data, Dollar-cost averaging automation | WalletConnect for existing wallets; dedicated agent wallet with user-configured permissions | Free SDK; premium marketplace expected |

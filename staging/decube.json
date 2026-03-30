@@ -1,0 +1,27 @@
+{
+  "name": "Decube",
+  "vendor": "Decube Inc",
+  "category": "orchestration",
+  "description": "Data context platform for data and AI. Provides high-fidelity context for AI agents through persistent statistical memory and enterprise-grade profiler. Enables agents to reason accurately, detect drift, and avoid hallucinations.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Webhook"],
+  "capabilities": [
+    "Statistical memory for agent context",
+    "Data behavior tracking",
+    "Drift detection",
+    "Hallucination prevention",
+    "Historical data baselines",
+    "Enterprise data governance"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Custom pricing",
+  "open_source": false,
+  "url": "https://www.decube.io/",
+  "docs": "https://docs.decube.io/",
+  "source": "https://www.decube.io/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Specialized data context platform for AI agents. Recently launched new Profiler for high-fidelity context. Positioned as enabling more reliable agent reasoning over time.",
+  "tags": ["data-context", "memory", "drift-detection", "data-governance"]
+}

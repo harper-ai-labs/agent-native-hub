@@ -1,0 +1,31 @@
+{
+  "name": "Google Managed MCP Servers",
+  "vendor": "Google Cloud",
+  "category": "tool-gateway",
+  "description": "Fully-managed, production-ready MCP servers for AI agents to interact securely with Google and Google Cloud services. Provides unified discoverability, enterprise security with Cloud IAM and VPC-SC integration, and integrated observability.",
+  "agent_native_score": 5,
+  "protocols": ["MCP", "REST API"],
+  "capabilities": [
+    "Google Maps integration",
+    "BigQuery access",
+    "Google Kubernetes Engine access",
+    "Cloud Run management",
+    "Google Cloud service access",
+    "Secure agent communication",
+    "Cloud IAM integration",
+    "VPC-SC integration",
+    "Model Armor security"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "Google Cloud IAM",
+  "pricing": "Part of Google Cloud pricing",
+  "open_source": false,
+  "url": "https://cloud.google.com/docs/mcp/overview",
+  "docs": "https://docs.cloud.google.com/mcp/overview",
+  "github": "",
+  "source": "https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-ai-agents-with-google-managed-mcp-servers",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Recently launched Google-hosted endpoints for agent access to Google services. Production-ready infrastructure with no provisioning required. Part of broader Google agent infrastructure push.",
+  "tags": ["mcp", "google-cloud", "production", "managed", "secure"]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Zep",
+  "vendor": "Zep AI",
+  "category": "orchestration",
+  "description": "Context engineering and memory platform for AI agents. Assembles right context from chat history, business data, and user behavior using unified context graph and Graph RAG. Provides 200ms context retrieval.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": [
+    "Context assembly from multiple sources",
+    "Unified context graph management",
+    "Graph RAG for retrieval",
+    "Chat history management",
+    "Business data integration",
+    "User behavior tracking"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Free tier + usage-based pricing",
+  "open_source": false,
+  "url": "https://www.getzep.com/",
+  "docs": "https://docs.getzep.com/",
+  "github": "https://github.com/getzep",
+  "source": "https://www.getzep.com/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Built specifically for AI agents, handles context engineering which is critical for agent reasoning. Works with any agent framework.",
+  "tags": ["memory", "context", "retrieval", "rag", "agents"]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "StackAI",
+  "vendor": "StackAI Inc",
+  "category": "orchestration",
+  "description": "Enterprise AI agent transformation platform. Deploy secure, compliant AI agents at scale using no-code drag-and-drop interface. Multi-tenant, VPC, and on-premise deployment options with 100+ enterprise integrations.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "Webhook", "Enterprise integrations"],
+  "capabilities": [
+    "Agentic workflow orchestration",
+    "Enterprise process automation",
+    "No-code agent creation",
+    "Multi-tenant deployment",
+    "VPC deployment",
+    "On-premise deployment",
+    "Feature controls and governance",
+    "Audit logging",
+    "100+ enterprise integrations",
+    "Read/write/execute actions in enterprise systems"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth, API key",
+  "pricing": "Custom pricing (enterprise)",
+  "open_source": false,
+  "url": "https://www.stackai.com/",
+  "docs": "https://docs.stackai.com/",
+  "source": "https://www.stackai.com/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Enterprise-focused agent platform with extensive compliance and security features. White-glove support included.",
+  "tags": ["enterprise", "orchestration", "no-code", "compliance", "governance"]
+}

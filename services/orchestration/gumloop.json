@@ -1,0 +1,30 @@
+{
+  "name": "Gumloop",
+  "vendor": "Gumloop AI",
+  "category": "orchestration",
+  "description": "AI automation framework and agent orchestration platform. Deploy specialized agents in minutes with native integrations to Slack, Teams, and email. Enterprise-grade infrastructure with role-based access, VPC deployment, and audit logging.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "Webhook", "Slack API", "Teams API", "Email"],
+  "capabilities": [
+    "Agent deployment and orchestration",
+    "Multi-agent coordination",
+    "Slack integration for agent interaction",
+    "Teams integration",
+    "Email-based agent interaction",
+    "Credential management and secrets",
+    "Audit logging",
+    "Usage monitoring and controls",
+    "AI model restrictions"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Custom pricing (enterprise)",
+  "open_source": false,
+  "url": "https://www.gumloop.com/",
+  "docs": "https://www.gumloop.com/docs",
+  "source": "https://www.gumloop.com/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Agent-native platform with strong focus on agent orchestration and workplace integration. Trusted by Gusto and other AI-forward enterprises.",
+  "tags": ["orchestration", "automation", "slack", "teams", "multi-agent", "enterprise"]
+}
