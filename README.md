@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**104 services** across 11 categories | Last updated: 2026-03-30
+**104 services** across 11 categories | Last updated: 2026-03-31
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -103,7 +103,7 @@ update CRM records, or take other real-world actions through it.
 
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
-| [Agentalent.ai](https://agentalent.ai) | ★★★★★ | REST API, webhook | discover-agents, evaluate-agents, hire-agents | OAuth | usage-based, enterprise contracts |
+| [Agentalent.ai](https://agentalent.ai) | ★★★★★ | REST API, web interface | Agent discovery and evaluation, Role-based agent matching, Agent authentication and qualification | API key / OAuth | Starting from $2,000/month |
 | [Agent.ai](https://agent.ai) | ★★★★☆ | REST API | discover-agents, deploy-agent, invoke-agent | API key | freemium |
 | [Google Cloud AI Agent Marketplace](https://cloud.google.com/blog/topics/partners/google-cloud-ai-agent-marketplace) | ★★★★☆ | REST API, A2A | discover-agents, deploy-agent, invoke-agent | OAuth | usage-based |
 | [Kore.ai AI Agent Marketplace](https://www.kore.ai/ai-marketplace) | ★★★★☆ | REST API, SDK | discover-agents, deploy-agent, conversation | API key | enterprise |
