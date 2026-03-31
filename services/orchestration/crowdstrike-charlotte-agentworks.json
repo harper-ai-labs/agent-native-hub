@@ -1,0 +1,28 @@
+{
+  "name": "CrowdStrike Charlotte AI AgentWorks",
+  "vendor": "CrowdStrike",
+  "category": "orchestration",
+  "description": "No-code development platform for building, testing, and deploying custom security AI agents. Integrates with CrowdStrike Falcon platform and partner ecosystems (AWS, Anthropic, OpenAI). Enables teams to create autonomous security agents for threat response and incident management.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "build custom security agents",
+    "autonomous threat detection",
+    "incident response automation",
+    "integration with Falcon platform",
+    "partner ecosystem access",
+    "no-code agent composition"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.crowdstrike.com/",
+  "docs": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-charlotte-ai-agentworks-ecosystem-for-building-secure-agents/",
+  "github": null,
+  "source": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-charlotte-ai-agentworks-ecosystem-for-building-secure-agents/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Launched at RSA Conference 2026. No-code builder for security-specific agents. Ecosystem includes AWS, Anthropic, and OpenAI partnerships.",
+  "tags": ["security", "threat-response", "incident-management", "no-code", "RSAC-2026"]
+}

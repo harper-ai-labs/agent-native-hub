@@ -1,0 +1,27 @@
+{
+  "name": "Lucidya Enterprise AI Agent Platform",
+  "vendor": "Lucidya",
+  "category": "support",
+  "description": "Enterprise AI agent platform built specifically for Arabic markets. Provides scalable, autonomous customer service across 15+ Arabic dialects with cultural intelligence. Designed for regional customization and localization.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "multilingual Arabic dialect support",
+    "autonomous customer service",
+    "cultural context awareness",
+    "regional market adaptation",
+    "scalable agent deployment"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://lucidya.com/",
+  "docs": "https://lucidya.com/platform",
+  "github": null,
+  "source": "https://www.newsfilecorp.com/release/289313/Lucidya-Launches-Enterprise-AI-Agent-Platform-Accelerates-Regional-Expansion",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Regional focus on Arabic-speaking markets. Score: 4 (agent-first but with regional specialization constraints). Recommend verify broader market applicability.",
+  "tags": ["customer-service", "regional", "multilingual", "Arabic", "2026-launch"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Orca Security AI Agents",
+  "vendor": "Orca Security",
+  "category": "orchestration",
+  "description": "AI-first cloud defense platform featuring specialized agents for threat investigation and automated risk analysis. Includes Threat Investigation Agent that automatically correlates data across cloud environments for comprehensive security insights.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "threat investigation automation",
+    "risk analysis and correlation",
+    "cloud environment scanning",
+    "automated remediation recommendations",
+    "cross-environment data correlation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.orcasecurity.io/",
+  "docs": "https://www.orcasecurity.io/platform/ai-agents",
+  "github": null,
+  "source": "https://www.crn.com/news/security/2026/20-coolest-ai-and-security-products-at-rsac-2026",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Score: 4 (agent-first cloud defense, but verification of direct agent orchestration capability needed). RSAC 2026 launch.",
+  "tags": ["cloud-security", "threat-investigation", "risk-analysis", "RSAC-2026", "2026-launch"]
+}

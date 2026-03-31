@@ -1,0 +1,28 @@
+{
+  "name": "Salesforce Agentforce Contact Center",
+  "vendor": "Salesforce",
+  "category": "support",
+  "description": "Unified AI agent platform for contact center operations. Integrates voice, digital channels, CRM data, and AI agents into a single system. Enables AI agents and human operators to work together for scalable customer self-service and support.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "handle inbound voice calls",
+    "manage digital channel conversations",
+    "access CRM data in real-time",
+    "autonomous customer service",
+    "escalation to human operators",
+    "integration with contact center infrastructure"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "OAuth 2.0",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.salesforce.com/products/service-cloud/agentforce/",
+  "docs": "https://developer.salesforce.com/docs/einstein/genai/",
+  "github": null,
+  "source": "https://cloudwars.com/ai/salesforce-agentforce-contact-center-brings-unified-data-and-ai-agents-to-customer-service/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Extends Agentforce ecosystem from sales to customer service. Multi-channel (voice + digital) support with agent-to-human escalation.",
+  "tags": ["contact-center", "voice", "CRM-integrated", "multi-channel", "2026-launch"]
+}

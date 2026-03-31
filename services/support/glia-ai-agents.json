@@ -1,0 +1,28 @@
+{
+  "name": "Glia AI Agents",
+  "vendor": "Glia Technologies Inc.",
+  "category": "support",
+  "description": "AI-native platform for banking and financial services customer interactions. Includes Glia CoPilot (self-learning AI tool) and Glia Banker (autonomous agent for customer/member interactions). Designed to autonomously resolve up to 80% of routine inquiries across channels.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK"],
+  "capabilities": [
+    "autonomous customer inquiry resolution",
+    "self-learning and adaptation",
+    "omnichannel customer interactions",
+    "integration with banking systems",
+    "automated escalation",
+    "real-time decision making"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.glia.com/",
+  "docs": "https://www.glia.com/ai-agents",
+  "github": null,
+  "source": "https://www.planadviser.com/ai-product-service-launches-3-30-2026/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Specialized for banking/financial services. Glia CoPilot is an adaptive learning tool; Glia Banker handles customer interactions with high autonomy.",
+  "tags": ["banking", "financial-services", "customer-service", "self-learning", "2026-launch"]
+}

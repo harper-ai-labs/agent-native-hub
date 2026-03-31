@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**101 services** across 11 categories | Last updated: 2026-03-30
+**104 services** across 11 categories | Last updated: 2026-03-30
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -77,7 +77,9 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Console](https://www.console.com) | ★★★★★ | REST API, webhook, natural language playbooks | Auto-resolve IT service requests, Password reset automation, Access provisioning | OAuth | Enterprise (custom) |
+| [Glia AI Agents](https://www.glia.com/) | ★★★★★ | REST API, SDK | autonomous customer inquiry resolution, self-learning and adaptation, omnichannel customer interactions | API key | Enterprise |
 | [Lucidya](https://lucidya.com) | ★★★★★ | REST API, webhook, SDK | handle customer conversations autonomously, detect and respond to customer intents, understand 15+ Arabic dialects with 92%+ accuracy | API key | Enterprise tier (ROI-based: 60-70% cost reduction, 90%+ FCR) |
+| [Salesforce Agentforce Contact Center](https://www.salesforce.com/products/service-cloud/agentforce/) | ★★★★★ | REST API, webhook | handle inbound voice calls, manage digital channel conversations, access CRM data in real-time | OAuth 2.0 | Enterprise |
 | [Intercom Fin AI Agent](https://www.intercom.com/fin) | ★★★★☆ | REST API, webhooks | resolve-ticket, answer-questions, escalate | API key | usage-based |
 | [Zendesk AI Agent](https://www.zendesk.com/ai) | ★★★☆☆ | REST API, webhooks | route-ticket, auto-respond, classify-intent | API key / OAuth | enterprise |
 
@@ -125,6 +127,7 @@ update CRM records, or take other real-world actions through it.
 | [Calljmp](https://calljmp.com) | ★★★★★ | REST API, SDK, TypeScript | Execute agents as code in TypeScript, Manage agent state and retries, Persistent memory across agents | API key | Usage-based (contact for details) |
 | [Charlotte AI AgentWorks](https://www.crowdstrike.com/en-us/products/cloud-workload-protection/falcon-platform/) | ★★★★★ | REST API, Falcon Platform API | Build custom security agents without code, Orchestrate multi-agent security workflows, Scale agent deployments | Falcon platform credentials | Included with Falcon platform subscription |
 | [CrewAI](https://www.crewai.com) | ★★★★★ | SDK | role-based-agents, task-delegation, multi-agent | API key | open-source + enterprise |
+| [CrowdStrike Charlotte AI AgentWorks](https://www.crowdstrike.com/) | ★★★★★ | REST API, webhook | build custom security agents, autonomous threat detection, incident response automation | API key | Enterprise |
 | [Discern Security](https://www.discernsecurity.com) | ★★★★★ | REST API, integration hub | Automated security controls assessment, Real-time security posture visibility, Vulnerability prioritization and remediation planning | API key | Enterprise (contact sales) |
 | [Domo MCP Server](https://www.domo.com/) | ★★★★★ | MCP, REST API | Query datasets and analytics, Trigger workflows and automation, Create dashboards and applications | OAuth | Enterprise (contact sales) |
 | [Gumloop](https://www.gumloop.com/) | ★★★★★ | REST API, Webhook, Slack API | Agent deployment and orchestration, Multi-agent coordination, Slack integration for agent interaction | API key, OAuth | Custom pricing (enterprise) |

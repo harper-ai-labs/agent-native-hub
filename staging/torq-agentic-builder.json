@@ -1,0 +1,27 @@
+{
+  "name": "Torq Agentic Builder",
+  "vendor": "Torq",
+  "category": "orchestration",
+  "description": "Natural-language agentic AI builder for security operations. Enables security teams to describe desired security outcomes in plain language, which the platform uses to automatically generate custom Torq AI agents for tasks like alert management and incident response.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhook"],
+  "capabilities": [
+    "natural-language agent generation",
+    "alert management automation",
+    "incident response orchestration",
+    "custom security workflow creation",
+    "human-readable outcome specification"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.torq.io/",
+  "docs": "https://www.torq.io/features/agentic-builder",
+  "github": null,
+  "source": "https://www.crn.com/news/security/2026/20-coolest-ai-and-security-products-at-rsac-2026",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Score: 4 (agent-first NLP-to-agents builder). Natural language → agent generation is novel. RSAC 2026 showcase.",
+  "tags": ["security", "incident-response", "natural-language", "no-code", "RSAC-2026", "2026-launch"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Confirm Unified AI Agents HR Platform",
+  "vendor": "Confirm",
+  "category": "workflow",
+  "description": "AI-native performance management platform that replaces traditional HR AI tools with autonomous agents. Unified system covering employee onboarding, performance management, manager coaching, and employee service desk automation.",
+  "agent_native_score": 4,
+  "protocols": ["REST API"],
+  "capabilities": [
+    "autonomous employee onboarding",
+    "automated performance management",
+    "AI-powered manager coaching",
+    "employee service desk automation",
+    "HR workflow orchestration"
+  ],
+  "interaction_model": "human-in-the-loop",
+  "auth": "API key",
+  "pricing": "Enterprise",
+  "open_source": false,
+  "url": "https://www.confirm.io/",
+  "docs": "https://www.confirm.io/hr-platform",
+  "github": null,
+  "source": "https://lasvegassun.com/news/2026/mar/23/confirm-launches-ai-agents-platform-for-performanc/",
+  "verified": true,
+  "last_verified": "2026-03-30",
+  "notes": "Score: 4 (agent-native HR platform with human-in-the-loop). Replaces previous point solutions with unified agents.",
+  "tags": ["HR", "performance-management", "employee-onboarding", "service-desk", "2026-launch"]
+}
