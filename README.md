@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**104 services** across 11 categories | Last updated: 2026-03-31
+**107 services** across 11 categories | Last updated: 2026-04-01
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -139,6 +139,7 @@ update CRM records, or take other real-world actions through it.
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | ★★★★★ | SDK, REST API | agent-creation, tool-use, handoff | API key | usage-based |
 | [Oracle Private Agent Factory](https://www.oracle.com/database/ai/) | ★★★★★ | REST API, Oracle AI Database integration | Build agents with no-code interface, Knowledge Agent for RAG from unstructured data, Data Analysis Agent for structured datasets | OAuth / Oracle Cloud credentials | Part of Oracle AI Database 26ai subscription (varies by workload) |
 | [Relevance AI](https://relevanceai.com) | ★★★★★ | REST API, SDK, Live chat API | No-code agent builder with natural language description, Multi-agent workforce orchestration, Pre-built templates and tools | API Key | Tiered based on agent volume and runtime hours |
+| [RunLobster](https://www.runlobster.com) | ★★★★★ | REST API, webhook, integration-native | autonomous task execution, PDF generation, Excel model creation | API key | Usage-based (custom for enterprise) |
 | [Siemens Fuse EDA AI Agent](https://www.siemens.com/en-us/products/fuse-eda-ai-system/) | ★★★★★ | REST API, embedded toolkit, tool integration layer | Plan complex EDA workflows, Orchestrate multi-tool design automation, Generate RTL code (via Catapult) | Enterprise authentication, OAuth | Enterprise licensing model |
 | [Tray.ai](https://tray.io) | ★★★★★ | REST API, Webhooks, MCP | No-code agent builder (Merlin), ITSM agent for IT support automation, HR agent for policy automation, PTO, profile updates | API key, OAuth | Enterprise (custom) |
 | [Vellum AI](https://vellum.ai) | ★★★★★ | REST API, Python SDK, TypeScript SDK | Agent building from natural language prompts, Multi-step workflow orchestration, Autonomous agent execution | API key, SSO/SAML | Custom enterprise pricing |
@@ -159,6 +160,7 @@ update CRM records, or take other real-world actions through it.
 | [Oracle Fusion Agentic Applications](https://www.oracle.com/applications/) | ★★★★★ | REST API, native Oracle APIs, webhook | execute business decisions autonomously within guardrails, coordinate multi-agent teams with specific roles and expertise, maintain shared context across workflow steps and time | OAuth 2.0, Oracle Cloud Identity | Included with Oracle Fusion Cloud Applications subscriptions (ERP, HCM, SCM, CX) |
 | [Workday Sana Self-Service Agent](https://www.workday.com/en-us/products/sana.html) | ★★★★★ | REST API, Custom Workday API | HR workflow automation (300+ skills), Finance operations automation, Payroll management | Workday OAuth | Enterprise licensing (part of Workday Cloud suite) |
 | [n8n](https://n8n.io) | ★★★★☆ | REST API, webhooks, SDK | workflow-execution, trigger, condition | API key | open-source + cloud |
+| [Pipedream](https://pipedream.com) | ★★★★☆ | REST API, webhook, SDK | workflow automation, AI agent deployment, API integration | API key, OAuth | Freemium, usage-based paid tiers |
 | [Reclaim.ai](https://reclaim.ai) | ★★★★☆ | REST API, calendar integration, automation workflows | Intelligent time blocking, Focus time protection, Habit and task scheduling | OAuth | Freemium + premium |
 | [Make (formerly Integromat)](https://www.make.com) | ★★★☆☆ | REST API, webhooks | trigger-scenario, monitor-run, data-mapping | API key | freemium |
 
@@ -179,6 +181,7 @@ update CRM records, or take other real-world actions through it.
 | [Dynatrace MCP Server](https://www.dynatrace.com/hub/detail/mcp-server-tools/) | ★★★★☆ | MCP, REST API, DQL | Query Dynatrace Grail in natural language, Execute DQL (Dynatrace Query Language) queries, Retrieve problem and incident details | Dynatrace API token | Free trial available; pricing depends on Dynatrace subscription |
 | [New Relic MCP Server](https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch) | ★★★★☆ | MCP, REST API | Query observability data in natural language, Retrieve alert and incident information, Analyze application performance metrics | New Relic API key | Free with New Relic account |
 | [Seam](https://www.seam.co/) | ★★★★☆ | REST API, MCP, SDK (JavaScript, Python) | Control smart locks (lock/unlock), Manage thermostats (temperature, schedules), Read sensor data (noise, motion, temperature) | API Key | Usage-based (per API call) |
+| [SiliconFlow](https://www.siliconflow.com) | ★★★★☆ | REST API, OpenAI-compatible, SDK | unified API for multiple LLMs, real-time tool use, agentic workflow orchestration | API key | Pay-as-you-go (token-based) |
 | [Zapier MCP Server](https://zapier.com/mcp) | ★★★★☆ | MCP, REST API | trigger-automation, create-record, update-record | API key | freemium |
 
 ---

@@ -1,0 +1,28 @@
+{
+  "name": "SiliconFlow",
+  "vendor": "SiliconFlow",
+  "category": "tool-gateway",
+  "description": "AI cloud platform providing unified API access for building, deploying, and scaling AI agents. OpenAI-compatible API with focus on agentic workflows and real-time tool use.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "OpenAI-compatible", "SDK"],
+  "capabilities": [
+    "unified API for multiple LLMs",
+    "real-time tool use",
+    "agentic workflow orchestration",
+    "function calling",
+    "streaming responses",
+    "agent deployment",
+    "model routing"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Pay-as-you-go (token-based)",
+  "open_source": false,
+  "url": "https://www.siliconflow.com",
+  "docs": "https://docs.siliconflow.com",
+  "source": "https://www.siliconflow.com/articles/en/Build-AI-agent-with-API",
+  "verified": true,
+  "last_verified": "2026-04-01",
+  "notes": "Specifically designed for agentic workflows. Provides OpenAI-compatible interface, making it easy to migrate existing agent code. Strong emphasis on real-time tool calling and agent orchestration.",
+  "tags": ["agentic", "multi-model", "tool-gateway", "orchestration", "openai-compatible"]
+}

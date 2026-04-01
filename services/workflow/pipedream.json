@@ -1,0 +1,30 @@
+{
+  "name": "Pipedream",
+  "vendor": "Pipedream (now Workday)",
+  "category": "workflow",
+  "description": "Integration and workflow automation platform that connects APIs, AI, databases and services. Recently emphasizing AI agent capabilities for automating complex workflows. Now part of Workday.",
+  "agent_native_score": 4,
+  "protocols": ["REST API", "webhook", "SDK", "GraphQL"],
+  "capabilities": [
+    "workflow automation",
+    "AI agent deployment",
+    "API integration",
+    "scheduled execution",
+    "webhook handling",
+    "data transformation",
+    "multi-step automation",
+    "real-time event processing"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key, OAuth",
+  "pricing": "Freemium, usage-based paid tiers",
+  "open_source": true,
+  "url": "https://pipedream.com",
+  "docs": "https://pipedream.com/docs",
+  "github": "https://github.com/PipedreamHQ/pipedream",
+  "source": "https://pipedream.com",
+  "verified": true,
+  "last_verified": "2026-04-01",
+  "notes": "Acquired by Workday in Nov 2025. Platform recently expanded AI agent capabilities with 'Prompt, run, and deploy AI agents in seconds' feature. Trusted by 1M+ developers. Focus on code-first integration workflows.",
+  "tags": ["workflow-automation", "ai-agents", "integration-platform", "open-source", "acquired-by-workday"]
+}

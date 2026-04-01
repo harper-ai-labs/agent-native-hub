@@ -1,0 +1,33 @@
+{
+  "name": "RunLobster",
+  "vendor": "RunLobster",
+  "category": "orchestration",
+  "description": "An autonomous AI agent with its own computer that browses, codes, emails, builds, and ships. Connects to 3,000+ integrations including Stripe, HubSpot, Meta Ads, Google Ads, Notion, Linear, and GitHub. Features deep memory and task execution capabilities.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "webhook", "integration-native"],
+  "capabilities": [
+    "autonomous task execution",
+    "PDF generation",
+    "Excel model creation",
+    "PowerPoint presentation building",
+    "web application development",
+    "meeting follow-ups",
+    "CRM updates",
+    "workflow automation",
+    "ad spend auditing",
+    "browser automation",
+    "code execution",
+    "email management"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Usage-based (custom for enterprise)",
+  "open_source": false,
+  "url": "https://www.runlobster.com",
+  "docs": "https://www.runlobster.com/docs",
+  "source": "https://www.nexgenarchitects.com/blog-posts/agentic-ai-predictions-2026",
+  "verified": true,
+  "last_verified": "2026-04-01",
+  "notes": "Described as 'S-tier' solution for agent-native task execution. Agent connects to 3,000+ integrations and can deliver real business outputs autonomously. Particularly strong for automated report generation, workflow optimization, and business process automation.",
+  "tags": ["autonomous", "multi-integration", "task-execution", "business-automation", "2026-launch"]
+}
