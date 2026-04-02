@@ -1,0 +1,27 @@
+{
+  "name": "Tavily Search API",
+  "vendor": "Tavily",
+  "category": "tool-gateway",
+  "description": "Real-time web search, extraction, and research API designed specifically for AI agents. Provides structured, fact-grounded results with 180ms p50 latency, intelligent caching, and production-grade security. Used by 1M+ developers and handles 100M+ monthly requests.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP integration"],
+  "capabilities": [
+    "Real-time web search",
+    "Content extraction and chunking",
+    "Live data retrieval with structured output",
+    "Research endpoint for in-depth queries",
+    "Intelligent caching and indexing"
+  ],
+  "interaction_model": "read-only",
+  "auth": "API Key",
+  "pricing": "Pay-as-you-go (1M+ monthly requests SLA)",
+  "open_source": false,
+  "url": "https://www.tavily.com/",
+  "docs": "https://docs.tavily.com/",
+  "github": "https://github.com/tavily-ai",
+  "source": "https://www.tavily.com/",
+  "verified": true,
+  "last_verified": "2026-04-02",
+  "notes": "Built from the ground up for AI agents. Prevents hallucination by grounding models with fresh web context. Security layers block PII leakage and prompt injection. Integrated with OpenAI, Anthropic, Groq. Partners include Databricks, IBM, JetBrains. Raised $25M Series A.",
+  "tags": ["search", "web-data", "research", "rag", "agent-native", "mcp"]
+}

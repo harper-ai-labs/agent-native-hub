@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**110 services** across 11 categories | Last updated: 2026-04-01
+**112 services** across 11 categories | Last updated: 2026-04-02
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -177,8 +177,10 @@ update CRM records, or take other real-world actions through it.
 | [Composio](https://composio.dev) | ★★★★★ | REST API, SDK, MCP | tool-routing, auth-management, trigger | API key | freemium |
 | [E2B Code Interpreter Sandbox](https://e2b.dev) | ★★★★★ | SDK (Python/TypeScript/Node.js), REST API, Firecracker microVMs | Secure code execution (Python, JavaScript, Ruby, C++), File system access and manipulation, Terminal command execution | API key | Pay-as-you-go + enterprise plans |
 | [Fast.io Agentic Workspace](https://fast.io) | ★★★★★ | REST API, MCP (14 native tools), CLI | Shared project workspaces for agents and humans, Semantic search across files (AI-indexed), Retrieval-augmented generation (RAG) | API key, OAuth | 50GB free tier with credits; $10-40/mo plans; enterprise licensing |
+| [Firecrawl Web Data API](https://www.firecrawl.dev/) | ★★★★★ | REST API, MCP, CLI | Web page scraping to JSON/Markdown/HTML, Screenshot capture and analysis, Agent interaction (/interact endpoint) - click, type, extract | API Key | Free tier available, pay-as-you-go scaling |
 | [Google Managed MCP Servers](https://cloud.google.com/docs/mcp/overview) | ★★★★★ | MCP, REST API | Google Maps integration, BigQuery access, Google Kubernetes Engine access | Google Cloud IAM | Part of Google Cloud pricing |
 | [MCP Server Directories](https://mcpmarket.com) | ★★★★★ | MCP | tool-discovery, tool-connection | varies | free |
+| [Tavily Search API](https://www.tavily.com/) | ★★★★★ | REST API, MCP integration | Real-time web search, Content extraction and chunking, Live data retrieval with structured output | API Key | Pay-as-you-go (1M+ monthly requests SLA) |
 | [TestMu AI](https://testmuai.com) | ★★★★★ | REST API, CI/CD integration, Cloud infrastructure | Agent-to-agent testing validation, Autonomous multi-agent scenario generation, Multi-modal testing (text, voice, hybrid) | API key, OAuth | Custom enterprise pricing with usage-based tiers |
 | [Trust Wallet Agent Kit](https://trustwallet.com) | ★★★★★ | MCP, CLI, WalletConnect | Execute crypto transactions across 25+ blockchains, Read-only access to crypto positions and data, Dollar-cost averaging automation | WalletConnect for existing wallets; dedicated agent wallet with user-configured permissions | Free SDK; premium marketplace expected |
 | [Dynatrace MCP Server](https://www.dynatrace.com/hub/detail/mcp-server-tools/) | ★★★★☆ | MCP, REST API, DQL | Query Dynatrace Grail in natural language, Execute DQL (Dynatrace Query Language) queries, Retrieve problem and incident details | Dynatrace API token | Free trial available; pricing depends on Dynatrace subscription |

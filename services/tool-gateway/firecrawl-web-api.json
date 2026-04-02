@@ -1,0 +1,27 @@
+{
+  "name": "Firecrawl Web Data API",
+  "vendor": "Firecrawl",
+  "category": "tool-gateway",
+  "description": "Web scraping and crawling API purpose-built for AI agents. Provides structured output (JSON, Markdown, HTML), screenshot extraction, and agent interaction capability. Trusted by 80,000+ companies. Offers MCP integration and CLI harness for immediate agent onboarding.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP", "CLI", "Agent onboarding skill"],
+  "capabilities": [
+    "Web page scraping to JSON/Markdown/HTML",
+    "Screenshot capture and analysis",
+    "Agent interaction (/interact endpoint) - click, type, extract",
+    "Real-time data extraction",
+    "Batch crawling"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API Key",
+  "pricing": "Free tier available, pay-as-you-go scaling",
+  "open_source": false,
+  "url": "https://www.firecrawl.dev/",
+  "docs": "https://docs.firecrawl.dev/",
+  "github": "https://github.com/mendableai/firecrawl",
+  "source": "https://www.firecrawl.dev/",
+  "verified": true,
+  "last_verified": "2026-04-02",
+  "notes": "Explicitly designed as 'Agent Ready' with dedicated onboarding flow. /interact endpoint allows agents to perform browser actions. Provides both oneshot harness (npx firecrawl-cli) and MCP server for immediate integration. Multi-format output (JSON, Markdown, HTML). Active development with new /interact feature.",
+  "tags": ["web-scraping", "agent-native", "mcp", "browser-automation", "data-extraction"]
+}
