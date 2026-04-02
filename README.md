@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**107 services** across 11 categories | Last updated: 2026-04-01
+**110 services** across 11 categories | Last updated: 2026-04-01
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -104,6 +104,7 @@ update CRM records, or take other real-world actions through it.
 | Service | Score | Protocols | Capabilities | Auth | Pricing |
 |---------|-------|-----------|--------------|------|---------|
 | [Agentalent.ai](https://agentalent.ai) | ★★★★★ | REST API, web interface | Agent discovery and evaluation, Role-based agent matching, Agent authentication and qualification | API key / OAuth | Starting from $2,000/month |
+| [Human API Mobile Platform](https://www.humanapi.co/) | ★★★★★ | REST API, SDK, webhook | Direct task specification from AI agents, Human contributor network management, Payment processing for human tasks | API key | Task-based + platform fee structure |
 | [Agent.ai](https://agent.ai) | ★★★★☆ | REST API | discover-agents, deploy-agent, invoke-agent | API key | freemium |
 | [Google Cloud AI Agent Marketplace](https://cloud.google.com/blog/topics/partners/google-cloud-ai-agent-marketplace) | ★★★★☆ | REST API, A2A | discover-agents, deploy-agent, invoke-agent | OAuth | usage-based |
 | [Kore.ai AI Agent Marketplace](https://www.kore.ai/ai-marketplace) | ★★★★☆ | REST API, SDK | discover-agents, deploy-agent, conversation | API key | enterprise |
@@ -121,6 +122,8 @@ update CRM records, or take other real-world actions through it.
 | [Agentuity](https://agentuity.com) | ★★★★★ | REST API, SDK, gRPC | Build and deploy agentic applications, Long-running agent execution with pausing/resuming, Stateful persistence and session management | API key / SDK auth | Usage-based (compute, storage, execution time) |
 | [Alibaba Wukong](https://www.alibaba.com) | ★★★★★ | REST API, SDK | coordinate multiple agents, document automation, transcription processing | API key | Invitation-only beta (pricing TBD) |
 | [Model Context Protocol (MCP)](https://modelcontextprotocol.io) | ★★★★★ | MCP | tool-connection, resource-access, prompt-sharing | varies | free |
+| [AWS DevOps Agent](https://aws.amazon.com/devops-agent/) | ★★★★★ | REST API, MCP, webhook | Autonomous incident investigation, Telemetry correlation across CloudWatch, Datadog, Dynatrace, New Relic, Splunk, Code and deployment analysis from GitHub/GitLab | AWS IAM credentials / API keys | Usage-based (began charging April 10, 2026) |
+| [AWS Security Agent](https://aws.amazon.com/security-agent/) | ★★★★★ | REST API, MCP, webhook | Autonomous penetration testing, Security vulnerability investigation, Threat detection and response | AWS IAM credentials / API keys | Usage-based (launched April 2026) |
 | [Axiory.ai](https://axiory.ai) | ★★★★★ | REST API, MCP | access global financial markets, trade multiple asset classes, real-time market data | API key | Custom |
 | [Beam AI Platform (Agent OS)](https://beam.ai) | ★★★★★ | REST API, web interface | No-code agent creation from SOPs, Multi-language customer support, 24/7 availability automation | OAuth, API key | Enterprise (contact sales) |
 | [Botpress](https://botpress.com) | ★★★★★ | REST API, SDK, Agent Development Kit (ADK) | Autonomous reasoning loops, Contextual memory retention, Tool and API calling | API Key | Usage-based with starter and enterprise tiers |

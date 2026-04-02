@@ -1,0 +1,27 @@
+{
+  "name": "AWS DevOps Agent",
+  "vendor": "Amazon Web Services",
+  "category": "orchestration",
+  "description": "Autonomous frontier agent for cloud operations that independently investigates production incidents, correlates telemetry and code data, and reduces Mean Time to Resolution (MTTR) by up to 75% with 94% root cause accuracy.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP", "webhook"],
+  "capabilities": [
+    "Autonomous incident investigation",
+    "Telemetry correlation across CloudWatch, Datadog, Dynatrace, New Relic, Splunk",
+    "Code and deployment analysis from GitHub/GitLab",
+    "Proactive incident prevention",
+    "Custom agent skills and reporting",
+    "Multi-cloud support (AWS, Azure) and on-premises"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "AWS IAM credentials / API keys",
+  "pricing": "Usage-based (began charging April 10, 2026)",
+  "open_source": false,
+  "url": "https://aws.amazon.com/devops-agent/",
+  "docs": "https://docs.aws.amazon.com/devops-agent/",
+  "source": "https://aws.amazon.com/blogs/mt/announcing-general-availability-of-aws-devops-agent/",
+  "verified": true,
+  "last_verified": "2026-04-02",
+  "notes": "Generally available as of March 31, 2026. Represents AWS's frontier agent approach to autonomous operations. Requires integration with CI/CD pipelines and observability platforms.",
+  "tags": ["frontier-agent", "autonomous", "incident-management", "devops", "multi-cloud", "mcp-enabled"]
+}

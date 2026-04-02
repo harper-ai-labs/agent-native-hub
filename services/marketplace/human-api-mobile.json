@@ -1,0 +1,28 @@
+{
+  "name": "Human API Mobile Platform",
+  "vendor": "Human API",
+  "category": "marketplace",
+  "description": "Agent-native platform enabling AI agents to directly specify and assign human labeling tasks, bridging the gap between AI capabilities and human judgment. Agents can hire human contributors for data labeling, annotation, and specialized tasks.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "webhook"],
+  "capabilities": [
+    "Direct task specification from AI agents",
+    "Human contributor network management",
+    "Payment processing for human tasks",
+    "Data labeling and annotation workflows",
+    "Physical world task coordination",
+    "Domain expert access for specialized work"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Task-based + platform fee structure",
+  "open_source": false,
+  "url": "https://www.humanapi.co/",
+  "docs": "https://developer.humanapi.co/",
+  "github": null,
+  "source": "https://hackernoon.com/the-app-that-lets-ai-agents-hire-you-human-api-goes-mobile-with-a-$65mn-long-on-human-data",
+  "verified": true,
+  "last_verified": "2026-04-02",
+  "notes": "Launched mobile platform January 2026 with $65M funding. Creates agent-native data labeling industry where agents directly interact with human contributor network without managed service intermediaries.",
+  "tags": ["agent-native", "human-in-the-loop", "data-labeling", "marketplace", "autonomous", "last-mile"]
+}

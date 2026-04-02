@@ -1,0 +1,27 @@
+{
+  "name": "AWS Security Agent",
+  "vendor": "Amazon Web Services",
+  "category": "orchestration",
+  "description": "Autonomous frontier agent for security testing and cloud operations that conducts penetration tests and security investigations independently, reducing need for human oversight in critical security tasks.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "MCP", "webhook"],
+  "capabilities": [
+    "Autonomous penetration testing",
+    "Security vulnerability investigation",
+    "Threat detection and response",
+    "Compliance assessment automation",
+    "Security configuration analysis",
+    "Incident response automation"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "AWS IAM credentials / API keys",
+  "pricing": "Usage-based (launched April 2026)",
+  "open_source": false,
+  "url": "https://aws.amazon.com/security-agent/",
+  "docs": "https://docs.aws.amazon.com/security-agent/",
+  "source": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+  "verified": true,
+  "last_verified": "2026-04-02",
+  "notes": "Launched April 2026 as part of AWS frontier agents initiative. Autonomously conducts security testing and investigations with minimal human intervention.",
+  "tags": ["frontier-agent", "autonomous", "security", "penetration-testing", "compliance", "mcp-enabled"]
+}
