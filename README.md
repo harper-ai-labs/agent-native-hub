@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**112 services** across 11 categories | Last updated: 2026-04-02
+**112 services** across 11 categories | Last updated: 2026-04-04
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
