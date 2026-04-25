@@ -1,0 +1,30 @@
+{
+  "name": "Steel",
+  "vendor": "Steel",
+  "category": "browser",
+  "description": "Open-source browser infrastructure API purpose-built for AI agents. Provides cloud browser sessions with CAPTCHA solving, proxy/fingerprinting controls, long-lived sessions, and SDK support for agentic web automation.",
+  "agent_native_score": 5,
+  "protocols": ["REST API", "SDK", "Playwright", "Puppeteer", "Selenium"],
+  "capabilities": [
+    "navigate",
+    "scrape",
+    "extract-structured-data",
+    "fill-form",
+    "screenshot",
+    "pdf",
+    "session-management",
+    "captcha-solving"
+  ],
+  "interaction_model": "autonomous",
+  "auth": "API key",
+  "pricing": "Free tier ($10 credits/month); paid plans from $29/month",
+  "open_source": true,
+  "url": "https://steel.dev",
+  "docs": "https://docs.steel.dev/",
+  "github": "https://github.com/steel-dev/steel-browser",
+  "source": "https://steel.dev/",
+  "verified": true,
+  "last_verified": "2026-04-25",
+  "notes": "Steel explicitly markets itself as an open-source browser API for AI agents and publishes agent-specific integrations and cookbook examples for OpenAI, Claude, browser-use, Magnitude, and Notte.",
+  "tags": ["browser", "web-automation", "agent-infrastructure", "open-source", "captcha-solving", "cloud-browser"]
+}

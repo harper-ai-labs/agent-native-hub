@@ -2,7 +2,7 @@
 
 > A continuously-updated catalog of services, tools, and platforms built specifically for AI agents to use.
 
-**112 services** across 11 categories | Last updated: 2026-04-04
+**113 services** across 11 categories | Last updated: 2026-04-25
 
 Maintained by [Harper Labs](https://github.com/harper-labs) | Contributions welcome
 
@@ -57,6 +57,7 @@ update CRM records, or take other real-world actions through it.
 | [Google Colab MCP Server](https://colab.google/) | ★★★★★ | MCP, Model Context Protocol | Add and structure notebook cells, Write and execute Python code in real-time, Move and organize cells | Google account / OAuth | Free (Google Colab standard) |
 | [Perplexity Comet](https://www.perplexity.ai) | ★★★★★ | Browser API, Native integration | autonomous web navigation, form filling and data extraction, product comparison | Perplexity account | Freemium with premium tier |
 | [Stagehand](https://github.com/browserbase/stagehand) | ★★★★★ | SDK | navigate, act, extract | API key | open-source + hosted |
+| [Steel](https://steel.dev) | ★★★★★ | REST API, SDK, Playwright | navigate, scrape, extract-structured-data | API key | Free tier ($10 credits/month); paid plans from $29/month |
 | [Vercel Labs agent-browser](https://github.com/vercel-labs/agent-browser) | ★★★★★ | SDK | navigate, click, fill-form | none | free |
 | [Bright Data Agent Browser](https://brightdata.com/products/scraping-browser) | ★★★★☆ | REST API, Puppeteer, Playwright | Scalable browser automation, Built-in CAPTCHA solving, Automatic proxy rotation | API credentials | Pay-as-you-go at $8/GB or included GB plans ($5-7/GB, 71-399GB/month) |
 
